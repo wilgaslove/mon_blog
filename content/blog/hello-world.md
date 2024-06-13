@@ -13,3 +13,7 @@ draft: false
 ## Mon premier blog
 
 Ceci est un paragraphe.
+
+::btn
+Un boutton
+::
