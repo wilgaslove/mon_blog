@@ -1,8 +1,8 @@
 <template>
   <div>
-      {{ route }}
+      {{  }}
 
-     <ContentDoc path="/blog/hello-world"> <!-- Balise pour voir les blog disponible -->
+     <ContentDoc :path="path"> <!-- Balise pour voir les blog disponible -->
       
       <template #not-found>
         <div>
@@ -16,8 +16,7 @@
 </template>
 
 <script lang="ts" setup>
-const route = useRoute();
-console.log(route.path);
+const path = useRoute().path;
 
 
 </script>
