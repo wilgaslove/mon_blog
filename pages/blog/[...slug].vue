@@ -1,10 +1,14 @@
 <template>
   <div>
-    <ContentDoc>
+     <ContentDoc> <!-- Balise pour voir les blog disponible -->
       <template #not-found>
+        <div>
+          <p>😭 Aucun blog trouvé...</p>
+
+        </div>
       
       </template>
-    </ContentDoc>
+    </ContentDoc> 
   </div>
 </template>
 

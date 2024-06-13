@@ -1,6 +1,9 @@
 <template>
   <button class="border shadow-md">
-    <slot />
+    <div class="felx gap-2">
+      <slot name="icon"/>
+      <slot />   <!-- Slot par défaut-->   
+    </div>
   </button>
 </template>
 

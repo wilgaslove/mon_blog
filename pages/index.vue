@@ -4,7 +4,7 @@
       Bienvenue sur mon blog 🚀👩‍🚀
     </h1>
 
-    <AppButton>Mon button</AppButton>
+    
   </div>
 </template>
 
