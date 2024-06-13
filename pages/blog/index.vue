@@ -1,12 +1,14 @@
 <template>
   <div>
-    <ContentList path="/blog">
+    <ContentList path="/blog"  :query="query">
        <template #default="{list}">
-        <!-- <p>{{ list }}</p> -->
         <div v-for="(blog, index) in list" :key="index" class="bg-white shodow-md round-2xl">
+          <div class="h-[320px]">
+            <img :src="'~/assets/img' + blog.thumbnail" alt="">
+          </div>
           <h2 class="font-bold text-2xl">{{ blog.title }}</h2>
           <p v-if="blog.description">{{ blog.description }}</p>
-          <p>{{ blog.date }}</p>
+          <p>{{ formateDate(blog.date) }}</p>
         </div>
       
        </template>
@@ -19,8 +21,16 @@
 </template>
 
 <script lang="ts" setup>
-import {  } from "module";
+import type { QueryBuilderParams } from '@nuxt/content/dist/runtime/types'
+const query: QueryBuilderParams = { 
+  path: '/blog', 
+  sort: [{ date: -1 }] 
+  // limit: 5,
+}
 
+function formateDate(date:string) {
+  return useDateFormat(date, "YYY-MM-DD") ;
+}
 
 </script>
 

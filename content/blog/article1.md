@@ -4,8 +4,8 @@ description: 'Un article qui permet...' #description dela page
 tags: ["programmation, "tech", "JS"]
 slug: 'mon-article-1'
 thumbnail: 'img/pexels-ander-garcia-1317358711-25016476.jpg'
+date: '2023-06-13'
 draft: false
-# date: '2024-06-13'
 ---
 
 # Article 1

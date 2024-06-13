@@ -1,7 +1,7 @@
 <template>
   <div>
     <header>
-      <ul>
+      <ul class="felx my-8 gap-2">
         <li><NuxtLink to="/">Accueil</NuxtLink></li>
         <li><NuxtLink to="/blog">Voir mon blog</NuxtLink></li>
       </ul>
