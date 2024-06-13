@@ -1,6 +1,6 @@
 <template>
   <div>
-     <ContentDoc> <!-- Balise pour voir les blog disponible -->
+     <ContentDoc path="/blog/hello-world"> <!-- Balise pour voir les blog disponible -->
       <template #not-found>
         <div>
           <p>😭 Aucun blog trouvé...</p>
