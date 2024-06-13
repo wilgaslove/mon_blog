@@ -1,9 +1,8 @@
 <template>
   <div>
-      {{  }}
+      {{ route }}
 
-     <ContentDoc :path="path"> <!-- Balise pour voir les blog disponible -->
-      
+     <!-- <ContentDoc :path="path"> 
       <template #not-found>
         <div>
           <p>😭 Aucun blog trouvé...</p>
@@ -11,12 +10,12 @@
         </div>
       
       </template>
-    </ContentDoc> 
+    </ContentDoc>  -->
   </div>
 </template>
 
 <script lang="ts" setup>
-const path = useRoute().path;
+const route = useRoute();
 
 
 </script>

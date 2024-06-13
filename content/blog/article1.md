@@ -8,3 +8,5 @@ description: 'meta description de la page'
 ## Mon premier blog
 
 Ceci est un paragraphe.
+
+Comment apprendre le JS

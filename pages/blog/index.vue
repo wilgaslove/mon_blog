@@ -1,10 +1,13 @@
 <template>
   <div>
-    index blog
+    <ContentList path="/blog">
+       
+    </ContentList>
   </div>
 </template>
 
 <script lang="ts" setup>
+
 
 </script>
 
