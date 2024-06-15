@@ -1,10 +1,10 @@
 <template>
   <div>
     <ContentList path="/blog"  :query="query">
-       <template #default="{list}">
-        <div v-for="(blog, index) in list" :key="index" class="bg-white shadow-md round-2xl">
-          <div class="h-[320px]">
-            <img :src=" blog.thumbnail" alt="">
+       <template #default="{list}" class="bg-red-600" >
+        <div v-for="(blog, index) in list" :key="index" class="bg-white shadow-md round-2xl mb-1">
+          <div class="h-[320px] ">
+            <img :src=" blog.thumbnail" alt="" class="w-full h-full object-cover">
           </div>
           <h2 class="font-bold text-2xl">
             <NuxtLink :to="'/blog/' + blog.slug">{{ blog.title }}</NuxtLink>

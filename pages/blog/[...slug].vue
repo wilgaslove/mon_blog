@@ -1,7 +1,7 @@
 <template>
   <div>
 
-     <ContentDoc v-slot="{doc}" tag="article" :path="path"> 
+     <ContentDoc v-slot="{doc}" tag="article" :path="path" class="bg-white"> 
 
       <!--En-tête du blog-->
       <div class="text-center p-5">
