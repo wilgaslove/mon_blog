@@ -1,9 +1,9 @@
 ---
 title: 'Ma page Hello World'
 description: 'meta description de la page'
-tags: ["New generation, "changeur radical", "un soldat du christ"]
+tags: ["New generation", "changeur radical", "un soldat du christ"]
 slug: 'hello-world'
-thumbnail: 'img/pexels-mantasink-18664364.jpg'
+thumbnail: 'img/concept-intelligence-artificielle-robot-futuriste_31965-6958.webp'
 date: '2023-06-13'
 draft: false
 ---

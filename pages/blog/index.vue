@@ -4,7 +4,7 @@
        <template #default="{list}">
         <div v-for="(blog, index) in list" :key="index" class="bg-white shadow-md round-2xl">
           <div class="h-[320px]">
-            <img :src="'~/assets/img' + blog.thumbnail" alt="">
+            <img :src=" blog.thumbnail" alt="">
           </div>
           <h2 class="font-bold text-2xl">
             <NuxtLink :to="'/blog/' + blog.slug">{{ blog.title }}</NuxtLink>
