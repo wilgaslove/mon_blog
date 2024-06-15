@@ -26,12 +26,12 @@
 import type { QueryBuilderParams } from '@nuxt/content/dist/runtime/types'
 const query: QueryBuilderParams = { 
   path: '/blog', 
-  sort: [{ date: -1 }] 
+  sort: [{ date: 1 }] 
   // limit: 5,
 }
 
 function formatDate(date:string) {
-  return useDateFormat(date, "YYY-MM-DD") ;
+  return useDateFormat(date, "YYYY-MM-DD") ;
 }
 
 </script>
