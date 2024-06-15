@@ -3,7 +3,7 @@ title: 'Ma page Hello World'
 description: 'meta description de la page'
 tags: ["New generation", "changeur radical", "un soldat du christ"]
 slug: 'hello-world'
-thumbnail: 'img/concept-intelligence-artificielle-robot-futuriste_31965-6958.webp'
+thumbnail: '/img/pexels-ander-garcia-1317358711-25016476.jpg'
 date: '2023-06-13'
 draft: false
 ---
