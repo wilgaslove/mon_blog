@@ -13,7 +13,7 @@
       </div>
 
       <!-- Contenu du blog -->
-       <ContentRenderer :value="doc" class="content"/>
+       <ContentRenderer :value="doc" class="content "/>
 
 
 
@@ -44,9 +44,13 @@ const path = useRoute().path;
 .content h4:not(:last-child),
 .content pre:not(:last-child),
 .content table:not(:last-child) {
-    @apply mb-4;
-}
+  @apply mb-4;
+  }
 
+  .article {
+    margin-top: 5rem;
+  }
+  
 .content h1 {
     @apply text-3xl font-bold;
 }

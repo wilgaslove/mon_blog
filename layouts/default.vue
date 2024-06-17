@@ -1,7 +1,7 @@
 <template>
   <div>
-    <header>
-      <ul class=" my-8 gap-2">
+    <header class="relative">
+      <ul class="flex my-8  justify-between fixed top-2 left-0 right-0">
         <li><NuxtLink to="/">Accueil</NuxtLink></li>
         <li><NuxtLink to="/blog">Voir mon blog</NuxtLink></li>
         <li><NuxtLink to="/blog/benin">Bénin</NuxtLink></li>

@@ -1,22 +1,24 @@
 <template>
   <div>
-    <ContentList path="/blog"  :query="query">
-       <template #default="{list}" class="bg-red-600" >
-        <div v-for="(blog, index) in list" :key="index" class="bg-white shadow-md round-2xl mb-1">
-          <div class="h-[320px] ">
-            <img :src=" blog.thumbnail" alt="" class="w-full h-full object-cover">
+    <ContentList path="/blog"  :query="query" >
+       <template #default="{list}">
+        <div class="mt-[12%]">
+          <div v-for="(blog, index) in list" :key="index" class="bg-white shadow-md round-2xl mb-1 ">
+            <div class="h-[320px] ">
+              <img :src=" blog.thumbnail" alt="" class="w-full h-full object-cover">
+            </div>
+            <h2 class="font-bold text-2xl">
+              <NuxtLink :to="'/blog/' + blog.slug">{{ blog.title }}</NuxtLink>
+            </h2>
+            <p v-if="blog.description">{{ blog.description }}</p>
+            <p>{{ formatDate(blog.date) }}</p>
           </div>
-          <h2 class="font-bold text-2xl">
-            <NuxtLink :to="'/blog/' + blog.slug">{{ blog.title }}</NuxtLink>
-          </h2>
-          <p v-if="blog.description">{{ blog.description }}</p>
-          <p>{{ formatDate(blog.date) }}</p>
         </div>
       
        </template>
 
        <template #not-found>
-        <p>Aucun article trouvé</p>
+        <p  class="mt-[50%]">Aucun article trouvé</p>
        </template>
     </ContentList>
   </div>
@@ -37,5 +39,8 @@ function formatDate(date:string) {
 </script>
 
 <style>
+.article{
+  margin-top: 10rem;
+}
 
 </style>
