@@ -35,7 +35,6 @@ const query: QueryBuilderParams = {
 function formatDate(date:string) {
   return useDateFormat(date, "YYYY-MM-DD") ;
 }
-
 </script>
 
 <style>

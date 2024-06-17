@@ -4,8 +4,8 @@ description: 'Un article qui permet...'
 tags: ["programmation", "tech", "JS"]
 slug: 'article1'
 thumbnail: '/img/concept-intelligence-artificielle-robot-futuriste_31965-6958.webp'
-date: '2023-06-13'
 draft: false
+date: '2023-06-13'
 ---
 
 ## L'Intelligence Artificielle : Une Révolution Technologique

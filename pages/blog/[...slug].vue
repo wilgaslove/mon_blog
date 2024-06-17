@@ -6,15 +6,15 @@
       <!--En-tête du blog-->
       <div class="text-center p-5">
         <h1 class="text-4xl font-semibold">{{ doc.title }}</h1>
+        <img :src="doc.thumbnail" alt="" class="w-full h-full object-cover pt-[2%]">
+        </div>
+        
+        <!-- Contenu du blog -->
+        <ContentRenderer :value="doc" class="content "/>
+        
         <p class="text-gray-500 text-sm mt-2">
           {{ doc.date  }}
         </p>
-        <img :src="doc.thumbnail" alt="" class="w-full h-full object-cover">
-      </div>
-
-      <!-- Contenu du blog -->
-       <ContentRenderer :value="doc" class="content "/>
-
 
 
       <!-- <template #not-found>
