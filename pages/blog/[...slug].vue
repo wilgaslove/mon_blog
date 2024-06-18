@@ -9,6 +9,9 @@
         <img :src="doc.thumbnail" alt="" class="w-full h-full object-cover pt-[2%]">
       </div>
         
+      <p class="text-gray-500 text-sm mt-2">
+        {{ doc.date  }}
+      </p>
         <!-- Contenu du blog -->
         <ContentRenderer :value="doc" class="content mb-[10%]"/>
         
@@ -17,9 +20,6 @@
 
       
       <footer class="flex justify-between fixed bottom-0 left-0 right-0  bg-black text-lg text-white py-5 px-4 shadow-md">
-        <p class="text-gray-500 text-sm mt-2">
-          {{ doc.date  }}
-        </p>
       </footer>
     </ContentDoc> 
   </div>
