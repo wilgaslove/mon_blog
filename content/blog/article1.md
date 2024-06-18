@@ -8,7 +8,7 @@ draft: false
 date: '2023-06-13'
 ---
 
-## L'Intelligence Artificielle : Une Révolution Technologique
+# L'Intelligence Artificielle : Une Révolution Technologique
 
 ## Introduction
 
