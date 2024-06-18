@@ -12,18 +12,19 @@
         <!-- Contenu du blog -->
         <ContentRenderer :value="doc" class="content "/>
         
-        <p class="text-gray-500 text-sm mt-2">
-          {{ doc.date  }}
-        </p>
+        
 
 
       <!-- <template #not-found>
         <div>
           <p>😭 Aucun blog trouvé...</p>
-
         </div>
-      
       </template> -->
+      <footer>
+        <p class="text-gray-500 text-sm mt-2">
+          {{ doc.date  }}
+        </p>
+      </footer>
     </ContentDoc> 
   </div>
 </template>
