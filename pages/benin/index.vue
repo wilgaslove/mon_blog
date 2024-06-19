@@ -8,7 +8,7 @@
               <img :src="benin.thumbnail" alt="" class="w-full h-full object-cover">
             </div>
             <h2 class="font-bold text-2xl">
-              <<NuxtLink :to="'/benin' +benin.slug">{{ benin.title }}</NuxtLink>
+              <<NuxtLink :to="'/benin/' +benin.slug">{{ benin.title }}</NuxtLink>
             </h2>
             <p v-if="benin.description">{{ benin.description }}</p>
             <p>{{ formatDate(benin.date) }}</p>
