@@ -1,12 +1,12 @@
 <template>
   <div>
-    <ContentDoc v-slot="{doc}" tag="article" path="/benin" class="bg-white">
+    <ContentDoc v-slot="{doc}" tag="article" :path="path" class="bg-white">
       <div class="text-center p-5">
         <h1 class="text-4xl font-semibold">{{ doc.title }}</h1>
         <img :src="doc.thumbnail" alt="" class="w-full h-full object-cover pt-[2%]">
         </div>
         
-        
+        <!-- Contenu du blog -->
         <ContentRenderer :value="doc" class="content"/>
         
         <p class="text-gray-500 text-sm mt-2">
@@ -19,7 +19,7 @@
 </template>
 
 <script lang="ts" setup>
-const benin = useRoute().path;
+const path = useRoute().path;
 
 </script>
 
