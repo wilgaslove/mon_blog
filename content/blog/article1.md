@@ -1,5 +1,5 @@
 ---
-title: 'Article 1'
+title: 'L`intelligence artificiel (IA)'
 description: 'Un article qui permet...'
 tags: ["programmation", "tech", "JS"]
 slug: 'article1'
