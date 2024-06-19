@@ -2,7 +2,7 @@
 title: 'Article 1'
 description: 'Un article qui permet...'
 tags: ["argent", "finance", "cfa", "économie"]
-slug: 'Economie'
+slug: 'economie'
 thumbnail:  '/img/099b3223c09f7a709775fe5f2e8d600026f2926f.webp'
 date: '2023-06-17'
 draft: false
