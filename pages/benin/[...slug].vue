@@ -1,3 +1,4 @@
+
 <template>
   <div>
     <ContentDoc v-slot="{doc}" tag="article" :path="path" class="bg-white">
@@ -20,8 +21,9 @@
 
 <script lang="ts" setup>
 const path = useRoute().path;
-
 </script>
+
+
 
 <style>
 
