@@ -1,4 +1,5 @@
 <template>
+  
   <div>
     <ContentList path="/benin" :query="query">
       <template #default="{list}">
