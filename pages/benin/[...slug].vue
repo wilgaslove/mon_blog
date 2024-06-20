@@ -10,6 +10,8 @@
         
         <!-- Contenu du blog -->
         <ContentRenderer :value="doc" class="content"/>
+
+
         
         <p class="text-gray-500 text-sm mt-2">
             {{ doc.date  }}
@@ -21,9 +23,20 @@
 </template>
 
 <script lang="ts" setup>
-const path = useRoute().path;
+import { useRoute } from 'vue-router'
+const route = useRoute();
+let path = '/benin';
 
+if (Array.isArray(route.params.slug)) {
+  path += `/${route.params.slug.join('/')}`;
+} else if (typeof route.params.slug === 'string') {
+  path += `/${route.params.slug}`;
+}
 
+if (typeof route.params.slug === 'string' && route.params.slug.startsWith('benin')) {
+  definePageMeta({
+  });
+}
 </script>
 
 

@@ -10,7 +10,8 @@
               <img :src="benin.thumbnail" alt="" class="w-full h-full object-cover">
             </div>
             <h2 class="font-bold text-2xl ml-2">
-              <NuxtLink :to="'/benin/' +benin.slug">{{ benin.title }}</NuxtLink>
+              <NuxtLink v-if="benin._path" :to="'/benin/'  +  benin._path.replace('/benin/', '')">{{ benin.title }}</NuxtLink>
+              <span v-else>{{ benin.title }}</span>
             </h2>
             <p v-if="benin.description" class="ml-2" >{{ benin.description }}</p>
             <p class="ml-2" >{{ formatDate(benin.date) }}</p>
@@ -32,6 +33,7 @@ const query: QueryBuilderParams = {
   path: '/benin',
   sort: [{date: 1}]
 }
+
 
 function formatDate(date:string) {
   return useDateFormat(date, "YYYY-MM-DD");
