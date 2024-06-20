@@ -14,6 +14,9 @@
         <li><NuxtLink to="/benin">Bénin</NuxtLink></li>
       </ul>
    </header>
+   <main>
+    <NuxtPage />
+   </main>
     <slot />
   </div>
     <slot />

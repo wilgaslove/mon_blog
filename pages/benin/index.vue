@@ -1,4 +1,5 @@
 <template>
+  <NavBenin />
   
   <div>
     <ContentList path="/benin" :query="query">

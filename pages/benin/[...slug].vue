@@ -1,5 +1,6 @@
 
 <template>
+  <NavBenin />
   <div>
     <ContentDoc v-slot="{doc}" tag="article" :path="path" class="bg-white">
       <div class="text-center p-5">
@@ -21,6 +22,8 @@
 
 <script lang="ts" setup>
 const path = useRoute().path;
+
+
 </script>
 
 
