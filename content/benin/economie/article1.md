@@ -1,5 +1,5 @@
 ---
-title: 'Article 1'
+title: 'Port Automnome de Cotonou'
 description: 'Un article qui permet...'
 tags: ["argent", "finance", "cfa", "économie"]
 slug: 'economie'
