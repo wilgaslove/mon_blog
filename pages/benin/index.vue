@@ -2,6 +2,7 @@
   <NavBenin />
   
   <div>
+    <!-- Afficher les catégories principales -->
     <ContentList path="/benin" :query="query">
       <template #default="{list}">
         <div class="mt-[12%]">
@@ -10,8 +11,7 @@
               <img :src="benin.thumbnail" alt="" class="w-full h-full object-cover">
             </div>
             <h2 class="font-bold text-2xl ml-2">
-              <NuxtLink v-if="benin._path" :to="'/benin/'  +  benin._path.replace('/benin/', '')">{{ benin.title }}</NuxtLink>
-              <span v-else>{{ benin.title }}</span>
+              <NuxtLink :to="'/benin/'  +  benin.slug">{{ benin.title }}</NuxtLink>
             </h2>
             <p v-if="benin.description" class="ml-2" >{{ benin.description }}</p>
             <p class="ml-2" >{{ formatDate(benin.date) }}</p>
@@ -31,11 +31,12 @@
 import type { QueryBuilderParams } from '@nuxt/content/dist/runtime/types'
 const query: QueryBuilderParams = {
   path: '/benin',
+  only: ['title', 'slug', 'thumbnail', 'description', 'date'],
   sort: [{date: 1}]
 }
 
 
-function formatDate(date:string) {
+function formatDate(date: string) {
   return useDateFormat(date, "YYYY-MM-DD");
 }
 </script>
