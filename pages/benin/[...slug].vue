@@ -47,7 +47,6 @@
       
     </ContentDoc>
   </div>
-  <!-- <FooterBenin /> -->
 </template>
 
 <script lang="ts" setup>
