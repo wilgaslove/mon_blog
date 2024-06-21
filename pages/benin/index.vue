@@ -25,6 +25,7 @@
     </ContentList>
     
   </div>
+
 </template>
 
 <script lang="ts" setup>
@@ -35,7 +36,6 @@ const query: QueryBuilderParams = {
   path: '/benin',
   sort: [{date: 1}]
 }
-
 
 function formatDate(date:string) {
   return useDateFormat(date, "YYYY-MM-DD");

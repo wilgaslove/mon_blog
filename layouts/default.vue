@@ -25,7 +25,8 @@
 import { useRoute } from 'vue-router';
 
 const route = useRoute();
-const isBeninPage = route.path.includes('/benin')
+
+const isBeninPage = route.path.includes('principalebenin')
 
 </script>
 
