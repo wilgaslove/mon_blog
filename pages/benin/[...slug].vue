@@ -6,7 +6,7 @@
      <ContentList :path="categoryPath" :query="query">
         <template #default="{ list }">
           <div class="mt-[12%]">
-            <div v-for="(benin, index) in list" :key="index" class="bg-white shadow-md round-2xl mb-1 border-2 border-[#aaba]">
+            <div v-for="(benin, index) in list" :key="index" class="relative bg-white shadow-md round-2xl mb-1 border-2 border-[#aaba]">
               <div class="h-[320px]">
                 <img :src="benin.thumbnail" alt="" class="w-full h-full object-cover">
               </div>
@@ -19,9 +19,9 @@
             </div>
           </div>
           
-          <footer 
+          <!-- <footer 
           class="flex justify-between fixed bottom-0 left-0 right-0  bg-black text-lg text-white py-5 px-4 shadow-md">
-        </footer>
+        </footer> -->
         </template>
 
         <template #not-found>
@@ -39,14 +39,15 @@
         <!-- Contenu du blog -->
         <ContentRenderer :value="doc" class="content"/>
 
-        <p class="text-gray-500 text-sm mt-2">
-            {{ doc.date  }}
-        </p>
-
+        <footer class="flex justify-between fixed bottom-0 left-0 right-0  bg-black text-lg text-white py-5 px-4 shadow-md">
+          <p class="text-gray-500 text-sm mt-2">
+              {{ doc.date  }}
+          </p>
+        </footer>
       
     </ContentDoc>
   </div>
-  <FooterBenin />
+  <!-- <FooterBenin /> -->
 </template>
 
 <script lang="ts" setup>
