@@ -29,7 +29,7 @@
     </ContentList>
     
   </div>
-
+  <FooterBenin />
 </template>
 
 <script lang="ts" setup>

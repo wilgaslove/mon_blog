@@ -19,7 +19,7 @@
             </div>
           </div>
           
-          <footer
+          <footer 
           class="flex justify-between fixed bottom-0 left-0 right-0  bg-black text-lg text-white py-5 px-4 shadow-md">
         </footer>
         </template>
@@ -39,8 +39,6 @@
         <!-- Contenu du blog -->
         <ContentRenderer :value="doc" class="content"/>
 
-
-        
         <p class="text-gray-500 text-sm mt-2">
             {{ doc.date  }}
         </p>
@@ -48,7 +46,7 @@
       
     </ContentDoc>
   </div>
-
+  <FooterBenin />
 </template>
 
 <script lang="ts" setup>
