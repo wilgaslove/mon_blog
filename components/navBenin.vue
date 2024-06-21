@@ -9,7 +9,7 @@
         <li><NuxtLink to="/benin/immobilier">Immobilier</NuxtLink></li>
         <li><NuxtLink to="/benin/economie">Economie</NuxtLink></li>
         <li><NuxtLink to="/benin/transport">Transport</NuxtLink></li>
-        <li><NuxtLink to="principalebenin">Bénin</NuxtLink></li>
+        <li><NuxtLink to="/principalebenin">Bénin</NuxtLink></li>
       </ul>
    </header>
   </div>
