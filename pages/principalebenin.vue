@@ -58,6 +58,9 @@
       <p>En somme, l'actualité au Bénin est marquée par des avancées significatives dans divers domaines. Les réformes économiques, les progrès politiques, les efforts en matière de santé et d'éducation, la richesse culturelle, les initiatives environnementales et les succès sportifs illustrent bien le dynamisme et le potentiel du Bénin.</p>
    </article>
  
+   <div class="relative">
+    <p class="animate-bounce fixed top-[15%] left-5  bg-[#bbb] text-lg text-white py-5 px-4 shadow-md  h-[20%] w-[15%] ">Bonjour la famille</p>
+   </div>
 
 
   <FooterBenin />
