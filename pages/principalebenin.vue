@@ -5,13 +5,14 @@
   </div>
   <div class="mt-[12%] bg-white test-center">
     <video class="w-full h-[30rem] object-cover" controls>
-      <source src="public/img/11898232_1440_1920_30fps.mp4"  type="video/mp4">
+      <source src="public/img/lebenin.mp4"  type="video/mp4">
 
     </video>
   </div>
     
     <article class="prose">
       <h1 class="text-4xl font-bold animate-pulse text-blue-600/100 p-4">Grands Titres de l'Actualité au Bénin</h1> 
+
       <h2>Économie</h2>
 
       <h3>Réformes et Investissements</h3>
@@ -67,5 +68,15 @@
 </script>
 
 <style scoped>
+h2 {
+  margin-block-start: 1rem;
+  font-size: 2em;
+  font-weight: bold;
+}
 
+h3{
+  /* margin-block: 0.5rem; */
+  font-size: 1.5em;
+  font-weight: bold;
+}
 </style>
