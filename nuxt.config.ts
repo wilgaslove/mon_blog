@@ -4,5 +4,9 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: ["@nuxt/content", "@nuxtjs/tailwindcss", "@vueuse/nuxt"],
 
+  components: [
+    { path:'~/components', pathPrefix: false },
+  ]
+
   
 })
