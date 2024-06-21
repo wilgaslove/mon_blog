@@ -15,18 +15,14 @@
    </header>
     <slot />
   </div>
-  <footer  v-if="!isBeninPage"
-  class="flex justify-between fixed bottom-0 left-0 right-0  bg-black text-lg text-white py-5 px-4 shadow-md">
 
-  </footer>
 </template>
 
 <script lang="ts" setup>
 import { useRoute } from 'vue-router';
 
 const route = useRoute();
-
-const isBeninPage = route.path.includes('principalebenin')
+const isBeninPage = route.path.includes('/benin')
 
 </script>
 
