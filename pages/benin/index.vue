@@ -1,12 +1,13 @@
 <template>
   <NavBenin />
+  <MarqueeBanner />
   
   <div>
     <ContentList path="/benin" :query="query">
       <template #default="{list}">
-        <div class="mt-[12%]">
+        <div class="mt-[16%]">
           <div v-for="(benin, index) in list" :key="index"  class="bg-white shadow-md round-2xl mb-1 border-2 border-[#aaba]">
-            <div class="h-[320px]">
+            <div class="h-[300px]">
               <img :src="benin.thumbnail" alt="" class="w-full h-full object-cover">
             </div>
             <h2 class="font-bold text-2xl ml-2">
@@ -34,6 +35,7 @@
 
 <script lang="ts" setup>
 import type { QueryBuilderParams } from '@nuxt/content/dist/runtime/types'
+import MarqueeBanner from '@/components/MarqueeBanner.vue';
 import { useDateFormat } from '@vueuse/core'
 
 const query: QueryBuilderParams = {
