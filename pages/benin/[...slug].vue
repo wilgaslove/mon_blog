@@ -45,15 +45,16 @@
               {{ doc.date  }}
           </p>
         </footer>
-      
     </ContentDoc>
   </div>
+
+  <PubliciteDroite />
+  <PubliciteGauch/>
 </template>
 
 <script lang="ts" setup>
 import { useRoute } from 'vue-router'
 import { useDateFormat } from '@vueuse/core'
-import MarqueeBanner from '@/components/MarqueeBanner.vue';
 import type { QueryBuilderParams } from '@nuxt/content/dist/runtime/types'
 
 const route = useRoute();

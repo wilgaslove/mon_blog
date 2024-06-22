@@ -1,7 +1,7 @@
 <template>
  <div class="relative">
    <div class="marquee-container flex justify-between fixed top-[7%] left-0 right-0  bg-black text-lg text-white py-5 px-4 shadow-md">
-      <marquee-text :speed="100" :loop="true" :gradient="false">
+      <marquee-text :speed="1" :loop="true" :gradient="false">
         <span v-for="(announcement, index) in announcements" :key="index">
           {{ announcement }} 
         </span>

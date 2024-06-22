@@ -21,6 +21,9 @@
       </footer>
     </ContentDoc> 
   </div>
+  <MarqueeBanner />
+  <PubliciteDroite />
+  <PubliciteGauch/>
 </template>
 
 <script lang="ts" setup>

@@ -63,28 +63,13 @@
       <p>En somme, l'actualité au Bénin est marquée par des avancées significatives dans divers domaines. Les réformes économiques, les progrès politiques, les efforts en matière de santé et d'éducation, la richesse culturelle, les initiatives environnementales et les succès sportifs illustrent bien le dynamisme et le potentiel du Bénin.</p>
    </article>
  
-   <div class="relative">
-    <p class="animate-bounce fixed top-[18%] left-5  bg-[#bbb] text-lg text-white py-5 px-4 shadow-md  h-[20%] w-[15%] ">Bonjour la famille</p>
-   </div>
-
-
-
-   <div class="relative">
-    
-    <div class=" animate-pulse fixed bottom-[40%] right-2  bg-[#bbb]  text-lg text-white py-5 px-4 shadow-md h-[45%] w-[15%] ">
-      <img src="assets/img/highfive.png" alt="" class="object-cover bg[#bbb]" >
-      <h1 class="text-2xl font-bold text-blue-600/100 p-4">Highfive University</h1>
-      <P class="text-black font-bold" >
-        Découvrez l'école de codage <a href="#" class="text-blue-600/100 ">Highfive University</a> ... 
-      </P>
-    </div>
-   </div>
+   <PubliciteGauch />
+   <PubliciteDroite />
   <FooterBenin />
 
 </template>
 
 <script lang="ts" setup>
-import MarqueeBanner from '@/components/MarqueeBanner.vue';
 </script>
 
 <style scoped>

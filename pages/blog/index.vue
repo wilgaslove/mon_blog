@@ -22,6 +22,9 @@
        </template>
     </ContentList>
   </div>
+  <PubliciteGauch/>
+  <PubliciteDroite />
+  <MarqueeBanner />
 </template>
 
 <script lang="ts" setup>
