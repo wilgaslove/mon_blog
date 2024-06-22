@@ -7,10 +7,10 @@
 
   <PubliciteDroite />
   <PubliciteGauch/>
-  <MarqueeBanner />
 </template>
 
 <script lang="ts" setup>
+
 
 
 

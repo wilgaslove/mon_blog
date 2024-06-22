@@ -24,10 +24,10 @@
   </div>
   <PubliciteGauch/>
   <PubliciteDroite />
-  <MarqueeBanner />
 </template>
 
 <script lang="ts" setup>
+
 import type { QueryBuilderParams } from '@nuxt/content/dist/runtime/types'
 const query: QueryBuilderParams = { 
   path: '/blog', 

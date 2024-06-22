@@ -1,6 +1,5 @@
 <template>
   <NavBenin />
-  <MarqueeBanner />
   
   <div>
     <ContentList path="/benin" :query="query">
@@ -36,6 +35,7 @@
 </template>
 
 <script lang="ts" setup>
+import MarqueeBanner from '@/components/MarqueeBanner.vue';
 import type { QueryBuilderParams } from '@nuxt/content/dist/runtime/types'
 import { useDateFormat } from '@vueuse/core'
 

@@ -21,18 +21,19 @@
       </footer>
     </ContentDoc> 
   </div>
-  <MarqueeBanner />
   <PubliciteDroite />
-  <PubliciteGauch/>
+   <PubliciteGauch/>
 </template>
 
 <script lang="ts" setup>
+
 const path = useRoute().path;
 
 
 </script>
 
 <style>
+
 .content p:not(:last-child),
 .content li:not(:last-child),
 .content blockquote:not(:last-child),

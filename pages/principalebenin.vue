@@ -5,7 +5,6 @@
   </div>
 
   <div>
-    <MarqueeBanner />
   </div>
 
   <div class="mt-[12%] bg-white test-center">
