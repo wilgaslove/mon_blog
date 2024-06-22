@@ -3,6 +3,11 @@
   <div class="">
     <navBenin />
   </div>
+
+  <div>
+    <MarqueeBanner />
+  </div>
+
   <div class="mt-[12%] bg-white test-center">
     <video class="w-full h-[30rem] object-cover" controls>
       <source src="public/img/lebenin.mp4"  type="video/mp4">
@@ -10,7 +15,7 @@
     </video>
   </div>
     
-    <article class="prose">
+    <article class="">
       <h1 class="text-4xl font-bold animate-pulse text-blue-600/100 p-4">Grands Titres de l'Actualité au Bénin</h1> 
 
       <h2>Économie</h2>
@@ -59,7 +64,7 @@
    </article>
  
    <div class="relative">
-    <p class="animate-bounce fixed top-[15%] left-5  bg-[#bbb] text-lg text-white py-5 px-4 shadow-md  h-[20%] w-[15%] ">Bonjour la famille</p>
+    <p class="animate-bounce fixed top-[18%] left-5  bg-[#bbb] text-lg text-white py-5 px-4 shadow-md  h-[20%] w-[15%] ">Bonjour la famille</p>
    </div>
 
 
@@ -79,7 +84,7 @@
 </template>
 
 <script lang="ts" setup>
-
+import MarqueeBanner from '@/components/MarqueeBanner.vue';
 </script>
 
 <style scoped>

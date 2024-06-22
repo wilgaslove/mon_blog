@@ -1,7 +1,7 @@
 <template>
   <div>
     <header class="relative">
-      <ul class="flex justify-between fixed top-0 left-0 right-0  bg-black text-lg text-white py-5 px-4 shadow-md">
+      <ul class="flex justify-between fixed top-0 left-0 right-0  bg-black text-lg text-white pt-5 px-4 shadow-md">
         <li><NuxtLink to="/">Accueil</NuxtLink></li>
         <li><NuxtLink to="/benin/emploi">Emploi</NuxtLink></li>
         <li><NuxtLink to="/benin/politique">Politique</NuxtLink></li>
