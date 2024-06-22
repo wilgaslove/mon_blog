@@ -61,14 +61,16 @@
 
       <p>En somme, l'actualité au Bénin est marquée par des avancées significatives dans divers domaines. Les réformes économiques, les progrès politiques, les efforts en matière de santé et d'éducation, la richesse culturelle, les initiatives environnementales et les succès sportifs illustrent bien le dynamisme et le potentiel du Bénin.</p>
    </article>
- 
+   
+   <MarqueeBanner />
    <PubliciteGauch />
    <PubliciteDroite />
-  <FooterBenin />
-
+   <FooterBenin />
+  
 </template>
 
 <script lang="ts" setup>
+// import MarqueeBanner from '@/components/MarqueeBanner.vue';
 </script>
 
 <style scoped>
