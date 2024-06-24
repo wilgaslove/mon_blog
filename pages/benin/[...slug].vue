@@ -48,8 +48,7 @@
     </ContentDoc>
   </div>
 
-  <PubliciteDroite />
-  <PubliciteGauch/>
+
 </template>
 
 <script lang="ts" setup>

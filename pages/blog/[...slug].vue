@@ -1,4 +1,6 @@
 <template>
+
+  <NavBlog />
   <div>
 
      <ContentDoc v-slot="{doc}" tag="article" :path="path" class="bg-white"> 
@@ -21,8 +23,7 @@
       </footer>
     </ContentDoc> 
   </div>
-  <PubliciteDroite />
-   <PubliciteGauch/>
+  
 </template>
 
 <script lang="ts" setup>

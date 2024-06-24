@@ -5,8 +5,8 @@
     </h1>
   </div>
 
-  <PubliciteDroite />
-  <PubliciteGauch/>
+  <NavBlog />
+
 </template>
 
 <script lang="ts" setup>

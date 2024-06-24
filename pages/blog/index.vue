@@ -1,4 +1,5 @@
 <template>
+  <NavBlog />
   <div>
     <ContentList path="/blog"  :query="query" >
        <template #default="{list}">
@@ -22,8 +23,7 @@
        </template>
     </ContentList>
   </div>
-  <PubliciteGauch/>
-  <PubliciteDroite />
+  
 </template>
 
 <script lang="ts" setup>
