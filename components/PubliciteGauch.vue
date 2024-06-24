@@ -1,7 +1,11 @@
 <template>
   <div>
     <div class="relative">
-    <p class="animate-bounce fixed top-[18%] left-5  bg-[#bbb] text-lg text-white py-5 px-4 shadow-md  h-[20%] w-[15%] ">Bonjour la famille</p>
+   
+    <div class="animate-bounce fixed top-[21%] left-5  bg-[#bbb] text-lg text-black py-5 px-4 shadow-md  h-[30%] w-[15%] ">
+      <img src="assets/img/pc_gamer.webp" alt="">
+      <p>Promo spéciale cette semaine pour les  bureautique gamer</p>
+    </div>
    </div>
 
   </div>
