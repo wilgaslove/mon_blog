@@ -26,7 +26,7 @@ const isBeninPage = route.path.includes('/benin')
 
 </script>
 
-<style>
+<style scoped>
 li{
   border: 1px;
   border-radius: 12px;

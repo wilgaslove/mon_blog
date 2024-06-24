@@ -5,6 +5,8 @@
     </h1>
   </div>
 
+  <!-- <BarreDefillante  /> -->
+
   <NavBlog />
 
 </template>
