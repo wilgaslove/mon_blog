@@ -29,17 +29,17 @@
         </div>
       </a>
 
-      <a href="">
+      <a href="https://actu.capital.fr/economie-politique/un-tribunal-russe-saisit-plusieurs-centaines-de-millions-deuros-appartenant-a-trois-banques-europeennes-1496948?utm_source=outbrain&utm_medium=cpc&utm_term=FR_France+24+fr+%28Audiovisuel+Ext%C3%A9rieur+de+la+France+SA%29_France+24+-+Afrique&utm_content=Un+tribunal+russe+saisit+plusieurs+centaines+de+millions+d%E2%80%99euros%E2%80%AFappar&utm_campaign=pmo_cap_article_desktop_desktop_enfant_geoloc_flux_cat_eco_politique_3&dicbo=v4-M5uKiYF-1081550216">
         <div class="grid">
-          <img src="assets\img\niger_leader.webp" alt="">
-          <p class=""><a href="#">La politique en France</a></p>
+          <img src="assets\img\picture.jpg" alt="">
+          <p class=""><a href="#">Un tribunal russe saisit plusieurs centaines de millions deuros appartenant a trois banques europeennes</a></p>
         </div>
       </a>
 
-      <a href="">
+      <a href="https://www.24haubenin.info/?Des-Camerounais-arretes-et-juges-a-la-CRIET">
         <div class="grid">
-          <img src="assets\img\niger_leader.webp" alt="">
-          <p class=""><a href="#">La politique en France</a></p>
+          <img src="assets\img\img-20221014-wa0084-16-c7e8f.jpg" alt="">
+          <p class=""><a href="#">La Cour de répression des infractions économiques et du terrorisme (CRIET) a auditionné trois...</a></p>
         </div>
       </a>
       <a href="">
