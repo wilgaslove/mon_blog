@@ -1,6 +1,6 @@
 <template>
   <div>
-    <marquee behavior="scroll" direction="bottom" class="text-black marquee fixed top-[7%] left-0 right-0 py-4 text-lg shadow-md font-bold" style="width: 100vw;">
+    <marquee behavior="scroll" direction="bottom" class="text-black marquee fixed top-[7%] left-0 right-0 py-4 text-lg  font-bold" style="width: 100vw;">
       <p>Ce texte défile vers la gauche Bonjour Highfive</p>
       <p>Dr Love en promotion sur Pc neuf !</p>
       <p>La rentrée scolaire à Highfive University est pour le 30 Septembre 2024 !</p>
@@ -16,5 +16,9 @@
 marquee p {
   display: inline-block;
   margin-right: 4rem;
+}
+
+marquee {
+  background-color: rgb(194, 219, 241);
 }
 </style>
