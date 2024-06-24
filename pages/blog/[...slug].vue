@@ -1,7 +1,7 @@
 <template>
 
   <NavBlog />
-  <div>
+  <div class="mt-[15%]">
 
      <ContentDoc v-slot="{doc}" tag="article" :path="path" class="bg-white"> 
 

@@ -10,7 +10,7 @@
         <li><NuxtLink to="/blog/international">International</NuxtLink></li>
         <li><NuxtLink to="/blog/transport">Transport</NuxtLink></li>
         <li><NuxtLink to="/blog/sport">Sport</NuxtLink></li>
-        <li><NuxtLink to="principalebenin">Bénin</NuxtLink></li>
+        <li><NuxtLink to="/principalebenin">Bénin</NuxtLink></li>
       </ul>
    </header>
     <slot />
