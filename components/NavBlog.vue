@@ -4,12 +4,12 @@
       <ul class="flex justify-between fixed top-0 left-0 right-0  bg-black text-lg text-white py-5 px-4 shadow-md">
         <li><NuxtLink to="/">Accueil</NuxtLink></li>
         <li><NuxtLink to="/blog">Technologie & Sciences</NuxtLink></li>
-        <li><NuxtLink to="/blog/politique">Politique</NuxtLink></li>
-        <li><NuxtLink to="/blog/culture">Culture</NuxtLink></li>
-        <li><NuxtLink to="/blog/litérature">Litérature</NuxtLink></li>
-        <li><NuxtLink to="/blog/international">International</NuxtLink></li>
-        <li><NuxtLink to="/blog/transport">Transport</NuxtLink></li>
-        <li><NuxtLink to="/blog/sport">Sport</NuxtLink></li>
+        <li><NuxtLink to="/politique">Politique</NuxtLink></li>
+        <li><NuxtLink to="/culture">Culture</NuxtLink></li>
+        <li><NuxtLink to="/literature">Litérature</NuxtLink></li>
+        <li><NuxtLink to="/histoire">Histore & Vie</NuxtLink></li>
+        <li><NuxtLink to="/amour">Amour & Conseil</NuxtLink></li>
+        <li><NuxtLink to="/sport">Sport</NuxtLink></li>
         <li><NuxtLink to="/principalebenin">Bénin</NuxtLink></li>
       </ul>
    </header>

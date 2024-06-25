@@ -7,16 +7,16 @@
      <ContentList :path="categoryPath" :query="query">
         <template #default="{ list }">
           <div class="mt-[14%]">
-            <div v-for="(benin, index) in list" :key="index" class="relative bg-white shadow-md round-2xl mb-1 border-2 border-[#aaba]">
+            <div v-for="(amour, index) in list" :key="index" class="relative bg-white shadow-md round-2xl mb-1 border-2 border-[#aaba]">
               <div class="h-[320px]">
-                <img :src="benin.thumbnail" alt="" class="w-full h-full object-cover">
+                <img :src="amour.thumbnail" alt="" class="w-full h-full object-cover">
               </div>
               <h2 class="font-bold text-2xl ml-2">
-                <NuxtLink v-if="benin._path" :to="'/benin/' + benin._path.replace('/benin/', '')">{{ benin.title }}</NuxtLink>
-                <span v-else>{{ benin.title }}</span>
+                <NuxtLink v-if="amour._path" :to="'/amour/' + amour._path.replace('/amour/', '')">{{ amour.title }}</NuxtLink>
+                <span v-else>{{ amour.title }}</span>
               </h2>
-              <p v-if="benin.description" class="ml-2">{{ benin.description }}</p>
-              <p class="ml-2">{{ formatDate(benin.date) }}</p>
+              <p v-if="amour.description" class="ml-2">{{ amour.description }}</p>
+              <p class="ml-2">{{ formatDate(amour.date) }}</p>
             </div>
           </div>
           
@@ -59,10 +59,10 @@ import type { QueryBuilderParams } from '@nuxt/content/dist/runtime/types'
 const route = useRoute();
 
 const slug = route.params.slug as string[]
-const path = `/benin/${slug.join('/')}`
+const path = `/amour/${slug.join('/')}`
 const isCategory = slug.length === 1 // Si le slug a une longueur de 1, c'est une catégorie
 
-const categoryPath = `/benin/${slug[0]}`
+const categoryPath = `/amour/${slug[0]}`
 const query: QueryBuilderParams = {
   path: categoryPath,
   sort: [{ date: 1 }]
