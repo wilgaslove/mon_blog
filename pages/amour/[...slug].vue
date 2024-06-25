@@ -1,81 +1,72 @@
-
 <template>
-  <NavBenin />
-  <MarqueeBanner />
-  <div v-if="isCategory">
-     <!-- Afficher les articles de la catégorie -->
-     <ContentList :path="categoryPath" :query="query">
-        <template #default="{ list }">
-          <div class="mt-[14%]">
-            <div v-for="(amour, index) in list" :key="index" class="relative bg-white shadow-md round-2xl mb-1 border-2 border-[#aaba]">
-              <div class="h-[320px]">
-                <img :src="amour.thumbnail" alt="" class="w-full h-full object-cover">
-              </div>
-              <h2 class="font-bold text-2xl ml-2">
-                <NuxtLink v-if="amour._path" :to="'/amour/' + amour._path.replace('/amour/', '')">{{ amour.title }}</NuxtLink>
-                <span v-else>{{ amour.title }}</span>
-              </h2>
-              <p v-if="amour.description" class="ml-2">{{ amour.description }}</p>
-              <p class="ml-2">{{ formatDate(amour.date) }}</p>
-            </div>
-          </div>
-          
-          <!-- <footer 
-          class="flex justify-between fixed bottom-0 left-0 right-0  bg-black text-lg text-white py-5 px-4 shadow-md">
-        </footer> -->
-        </template>
 
-        <template #not-found>
-          <p class="mt-[50%]">Aucun article trouvé</p>
-        </template>
-      </ContentList>
-  </div>
-  <div v-else>
-    <ContentDoc v-slot="{doc}" tag="article" :path="path" class="bg-white">
+  <NavBlog />
+  <div class="mt-[15%]">
+
+     <ContentDoc v-slot="{doc}" tag="article" :path="path" class="bg-white"> 
+
+      <!--En-tête de la partie amour-->
       <div class="text-center p-5">
         <h1 class="text-4xl font-semibold">{{ doc.title }}</h1>
         <img :src="doc.thumbnail" alt="" class="w-full h-full object-cover pt-[2%]">
-        </div>
+      </div>
         
-        <!-- Contenu du blog -->
-        <ContentRenderer :value="doc" class="content"/>
+      <p class="text-gray-500 text-sm mt-2">
+        {{ doc.date  }}
+      </p>
+        <!-- Contenu amour-->
+        <ContentRenderer :value="doc" class="content mb-[10%]"/>
+        
+        
 
-        <footer class="flex justify-between fixed bottom-0 left-0 right-0  bg-black text-lg text-white py-5 px-4 shadow-md">
-          <p class="text-gray-500 text-sm mt-2">
-              {{ doc.date  }}
-          </p>
-        </footer>
-    </ContentDoc>
+      <footer class="flex justify-between fixed bottom-0 left-0 right-0  bg-black text-lg text-white py-5 px-4 shadow-md">
+      </footer>
+    </ContentDoc> 
   </div>
-
-
+  
 </template>
 
 <script lang="ts" setup>
-import { useRoute } from 'vue-router'
-import { useDateFormat } from '@vueuse/core'
-import type { QueryBuilderParams } from '@nuxt/content/dist/runtime/types'
 
-const route = useRoute();
+const path = useRoute().path;
 
-const slug = route.params.slug as string[]
-const path = `/amour/${slug.join('/')}`
-const isCategory = slug.length === 1 // Si le slug a une longueur de 1, c'est une catégorie
-
-const categoryPath = `/amour/${slug[0]}`
-const query: QueryBuilderParams = {
-  path: categoryPath,
-  sort: [{ date: 1 }]
-}
-
-function formatDate(date: string) {
-  return useDateFormat(date, "YYYY-MM-DD").value
-}
 
 </script>
 
-
-
 <style>
+.content p:not(:last-child),
+.content li:not(:last-child),
+.content blockquote:not(:last-child),
+.content h1:not(:last-child),
+.content h2:not(:last-child),
+.content h3:not(:last-child),
+.content h4:not(:last-child),
+.content pre:not(:last-child),
+.content table:not(:last-child) {
+  @apply mb-4;
+  }
 
+  .article {
+    margin-top: 5rem;
+  }
+  
+.content h1 {
+    @apply text-3xl font-bold;
+}
+
+.content h2 {
+    @apply text-2xl font-bold;
+}
+
+.content h3 {
+    @apply text-xl font-bold;
+}
+
+.content h4 {
+    @apply text-lg font-bold;
+}
+
+.content h5 {
+    @apply text-base font-bold;
+}
 </style>
