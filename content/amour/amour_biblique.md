@@ -1,8 +1,8 @@
 ---
 title: 'La Famille selon la Bible' #titre de la page
-description: 'Cet article nous parle del'amour en famille selon la bible...' #description dela page
+description: 'Cet article nous parle de l`amour en famille selon la bible...' #description dela page
 tags: ["amour", "bible", "famille"]
-slug: 'article3'
+slug: 'amour_biblique'
 thumbnail: '/img/famille-africaine-enfants-priant-maison_236854-43036.webp'
 date: '2024-06-25'
 draft: false
