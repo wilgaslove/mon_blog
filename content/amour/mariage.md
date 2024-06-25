@@ -2,7 +2,7 @@
 title: 'Les Fiançailles Avant le Mariage'
 description: 'Cet article parle des fiançaille avant le mariage'
 tags: ["amour", "fiançaille", "conseil", "mariage"]
-slug: 'etape_mariage'
+slug: 'mariage'
 thumbnail: '/img/demande-fiancailles.webp'
 date: '2024-06-25'
 draft: false
