@@ -2,7 +2,7 @@
 title: 'Les meilleurs conseils en amour pour des relations épanouies'
 description: 'Un article pour les amoureux...'
 tags: ["amour", "vie", "conseil", "aimer"]
-slug: 'article1'
+slug: 'relation_epanouie'
 thumbnail: '\img\conseils-en-amour.webp'
 draft: false
 date: '2024-06-25'
