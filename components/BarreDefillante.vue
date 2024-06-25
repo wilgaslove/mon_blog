@@ -1,4 +1,5 @@
 <template>
+  <!-- Utilisation du module marquee de nuxt: npx nuxi@latest module add marquee -->
   <div>
     <marquee behavior="scroll" direction="left" class="text-black bg-white marquee fixed top-[7%] left-0 right-0 py-4 text-lg  font-bold" style="width: 100vw;">
       <p>Wilgas ADJOVI dit Dr_Love entrepreneur, développeur vous invite à joindre sa team dans des aventure fabuleur... 95-95-95-95...</p>
