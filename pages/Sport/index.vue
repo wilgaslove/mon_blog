@@ -1,18 +1,18 @@
 <template>
   <NavBlog />
   <div>
-    <ContentList path="/sport"  :query="query" >
+    <ContentList path="/Sport"  :query="query" >
        <template #default="{list}">
         <div class="mt-[15%]">
-          <div v-for="(sport, index) in list" :key="index" class="bg-white shadow-md round-2xl mb-1 border-2 border-[#aaba] ">
+          <div v-for="(Sport, index) in list" :key="index" class="bg-white shadow-md round-2xl mb-1 border-2 border-[#aaba] ">
             <div class="h-[320px] ">
-              <img :src=" sport.thumbnail" alt="" class="w-full h-full object-cover">
+              <img :src=" Sport.thumbnail" alt="" class="w-full h-full object-cover">
             </div>
             <h2 class="font-bold text-2xl">
-              <NuxtLink :to="'/sport/' + sport.slug">{{ sport.title }}</NuxtLink>
+              <NuxtLink :to="'/Sport/' + Sport.slug">{{ Sport.title }}</NuxtLink>
             </h2>
-            <p v-if="sport.description">{{ sport.description }}</p>
-            <p>{{ formatDate(sport.date) }}</p>
+            <p v-if="Sport.description">{{ Sport.description }}</p>
+            <p>{{ formatDate(Sport.date) }}</p>
           </div>
         </div>
       
@@ -30,7 +30,7 @@
 
 import type { QueryBuilderParams } from '@nuxt/content/dist/runtime/types'
 const query: QueryBuilderParams = { 
-  path: '/sport', 
+  path: '/Sport', 
   sort: [{ date: -1 }] 
   // limit: 5,
 }
