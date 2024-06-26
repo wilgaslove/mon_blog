@@ -31,7 +31,7 @@
 import type { QueryBuilderParams } from '@nuxt/content/dist/runtime/types'
 const query: QueryBuilderParams = { 
   path: '/blog', 
-  sort: [{ date: 1 }] 
+  sort: [{ date: -1 }] 
   // limit: 5,
 }
 
