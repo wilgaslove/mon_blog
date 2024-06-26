@@ -6,7 +6,7 @@
      <!-- Afficher les articles de la catégorie -->
      <ContentList :path="categoryPath" :query="query">
         <template #default="{ list }">
-          <div class="mt-[14%]">
+          <div class="mt-[16%]">
             <div v-for="(benin, index) in list" :key="index" class="relative bg-white shadow-md round-2xl mb-1 border-2 border-[#aaba]">
               <div class="h-[320px]">
                 <img :src="benin.thumbnail" alt="" class="w-full h-full object-cover">
