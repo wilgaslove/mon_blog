@@ -3,7 +3,7 @@ title: 'Le Port Autonome de Cotonou'
 description: "Le Port Autonome de Cotonou est un pilier central de l'économie béninoise et un maillon crucial du commerce en Afrique de l'Ouest."
 tags: ["argent", "finance", "cfa", "économie", "port", "cotonou", "pac"]
 slug: 'port_cot'
-thumbnail:  '/img/jad20221215-eco-benin-cotonou-port-photo2-660x440-1671197891.webp'
+thumbnail:  '/img/5d453ef_H3eF7lfT6UsHGUxXxqBXum1Y.webp'
 date: '2023-06-27'
 draft: false
 ---
