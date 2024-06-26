@@ -2,7 +2,7 @@
 title: 'La Littérature Française' 
 description: 'la littérature française se distingue par sa richesse, sa diversité et son impact durable' 
 tags: ["Littérature", "Française", "Patrimoine"]
-slug: 'literature_fran'
+slug: 'litterature_fran'
 thumbnail: '/img/20-classiques-de-la-littérature-française-.webp'
 draft: false
 

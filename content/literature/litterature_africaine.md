@@ -2,7 +2,7 @@
 title: 'La Famille selon la Bible' #titre de la page
 description: "La littérature africaine est bien plus qu'une simple expression artistique ; elle est un miroir complexe et riche de l'histoire"
 tags: ["Littérature", "Africaine", "Culturelle", "Social", "Littérature Africaine"]
-slug: 'literature_africaine'
+slug: 'litterature_africaine'
 thumbnail: '/img/21-classiques-africains-que-vous-devez-avoir-lus-avant-vos-21-ans.webp'
 date: '2024-06-25'
 draft: false
