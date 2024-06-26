@@ -1,18 +1,16 @@
 ---
-title: 'l`amour en famille' 
-description: 'Un article qui parle sur l`amour en famille...' 
-tags: ["amour", "famille", "joyeux"]
-slug: 'amour_en_famille'
-thumbnail: '/img/joyeux-grand-pere-afro-americain-parlant-ses-petits-enfants-leurs-parents-lors-repas-famille_13339-318652.webp'
-date: '2024-06-25'
+title: 'Euro 2024' 
+description: "Euro 2024 : la Belgique, tenue en échec par l'Ukraine, affrontera la France en huitièmes" 
+tags: ["foot", "sport", "euro", "euro 2024"]
+slug: 'belgique'
+thumbnail: '/img/000_34ZF8P7.webp'
+date: '2024-06-26'
 draft: false
 
 ---
 
 
-# L'Amour en Famille et Conseils pour le Renforcer
 
-## Introduction
 
 L'amour en famille est l'une des fondations les plus importantes pour un foyer harmonieux et heureux. Il se manifeste à travers des gestes de tendresse, de soutien mutuel et de compréhension. Cet article explore l'importance de l'amour familial et propose des conseils pratiques pour le renforcer.
 
