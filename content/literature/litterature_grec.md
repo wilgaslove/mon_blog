@@ -3,7 +3,7 @@ title: 'Littérature Grecque Antique'
 description: "La littérature grecque antique a perduré à travers les siècles, influençant des générations d'écrivains, de philosophes et d'artistes à travers le monde"
 tags: ["Littérature Grecque Antique", "Héritage Immortel", "Grec", "littérature"]
 slug: 'litterature_grec'
-thumbnail: '\img\conseils-en-amour.webp'
+thumbnail: '/img/socrate-1.webp'
 draft: false
 date: '2024-06-25'
 ---
@@ -33,3 +33,7 @@ La poésie lyrique grecque, représentée par Pindare et Sappho, célèbre les �
 La littérature grecque antique a perduré à travers les siècles, influençant des générations d'écrivains, de philosophes et d'artistes à travers le monde. Ses thèmes universels, ses récits captivants et son exploration profonde de la condition humaine continuent de résonner et d'inspirer encore aujourd'hui.
 
 Plonger dans la littérature grecque antique, c'est découvrir un héritage culturel riche et diversifié qui continue de façonner notre compréhension de nous-mêmes et du monde qui nous entoure.
+
+
+---
+Rédigé par [Wilgas ADJOVI]
