@@ -2,7 +2,7 @@
 title: 'La Culture Béninoise'
 description: "La culture béninoise est un riche tissu de traditions, d'art et de spiritualité qui continue d'évoluer tout en préservant son héritage unique"
 tags: ["culture", "diversité", "bénin", "béninois", "traditions", "art", "spiritualité"]
-slug: 'cultutre_benin'
+slug: 'culture_benin'
 thumbnail: '/img/Yoruba-Dancers-931x598.webp'
 draft: false
 date: '2024-06-26'
@@ -45,3 +45,7 @@ La spiritualité joue un rôle essentiel dans la vie des Béninois. Le vaudou, u
 ---
 
 La culture béninoise est un riche tissu de traditions, d'art et de spiritualité qui continue d'évoluer tout en préservant son héritage unique. C'est cette diversité et cette profondeur culturelle qui font du Bénin un pays fascinant et accueillant.
+
+<br>
+
+Rédigé par [Dr Love]

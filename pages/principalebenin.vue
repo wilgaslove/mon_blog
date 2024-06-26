@@ -8,7 +8,7 @@
   </div>
 
   <div class="mt-[12%] bg-white test-center">
-    <video class="w-full h-[30rem] object-cover" controls>
+    <video class="w-full h-[30rem] object-cover" controls autoplay>
       <source src="public/img/lebenin.mp4"  type="video/mp4">
 
     </video>
