@@ -69,4 +69,8 @@ const path = useRoute().path;
 .content h5 {
     @apply text-base font-bold;
 }
+
+.lien {
+  color: blue
+}
 </style>
