@@ -34,7 +34,9 @@ const path = useRoute().path;
 </script>
 
 <style>
-.content p:not(:last-child),
+.content p:not(:last-child){
+  @apply text-[1.5rem];
+}
 .content li:not(:last-child),
 .content blockquote:not(:last-child),
 .content h1:not(:last-child),
@@ -51,22 +53,26 @@ const path = useRoute().path;
   }
   
 .content h1 {
-    @apply text-3xl font-bold;
+    @apply text-[3rem] font-bold;
 }
 
 .content h2 {
-    @apply text-2xl font-bold;
+    @apply text-[2.5rem] font-bold;
 }
 
 .content h3 {
-    @apply text-xl font-bold;
+    @apply text-[2rem] font-bold;
 }
 
 .content h4 {
-    @apply text-lg font-bold;
+    @apply text-[2rem] font-bold;
 }
 
 .content h5 {
     @apply text-base font-bold;
+}
+
+.lien {
+  color: blue
 }
 </style>
