@@ -1,7 +1,7 @@
 ---
 title: 'Euro 2024' 
 description: "Euro 2024 : la Belgique, tenue en échec par l'Ukraine, affrontera la France en huitièmes" 
-tags: ["foot", "sport", "euro", "euro 2024"]
+tags: ["foot", "sport", "euro", "euro 2024", "belgique"]
 slug: 'belgique'
 thumbnail: '/img/000_34ZF8P7.webp'
 date: '2024-06-26'
@@ -9,55 +9,28 @@ draft: false
 
 ---
 
+Kevin de Bruyne et ses coéquipiers n'ont pas trouvé la faille face à l'Ukraine à Stuttgart, le 26 juin 2024, et affronteront donc l'équipe de France en huitièmes de finale. © Fabrice Coffrini, AFP
 
+La Belgique n''est pas parvenue à l'emporter face à l'Ukraine (0-0), mercredi, à Stuttgart pour son dernier match de poules. Les Diables Rouges terminent donc deuxièmes du groupe C, et ils affronteront donc l'équipe de France en huitièmes de finale. L'Ukraine, est quant à elle, éliminée. Dans l'autre rencontre du groupe E, la Slovaquie et la Roumanie ont aussi fait match nul (1-1), et avec quatre points au compteur elles sont donc qualifiées pour la phase à élimination directe.
 
+La Belgique a manqué l'occasion de terminer première du groupe E de l'Euro 2024. Face à l'Ukraine, les Diables Rouges n'ont pas trouvé la faille (0-0). Ils affronteront donc l'équipe de France en huitièmes de finale. Les Ukrainiens sont, quant à eux, éliminés.
 
-L'amour en famille est l'une des fondations les plus importantes pour un foyer harmonieux et heureux. Il se manifeste à travers des gestes de tendresse, de soutien mutuel et de compréhension. Cet article explore l'importance de l'amour familial et propose des conseils pratiques pour le renforcer.
+La rencontre démarre par plusieurs minutes d'observation entre les deux sélections. La Belgique semble plus à l'aise techniquement, surtout Kevin de Bruyne. Le capitaine des Diables Rouges trouve Romelu Lukaku dans la profondeur, l'attaquant belge enchaîne sur une frappe écrasée qu'Anatoliy Trubin capte facilement (7e). En-dehors de cette occasion, les mouvements offensifs de la Belgique manquent de précision durant le premier quart d'heure.
 
-## L'Importance de l'Amour en Famille
+Le match, plutôt calme, commence à s'animer en quelques minutes. D'abord sur une initiative de Roman Yaremchuk, auteur d'une frappe puissante aux 25 mètres captée par Koen Casteels (20e). Dans la foulée, sur une perte de balle de Wout Faes, l'Ukraine tente un contre conclu par une frappe non-cadrée d'Artem Dovbyk (21e).  Le défenseur belge Arthur Theate s'essaie lui aussi à une frappe lointaine, mais elle finit largement à côté de la cage d'Anatoliy Trubin (23e). 
 
-### Création d'un Environnement Sûr
+À ce moment du match, la Slovaquie vient d'ouvrir le score face à la Roumanie dans l'autre rencontre du groupe E. Ce qui signifie qu'en l'état, il y aurait un France - Belgique en huitièmes de finale... Mais on n'en est pas encore là, et les Diables Rouges ont un coup franc intéressant à jouer (33e) : Kevin De Bruyne le tir directement, mais le ballon file de peu en sortie de but et le gardien ukrainien semblait sur la trajectoire. Dans la foulée, Georgiy Sudakov tente de créer du danger, mais Koen Casteels est encore bien présent pour arrêter sa frappe (34e).
 
-L'amour en famille crée un environnement où chacun se sent en sécurité et apprécié. C'est essentiel pour le développement émotionnel et psychologique des enfants et des adultes.
+La Belgique peine à convaincre dans ce premier acte, et l'Ukraine est sur le point de la surprendre  sur cette action. Roman Yaremchuk est servi en position de frappe dans la surface belge, et plutôt que de conclure, il décide de servir Artem Dovbyk dans l'axe... mais sa passe est trop puissante (42e). Kevin De Bruyne a une occasion de frappe, mais son enroulé termine dans les gants d'Anatoliy Trubin (45e). Dans l'autre match, la Roumanie a égalisé – et la Belgique reste dans le même temps le potentiel futur adversaire des Bleus.
 
-### Renforcement des Liens
+## Quelques occasions sans concrétisation
+Au retour des vestiaires, les Diables Rouges campent dans les 30 mètres adverses mais sans trouver la faille qui amènerait une occasion. Sur un beau mouvement initié par Kevin De Bruyne, Jérémy Doku déborde sur son aile et centre fort en direction de Romelu Lukaku. Mais l'attaquant belge ne peut réceptionner le ballon (58e). Comme en première mi-temps, la Belgique peine à exister dans ce second acte, et le chrono continue de tourner...
+Quelques occasions sans concrétisation
+Au retour des vestiaires, les Diables Rouges campent dans les 30 mètres adverses mais sans trouver la faille qui amènerait une occasion. Sur un beau mouvement initié par Kevin De Bruyne, Jérémy Doku déborde sur son aile et centre fort en direction de Romelu Lukaku. Mais l'attaquant belge ne peut réceptionner le ballon (58e). Comme en première mi-temps, la Belgique peine à exister dans ce second acte, et le chrono continue de tourner...
 
-Les liens familiaux solides sont la base de relations durables. L'amour et le respect mutuels aident à surmonter les défis et à célébrer les réussites ensemble.
+Les Ukrainiens tentent d'ouvrir le score, mais Koen Casteels veille au grain sur ce corner dangereux (83e). La Belgique n'est pas en reste, mais elle manque de précision (86e). Il règne comme un air de KO dans ces dernières minutes... Georgiy Sudakov tente un rush seul dans la défense espagnole, avec une frappe en conclusion arrêtée par le gardien belge (90e+1). Le match s'arrête là, ce sera donc France - Belgique le 1er juillet.
 
-### Soutien Émotionnel
+## La Roumanie et la Slovaquie en huitièmes de finale
+La Slovaquie et la Roumanie se sont qualifiées pour les huitièmes de finale après leur match nul (1-1) lors de la troisième et dernière journée du groupe E de l'Euro-2024, mercredi à Francfort.
 
-Les familles aimantes offrent un soutien émotionnel inestimable. Elles sont un refuge en période de stress et un endroit où l'on peut partager ses joies et ses peines.
-
-## Conseils pour Renforcer l'Amour en Famille
-
-### Communiquer Ouvertement
-
-La communication est la clé d'une relation familiale saine. Prenez le temps de parler avec chaque membre de la famille, écoutez activement et exprimez vos sentiments de manière honnête et respectueuse.
-
-### Passer du Temps Ensemble
-
-Partagez des activités et des loisirs en famille. Que ce soit un repas ensemble, une sortie ou simplement regarder un film, ces moments renforcent les liens et créent des souvenirs communs.
-
-### Montrer de l'Affection
-
-Ne sous-estimez pas le pouvoir des gestes d'affection. Les câlins, les mots gentils et les petites attentions quotidiennes montrent à vos proches combien vous tenez à eux.
-
-### Soutenir les Rêves et les Ambitions
-
-Encouragez chaque membre de la famille à poursuivre ses rêves et ses ambitions. Montrez votre soutien par des paroles encourageantes et en aidant à surmonter les obstacles.
-
-### Résoudre les Conflits avec Respect
-
-Les conflits sont inévitables, mais il est important de les gérer avec respect. Écoutez les points de vue de chacun, cherchez des solutions ensemble et évitez les critiques destructrices.
-
-### Célébrer les Réussites
-
-Prenez le temps de célébrer les réussites, grandes ou petites. Les célébrations renforcent le sentiment d'accomplissement et de reconnaissance au sein de la famille.
-
-### Pratiquer la Gratitude
-
-Exprimez régulièrement votre gratitude envers les membres de votre famille. Remerciez-les pour leurs gestes aimables et reconnaissez leurs efforts.
-
-## Conclusion
-
-L'amour en famille est un pilier essentiel pour le bonheur et le bien-être de chacun. En suivant ces conseils, vous pouvez renforcer les liens familiaux et créer un environnement où l'amour et le respect règnent en maîtres. Une famille aimante est une source inépuisable de soutien, de joie et de réconfort.
+La Roumanie pointe en tête du groupe avec 4 points, devant les deux autres équipes qualifiées du groupe, la Belgique et la Slovaquie, qui ont elles aussi 4 points et ont été départagées selon les critères fixés par l'UEFA.
