@@ -8,81 +8,29 @@ draft: false
 date: '2024-06-26'
 ---
 
-# Certains conseils en amour sont infaillibles et s'adaptent à tous types de relations, durables comme naissantes. Comment faire pour que mon couple fonctionne ? Comment être heureuse en couple ? Comment avoir une vie sexuelle épanouie ? Trouvez les réponses grâce à nos conseils sur la vie amoureuse !
+# Le Tour de France 2026 s'élancera de Barcelone
 
-## Sommaire
-### Comment trouver l'amour ?
-### Etre heureuse avec-soi-même avant d’être heureuse en couple
-### Des conseils pour bien vivre son histoire d’amour
-### Des conseils pour une vie sexuelle épanouie
+La société organisatrice du Tour de France a indiqué mardi que l'édition 2026 partirait depuis Barcelone. Il y aura "deux étapes complètes et un départ le troisième jour en Catalogne", avant de "se diriger vers la France", a précisé Christian Prudhomme, le directeur de la Grande Boucle.
 
-S'embarquer dans une nouvelle relation peut être effrayant. 
+Ce sera le troisième départ d'Espagne dans l'histoire plus que centenaire de la Grande Boucle. Le Tour de France partira de Barcelone en 2026, a annoncé la société organisatrice, Amaury Sport Organisation (ASO), mardi 18 juin.
 
-Et même lorsque votre couple dure, les années passées auprès de l'autre n'effacent pas les inquiétudes que l'on peut avoir face à l'avenir.
+"Barcelone est une ville prestigieuse et c'est une ville de sport", a souligné Christian Prudhomme, le directeur du Tour de France, auprès de l'AFP, précisant qu'il y aurait "deux étapes complètes et le départ" de la troisième étape en Catalogne.
 
-Quelque soit votre situation amoureuse, vous trouverez parmi ces conseils en amour de quoi vous sentir mieux au sein de votre couple ! 
+Ce sera la troisième fois depuis sa création en 1903 que le Tour de France s'élancera du territoire espagnol, après Saint-Sébastien en 1992 et Bilbao en 2023.
 
-## Comment trouver l'amour ?
+C'est aussi le quatrième "grand départ" de l'étranger en cinq ans (le 27e en 113 éditions) après Copenhague en 2022, Bilbao en 2023 et Florence en 2024, avant celui de Lille en 2025.
 
-- Pour trouver l'amour : habille-toi et sors
-Avis au plus casanières d'entre nous : il faut reconnaître que sortir de son cocon augmente considérablement les opportunités de rencontre, par rapport à rester sur son canapé devant « Dr House ».
+"Ces grands départs-là permettent au Tour de France de rayonner davantage encore, a défendu Christian Prudhomme. Je le revendique à la condition expresse qu'il y ait des petits villages français dans les villes-étapes du Tour, comme Évaux-les-Bains cette année, Castelnau-Magnoac en 2022 ou Châtillon-sur-Chalaron en 2023."
 
-Un peu de courage ! Une fois l'homme ou la femme parfaite en votre compagnie, vos sessions cocooning seront d'autant plus agréables.
+# Barcelone, "candidate depuis longtemps"
+Barcelone, ville-hôte des Jeux olympiques de 1992, était "candidate depuis longtemps" et l'actuel maire socialiste de la ville, Jaume Collboni, en poste depuis un an, "rêvait" d'accueillir la Grande Boucle, selon le directeur du Tour, ravi de ce grand départ.
 
-Et pour se faire, on se pomponne. Maquillage, coiffure, sans oublier votre plus jolie tenue, rien n'est négligé ! De quoi donner un coup de boost à son égo et retrouver confiance en ses charmes.
+"Tu as le prestige de la ville. Tu as la beauté des paysages, la proximité de la mer. Et puis tu as cette géographie sportive qui fait que tu peux imaginer un rendez-vous dès le week-end du grand départ pour les favoris du classement général."
 
-- L'amour virtuel ne suffit pas
-Oui, sur Facebook il est génial. Maintenant c’est bien d’aller voir comment ça se passe en 3D, IRL, dans la vraie vie quoi. De quand date sa photo par exemple ? 
+Le détail des premières étapes ne sera dévoilé qu'en septembre. À ce stade, Christian Prudhomme indique seulement qu'il y aura "deux étapes complètes et un départ le troisième jour en Catalogne", avant de "se diriger vers la France".
 
-Vous n'êtes jamais à l'abri d'une mauvaise surprise avec les rencontres en ligne. Entre photos volées ou mensonges sur sa taille par exemple, le seul moyen d'en avoir le cœur net et de ne pas perdre son temps, c'est le date !
+Seul indice sur le parcours : l'ascension de la colline de Montjuic, dans Barcelone, "est évidemment un atout incontestable", a-t-il ajouté.
 
-- Ne pas s'oublier
-N'oubliez pas qu'une relation amoureuse se conjugue à deux. Si les sacrifices ont parfois du bon au sein d'un couple, il n'est cependant pas question de renoncer à votre bonheur.
+Quant à l'éventuel impératif de placer, comme en 2023, les Pyrénées dès la première semaine du Tour sur le parcours, Christian Prudhomme a juste rappelé que "le dogme, c'est qu'il n'y a pas de dogme. Tout est possible."
 
-En plus, si on fait constamment passer ses désirs avant les nôtres, après, c’est à lui qu’on en voudra.
-
-- L’amour ne se mérite pas
-<strong>Être aimée</strong> n’a rien à voir avec se forcer à être parfaite, faire tout bien, être la plus belle et la plus lookée, et celle qui comble tous ses désirs.
-
-Ça, c’est de la séduction, et même si ça peut faire partie du jeu, ce n’est pas la même chose.
-Une relation amoureuse solide, c'est avant tout pouvoir être soi-même à tout instant.
-
-Apprendre à communiquer ses envies et ses besoins
-Qui n'a jamais entendu son homme se défendre avec cette fameuse phrase du "Je ne pouvais pas deviner" ? Un classique. Et à raison.
-
-Même si vous avez appris à vous connaitre et que vous commencez à identifier le fonctionnement de l'un l'autre, il est impossible pour vous, comme pour lui, de lire vos pensées. 
-
-Il n'y a aucun mal à communiquer ses désirs, même si une attention non sollicitée nous fait toujours rêver.
-
-Ce n’est pas parce qu’il nous aime qu’il devient extralucide, ce garçon.
-
-- Un homme qui ne rappelle pas n’est pas intéressé
-Ce qui ne veut pas dire qu’on n’est pas intéressante, juste que c’est un bon indice que ce n’est pas avec celui-là qu’on est destinée à former un couple.
-
-Alors pour son bien-être personnel, on tourne rapidement la page et on se remet en scelle. Hors de question de courir après un homme qui ne témoigne d'aucun signe d'intérêt.
-
-
-- Ce n’est pas parce qu’il ne rappelle pas qu’il est intéressant
-Le désir est ainsi paradoxalement fait qu’il s’attache à ce qui se refuse et qu’il ne peut pas avoir – c’est bien pour ça qu’on édite des sacs à main en version limitée, exprès pour qu’il n’y en ait pas pour tout le monde.
-
-Comment ça s’appelle alors quand on s’attache à ce qui est là ? Eh bien, ça s’appelle de l’amour !
-
-- Red flag s'il a déjà quelqu'un dans sa vie
-Parce que c’est comme ça qu’on se retrouve éperdue de désespoir toute seule à Noël alors qu’il est parti faire du ski dans le studio des parents de sa fiancée.
-
-Et d’ailleurs tous les autres soirs au moment où il repart.
-
-- L'obsession du téléphone dans l'attente d'un nouveau message
-
-Qui n'a jamais envoyé des textos « mine de rien » pour dire « Au fait comment ça va ?», en pensant « Je t’en supplie dis-moi que tu m’aimes », créé un nouveau compte sur le site de rencontres pour vérifier qu’il n’y allait plus, ou est passé « par hasard » pour la dix-septième fois devant chez lui…
-
-Tout ça, c’est le signe que les choses ne sont pas en train de se faire, mais on met du temps à le comprendre. Stupide ? Non, juste normal. C’est comme commencer par tomber sur les fesses quand on apprend à marcher.
-
-<strong> S'il n'est pas intéressé, il n'est pas intéressé </strong>
-
-- Aimer, c’est prendre des risques
-C’est le cas quand on s’ouvre à la présence d’un autre dans sa vie. Personne ne peut garantir le zéro douleur, le zéro malheur. Mais il n’y a qu’aimer qui garantisse le bonheur d’aimer. 
-
-À trop vous protéger, le risque d'isolement s'agrandit et vous emprisonne dans les mauvaises expériences passées. Le risque, c'est excitant. Saisissez-le !
-
-LA SUITE POUR LA PROCHAINE FOIS.....
+Cette année, le Tour de France s'élancera le 29 juin pour la première fois d'Italie avec une arrivée inédite trois semaines plus tard à Nice et non pas à Paris, en raison des <a href="https://www.france24.com/fr/jeux-olympiques-jo-paris-2024/" class="lien">Jeux olympiques.</a>
