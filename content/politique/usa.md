@@ -1,11 +1,11 @@
 ---
-title: 'Présidentiel au USA'
-description: 'Un article pour les amoureux...'
-tags: ["amour", "vie", "conseil", "aimer"]
-slug: 'relation_epanouie'
-thumbnail: '\img\conseils-en-amour.webp'
+title: 'Présidentielle au USA'
+description: 'Le débat qui opposera, jeudi, le président sortant à son rival pour l’élection présidentielle américaine'
+tags: ["télévisé", "Joe Biden", "Donald Trump", "présidentielle", "américaine", "républicain"]
+slug: 'usa'
+thumbnail: '/img/Biden_Trump.jpg.960x640_q85.jpg'
 draft: false
-date: '2024-06-25'
+date: '2024-06-26'
 ---
 
 # Premier duel télévisé entre Joe Biden et Donald Trump
