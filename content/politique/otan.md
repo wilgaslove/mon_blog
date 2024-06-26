@@ -11,7 +11,7 @@ draft: false
 
 # Otan : Mark Rutte, celui qui « murmurait à l’oreille de Trump » nommé à la tête de l’organisation
 
-## Introduction
+
 
 Mark Rutte, Premier ministre des Pays-Bas, partait grand favori pour remplacer Jens Stoltenberg.
 
