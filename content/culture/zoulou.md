@@ -53,3 +53,6 @@ Aujourd'hui, la culture zouloue continue d'évoluer tout en préservant ses trad
 ## Conclusion
 
 La culture zouloue est une mosaïque riche de traditions, d'histoire et d'innovation. Elle continue d'enrichir le patrimoine culturel mondial par sa diversité et sa résilience. Les Zoulous, avec leur fier héritage et leur esprit indomptable, restent une source d'inspiration pour de nombreuses générations.
+
+--- 
+Rédigé par [Dr Love]
