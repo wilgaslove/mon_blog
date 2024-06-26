@@ -1,6 +1,6 @@
 ---
 title: 'Quand parle-t-on de la culture ?'
-description: 'On parle de culture chaque fois que l'on évoque les croyances, les valeurs, les traditions, les arts, les institutions et les connaissances d'un groupe.'
+description: "On parle de culture chaque fois que l'on évoque les croyances, les valeurs, les traditions, les arts, les institutions et les connaissances d'un groupe."
 tags: ["culture", "croyances", "valeurs", "traditions", "arts"]
 slug: 'quand_parle_t_on_culture'
 thumbnail: '/img/Bandeau_portail_culture_taille_réduite.webp'

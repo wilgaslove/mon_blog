@@ -1,8 +1,8 @@
 ---
 title: 'Quelle est la culture asiatique la plus connue au monde extérieur ?'
-description: 'la culture chinoise continue de fasciner et d'inspirer les gens à travers le monde'
+description: "la culture chinoise continue de fasciner et d'inspirer les gens à travers le monde"
 tags: ["culture", "chinoise", "chine", "chinois", "cusine", "arts martiaux", "arts"]
-slug: 'mariage'
+slug: 'culture_chinoise'
 thumbnail: '/img/astrologie-culture-chinoise.webp'
 date: '2024-06-26'
 draft: false
