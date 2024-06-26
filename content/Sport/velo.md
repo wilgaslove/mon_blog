@@ -1,11 +1,11 @@
 ---
-title: 'Les meilleurs conseils en amour pour des relations épanouies'
-description: 'Un article pour les amoureux...'
-tags: ["amour", "vie", "conseil", "aimer"]
-slug: 'relation_epanouie'
-thumbnail: '\img\conseils-en-amour.webp'
+title: 'Tour de France 2026'
+description: "Le Tour de France 2026 s'élancera de Barcelone"
+tags: ["foot", "sport", "vélo", "france", "Tour de France 2026"]
+slug: 'velo'
+thumbnail: '/img/000_33C37G4.webp'
 draft: false
-date: '2024-06-25'
+date: '2024-06-26'
 ---
 
 # Certains conseils en amour sont infaillibles et s'adaptent à tous types de relations, durables comme naissantes. Comment faire pour que mon couple fonctionne ? Comment être heureuse en couple ? Comment avoir une vie sexuelle épanouie ? Trouvez les réponses grâce à nos conseils sur la vie amoureuse !

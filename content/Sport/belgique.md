@@ -8,6 +8,7 @@ date: '2024-06-26'
 draft: false
 
 ---
+# Euro 2024 : la Belgique, tenue en échec par l'Ukraine, affrontera la France en huitièmes
 
 Kevin de Bruyne et ses coéquipiers n'ont pas trouvé la faille face à l'Ukraine à Stuttgart, le 26 juin 2024, et affronteront donc l'équipe de France en huitièmes de finale. © Fabrice Coffrini, AFP
 

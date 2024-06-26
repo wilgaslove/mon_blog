@@ -9,7 +9,7 @@ draft: false
 
 ---
 
-
+# Euro 2024 : l'inusable Cristiano Ronaldo en (CR)7 chiffres
 
 
 Comptant parmi les grands favoris de la compétition, le Portugal a démarré son Euro 2024 par une victoire contre la République tchèque à Leipzig. Âgé de 39 ans, l’infatigable Cristiano Ronaldo, alias CR7, compte bien faire le maximum pour remporter un deuxième trophée continental européen avec ses coéquipiers de la Seleção.
