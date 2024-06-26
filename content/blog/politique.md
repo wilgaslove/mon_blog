@@ -1,9 +1,9 @@
 ---
-title: 'Article 1'
+title: 'L'ADN  porte les gènes qui codent pour les caractères héréditaires'
 description: 'Un article qui permet...'
 tags: ["politique", "intêret", "avantange"]
 slug: 'article1'
-thumbnail: '/img/European-parliament-strasbourg-inside.webp'
+thumbnail: '/img/caractere-hereditaire-adn.webp'
 draft: false
 date: '2023-06-18'
 ---
