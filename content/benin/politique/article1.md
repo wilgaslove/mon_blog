@@ -1,7 +1,7 @@
 ---
 title: 'Boni Yayi et Soglo : Médiateurs dans le Dialogue Bénin-Niger'
 description: "La médiation de Boni Yayi et Soglo dans le dialogue entre le Bénin et le Niger est un exemple remarquable de diplomatie africaine."
-tags: ["Médiateurs", "Dialogue", "Bénin-Niger", "Rôle", "Boni Yayi", "Soglo"]
+tags: ["Boni Yayi", "Nicéphore Soglo", "médiation", "diplomatie", "Bénin", "Niger", "Médiateurs", "Dialogue"]
 slug: 'emploi'
 thumbnail:  '/img/nicephore-soglo-et-boni-yayi-aux-cotes-de-abdourahamane-tiani-696x392.webp'
 date: '2024-06-27'
