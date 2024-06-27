@@ -1,8 +1,7 @@
 <template>
 
-  <div class="">
     <navBenin />
-  </div>
+
 
   <div>
   </div>
