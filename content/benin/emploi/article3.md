@@ -3,7 +3,7 @@ title: "Le Tourisme comme Secteur de Création d'Emploi au Bénin"
 description: "Le tourisme est un secteur prometteur pour la création d'emplois au Bénin. En tirant parti de son riche patrimoine culturel et naturel, le pays peut attirer des visiteurs du monde entier et créer des emplois dans divers domaines."
 tags: ["Tourisme", "Bénin", "Touristique", "Emplois", "Opportunités"]
 slug: 'article3'
-thumbnail:  '/img/entete_min.webp'
+thumbnail:  '/img/Tourisme-Benin-Porte-du-non-retour-edited.webp'
 date: '2024-06-27'
 draft: false
 ---
@@ -27,6 +27,11 @@ Le gouvernement du Bénin a mis en place plusieurs initiatives pour promouvoir l
 Bien que le tourisme offre un grand potentiel pour la création d'emplois au Bénin, il existe des défis à relever. Le pays doit améliorer son infrastructure touristique, promouvoir ses destinations touristiques à l'échelle internationale et améliorer la qualité des services touristiques.
 
 Cependant, il existe également des opportunités à saisir. Le tourisme durable et responsable, par exemple, peut non seulement créer des emplois, mais aussi contribuer à la conservation du patrimoine culturel et naturel du Bénin. De plus, le tourisme peut stimuler le développement des entreprises locales et contribuer à la réduction de la pauvreté.
+
+<div class="flex justify-center my-8">
+  <img src="/img/Sites-touristiques-du-nord-Benin-Chutes-de-Kota.webp" alt="Sites touristiques du nord Bénin" class="  border-2  rounded-lg"/>
+</div>
+
 
 ## Conclusion
 
