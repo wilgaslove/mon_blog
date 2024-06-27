@@ -1,5 +1,5 @@
 ---
-title: 'L'Emploi au Bénin'
+title: "L'Emploi au Bénin"
 description: "L'emploi au Bénin est un défi complexe qui nécessite une approche multidimensionnelle"
 tags: ["L'Emploi au Bénin", "L'emploi", "Bénin", "multidimensionnelle", "Opportunités"]
 slug: 'article1'
