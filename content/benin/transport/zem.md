@@ -42,7 +42,7 @@ Malgré ses nombreux avantages, le transport zem fait face à plusieurs défis :
 - **Réglementation** : Les autorités béninoises tentent de réguler le secteur pour améliorer la sécurité et les conditions de travail des zémidjans. Des initiatives telles que l'immatriculation des motos et la formation des conducteurs ont été mises en place.
 
 <div class="flex justify-center my-8">
-  <img src="/img/zem_benin.webp" alt="Zémidjan au Bénin" class="max-w-full h-auto border-2 border-gray-300 shadow-lg rounded-lg"/>
+  <img src="/img/zemidjan_0-750x430.webp" alt="Zémidjan au Bénin" class="max-w-full h-auto border-2  rounded-lg"/>
 </div>
 
 ## Impact Économique et Social
