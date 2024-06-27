@@ -2,7 +2,7 @@
 title: 'Le Ministère du Travail au Bénin'
 description: 'Le Ministère du Travail au Bénin : Rôle et Responsabilités'
 tags: ["Ministère", "Travail", "Bénin", "Responsabilités"]
-slug: 'emploi'
+slug: 'article2'
 thumbnail:  '/img/entete_min.webp'
 date: '2024-06-27'
 draft: false
