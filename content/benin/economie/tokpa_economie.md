@@ -50,8 +50,7 @@ Dantokpa joue un rôle clé dans la dynamisation du commerce local et régional.
 Le marché est également un incubateur pour les petites et moyennes entreprises (PME). De nombreux entrepreneurs débutent leurs activités à Dantokpa, bénéficiant de l'environnement commercial dynamique et de l'afflux constant de clients.
 
 
----
-Rédigé par [Wilgas ADJOVI]
+
 ## Défis et Perspectives
 
 Malgré son importance économique, le marché Dantokpa fait face à plusieurs défis, notamment la congestion, l'insécurité et les conditions sanitaires précaires. Les autorités locales travaillent à des projets de modernisation pour améliorer les infrastructures, renforcer la sécurité et assurer des conditions de travail décentes pour les commerçants.
