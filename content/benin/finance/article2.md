@@ -3,7 +3,7 @@ title: "Système Bancaire au Bénin"
 description: "Un aperçu du système bancaire au Bénin, ses acteurs principaux, ses services et son rôle dans l'économie."
 tags: ["finance", "Bénin", "économie", "banque", "système bancaire"]
 slug: 'systeme_bancaire_benin'
-thumbnail: '/img/systeme_bancaire_benin.jpg'
+thumbnail: '/img/BENIN-BR-1024x809.webp'
 date: '2024-06-27'
 draft: false
 ---
