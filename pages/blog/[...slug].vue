@@ -3,25 +3,24 @@
   <NavBlog />
   <div class="mt-[15%]">
 
-     <ContentDoc v-slot="{doc}" tag="article" :path="path" class="bg-white"> 
-
-      <!--En-tête du blog-->
-      <div class="text-center p-5">
-        <h1 class="text-4xl font-semibold">{{ doc.title }}</h1>
-        <img :src="doc.thumbnail" alt="" class="w-full h-full object-cover pt-[2%]">
-      </div>
-        
-      <p class="text-gray-500 text-sm mt-2">
-        {{ doc.date  }}
-      </p>
-        <!-- Contenu du blog -->
-        <ContentRenderer :value="doc" class="content mb-[10%]"/>
-        
-        
-
-      <footer class="flex justify-between fixed bottom-0 left-0 right-0  bg-black text-lg text-white py-5 px-4 shadow-md">
-      </footer>
-    </ContentDoc> 
+     <div class="bg-white px-4">
+       <ContentDoc v-slot="{doc}" tag="article" :path="path" >
+        <!--En-tête du blog-->
+        <div class="text-center p-5">
+          <h1 class="text-4xl font-semibold">{{ doc.title }}</h1>
+          <img :src="doc.thumbnail" alt="" class="w-full h-full object-cover pt-[2%]">
+        </div>
+       
+        <p class="text-gray-500 text-sm mt-2">
+          {{ doc.date  }}
+        </p>
+          <!-- Contenu du blog -->
+          <ContentRenderer :value="doc" class="content mb-[10%] "/>
+       
+        <footer class="flex justify-between fixed bottom-0 left-0 right-0  bg-black text-lg text-white py-5 px-4 shadow-md">
+        </footer>
+           </ContentDoc>
+     </div>
   </div>
   
 </template>
@@ -75,4 +74,6 @@ const path = useRoute().path;
 .lien {
   color: blue
 }
+
+
 </style>

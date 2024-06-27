@@ -27,7 +27,7 @@
         </template>
       </ContentList>
   </div>
-  <div v-else class="bg-white px-4">
+  <div v-else class="bg-white px-4 mb-[10%]">
     <ContentDoc v-slot="{doc}" tag="article" :path="path" >
        <div class="text-center  mt-[16%]">
          <h1 class="text-4xl font-semibold ">{{ doc.title }}</h1>
