@@ -48,6 +48,9 @@ Dantokpa joue un rôle clé dans la dynamisation du commerce local et régional.
 
 Le marché est également un incubateur pour les petites et moyennes entreprises (PME). De nombreux entrepreneurs débutent leurs activités à Dantokpa, bénéficiant de l'environnement commercial dynamique et de l'afflux constant de clients.
 
+
+---
+Rédigé par [Wilgas ADJOVI]
 ## Défis et Perspectives
 
 Malgré son importance économique, le marché Dantokpa fait face à plusieurs défis, notamment la congestion, l'insécurité et les conditions sanitaires précaires. Les autorités locales travaillent à des projets de modernisation pour améliorer les infrastructures, renforcer la sécurité et assurer des conditions de travail décentes pour les commerçants.
@@ -59,4 +62,7 @@ Des projets de modernisation sont en cours pour transformer le marché en un cen
 ## Conclusion
 
 Le marché Dantokpa est un pilier fondamental de l'économie béninoise. Il contribue significativement à la création d'emplois, à la génération de revenus et à la dynamisation du commerce. En relevant les défis actuels et en poursuivant les efforts de modernisation, le marché continuera à jouer un rôle central dans le développement économique du Bénin.
+
+---
+Rédigé par [Wilgas ADJOVI]
 

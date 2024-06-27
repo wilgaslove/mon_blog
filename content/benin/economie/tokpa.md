@@ -49,3 +49,5 @@ Les autorités locales et les organisations de commerçants travaillent ensemble
 
 Le marché Dantokpa est bien plus qu'un simple lieu de commerce ; c'est un symbole de la culture et de la vitalité économique du Bénin. Sa diversité, son dynamisme et son importance en font un pilier incontournable de la vie à Cotonou et un trésor pour l'Afrique de l'Ouest.
 
+---
+Rédigé par [Wilgas ADJOVI]
