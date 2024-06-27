@@ -65,7 +65,7 @@ const isCategory = slug.length === 1 // Si le slug a une longueur de 1, c'est un
 const categoryPath = `/benin/${slug[0]}`
 const query: QueryBuilderParams = {
   path: categoryPath,
-  sort: [{ date: 1 }]
+  sort: [{ date: -1 }]
 }
 
 function formatDate(date: string) {
