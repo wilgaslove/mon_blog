@@ -1,7 +1,7 @@
 <template>
   <!-- <NavBenin /> -->
   
-  <div>
+  <div >
     <ContentList path="/benin" :query="query">
       <template #default="{list}">
         <div class="mar_top">

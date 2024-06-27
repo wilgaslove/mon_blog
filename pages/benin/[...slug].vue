@@ -27,12 +27,12 @@
         </template>
       </ContentList>
   </div>
-  <div v-else>
-    <ContentDoc v-slot="{doc}" tag="article" :path="path" class="bg-white ">
-      <div class="text-center  mt-[16%]">
-        <h1 class="text-4xl font-semibold h-[320px]">{{ doc.title }}</h1>
-          <img :src="doc.thumbnail" alt="" class="w-full h-full object-cover">
-        </div>
+  <div v-else class="bg-white px-4">
+    <ContentDoc v-slot="{doc}" tag="article" :path="path" >
+       <div class="text-center  mt-[16%]">
+         <h1 class="text-4xl font-semibold ">{{ doc.title }}</h1>
+         <img :src="doc.thumbnail" alt="" class="w-full h-full object-cover">
+       </div>
         
         <!-- Contenu du blog -->
         <ContentRenderer :value="doc" class="content"/>
