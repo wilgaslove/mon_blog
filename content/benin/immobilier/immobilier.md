@@ -66,7 +66,7 @@ Travailler avec des professionnels locaux, tels que des agents immobiliers, des 
 Diversifier les investissements en immobilier résidentiel, commercial et touristique peut aider à répartir les risques et à maximiser les rendements.
 
 <div class="flex justify-center my-8">
-  <img src="/img/immobilier_benin.webp" alt="Investissement Immobilier au Bénin" class="max-w-full h-auto border-2 border-gray-300 shadow-lg rounded-lg"/>
+  <img src="/img/public\img\vente-parcelle-terrain2-592x444.webp" alt="Investissement Immobilier au Bénin" class="max-w-full h-auto border-2 border-gray-300 shadow-lg rounded-lg"/>
 </div>
 
 ## Conclusion
