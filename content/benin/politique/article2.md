@@ -4,7 +4,7 @@ description: "La crise entre le Bénin et le Niger met en évidence l'importance
 tags: ["Crise", "Bénin", "Niger", "Crise entre le Bénin et le Niger"]
 slug: 'emploi'
 thumbnail:  '/img/SIPA_01117991_000030-scaled.webp'
-date: '2023-06-17'
+date: '2024-06-27'
 draft: false
 ---
 
