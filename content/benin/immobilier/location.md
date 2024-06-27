@@ -2,7 +2,7 @@
 title: "La Location Immobilière au Bénin"
 description: "Un aperçu du marché de la location immobilière au Bénin, des tendances actuelles aux défis et opportunités pour les locataires et les propriétaires."
 tags: ["immobilier", "Bénin", "location", "marché immobilier", "logement", "propriété"]
-slug: 'location_immobiliere_benin'
+slug: 'location'
 thumbnail: '/img/location.webp'
 date: '2024-06-27'
 draft: false
