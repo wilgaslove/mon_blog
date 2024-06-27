@@ -4,7 +4,7 @@ description: "L'investissement immobilier au Bénin offre de nombreuses opportun
 tags: ["immobilier", "Bénin", "investissement", "économie", "propriété"]
 slug: 'investissement_immobilier_benin'
 thumbnail: '/img/invertissement_immo.webp'
-date: '2024-06-26'
+date: '2024-06-27'
 draft: false
 ---
 
