@@ -2,9 +2,10 @@
 title: "Le Marché Dantokpa : Un Atout pour l'Économie Béninoise"
 description: "Le Marché Dantokpa est un pilier fondamental de l'économie béninoise. Il contribue significativement à la création d'emplois, à la génération de revenus "
 tags: ["argent", "finance", "Bénin", "économie", "L'Économie du Bénin", "marché", "tokpa", "dantokpa", "le plus grand marché du bénin", "commerce"]
-slug: "tokpa_economie"
-thumbnail: "/img/DANTOKPA.webp"
-draft: false 
+slug: 'tokpa_economie'
+thumbnail: '/img/DANTOKPA.webp'
+date: '2024-06-27'
+draft: false
 
 
 ---

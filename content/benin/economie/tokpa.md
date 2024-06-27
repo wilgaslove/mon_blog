@@ -3,7 +3,7 @@ title: "L'Économie du Bénin"
 description: "Le marché Dantokpa est bien plus qu'un simple lieu de commerce ; c'est un symbole de la culture et de la vitalité économique du Bénin"
 tags: ["argent", "finance", "Bénin", "économie", "L'Économie du Bénin", "marché", "tokpa", "dantokpa", "le plus grand marché du bénin", "commerce"]
 slug: 'tokpa'
-thumbnail:  '/img/marche-dantokpa-696x392.webp'
+thumbnail: '/img/marche-dantokpa-696x392.webp'
 date: '2023-06-27'
 draft: false
 ---
