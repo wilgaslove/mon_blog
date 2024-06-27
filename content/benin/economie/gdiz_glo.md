@@ -56,7 +56,7 @@ La GDIZ offre plusieurs avantages attractifs pour les investisseurs, notamment :
 ## Impact Économique et Social
 
 <div class="flex justify-center my-8">
-  <img src="/img/emploi_gdiz.webp" alt="Glo-Djigbé" class="w-full h-[30%] object-cover "/>
+  <img src="/img/emploi_gdiz.webp" alt="Glo-Djigbé" class="w-[100%] object-cover "/>
 </div>
 Depuis sa création, la Zone Économique et Industrielle de Glo-Djigbé a eu un impact significatif sur l'économie béninoise :
 
