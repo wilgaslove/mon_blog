@@ -1,13 +1,12 @@
 
 <template>
   <NavBenin />
-  <MarqueeBanner />
   <div v-if="isCategory">
      <!-- Afficher les articles de la catégorie -->
      <ContentList :path="categoryPath" :query="query">
         <template #default="{ list }">
           <div class="mt-[16%]">
-            <div v-for="(benin, index) in list" :key="index" class="relative bg-white shadow-md round-2xl mb-1 border-2 border-[#aaba]">
+            <div v-for="(benin, index) in list" :key="index" class="bg-white  round-2xl mb-1 border-2 border-[#aaba]">
               <div class="h-[320px]">
                 <img :src="benin.thumbnail" alt="" class="w-full h-full object-cover">
               </div>
@@ -20,9 +19,7 @@
             </div>
           </div>
           
-          <!-- <footer 
-          class="flex justify-between fixed bottom-0 left-0 right-0  bg-black text-lg text-white py-5 px-4 shadow-md">
-        </footer> -->
+          
         </template>
 
         <template #not-found>
@@ -31,10 +28,10 @@
       </ContentList>
   </div>
   <div v-else>
-    <ContentDoc v-slot="{doc}" tag="article" :path="path" class="bg-white">
-      <div class="text-center p-5">
-        <h1 class="text-4xl font-semibold">{{ doc.title }}</h1>
-        <img :src="doc.thumbnail" alt="" class="w-full h-full object-cover pt-[2%]">
+    <ContentDoc v-slot="{doc}" tag="article" :path="path" class="bg-white ">
+      <div class="text-center  mt-[16%]">
+        <h1 class="text-4xl font-semibold h-[320px]">{{ doc.title }}</h1>
+          <img :src="doc.thumbnail" alt="" class="w-full h-full object-cover">
         </div>
         
         <!-- Contenu du blog -->
@@ -92,9 +89,6 @@ function formatDate(date: string) {
   @apply mb-4;
   }
 
-  .article {
-    margin-top: 5rem;
-  }
   
 .content h1 {
     @apply text-[3rem] font-bold;
