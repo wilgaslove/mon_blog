@@ -3,7 +3,7 @@ title: 'Crise entre le Bénin et le Niger'
 description: "La crise entre le Bénin et le Niger met en évidence l'importance de la coopération régionale et de la diplomatie dans la résolution des conflits."
 tags: ["Crise", "Bénin", "Niger", "Crise entre le Bénin et le Niger"]
 slug: 'emploi'
-thumbnail:  '/img/SIPA_01117991_000030-scaled.webp'
+thumbnail:  '/img/Talon-et-Tchiani.webp'
 date: '2024-06-27'
 draft: false
 ---
