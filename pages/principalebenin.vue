@@ -34,7 +34,8 @@
         <h3>Performances Sportives</h3>
         <p>Le sport au Bénin est en pleine effervescence, notamment avec les performances remarquables des athlètes béninois sur la scène internationale. Le football reste le sport le plus populaire, et l'équipe nationale, les Écureuils, continue de participer à des compétitions africaines et mondiales. Le pays soutient également les jeunes talents dans divers sports pour encourager une pratique sportive diversifiée.</p>
         <p>En somme, l'actualité au Bénin est marquée par des avancées significatives dans divers domaines. Les réformes économiques, les progrès politiques, les efforts en matière de santé et d'éducation, la richesse culturelle, les initiatives environnementales et les succès sportifs illustrent bien le dynamisme et le potentiel du Bénin.</p>
-     </article>
+        <h5 class="text-center font-bold">Cet article est rédigé par Wilgas ADJOVI</h5>
+      </article>
     
   </div>
   
