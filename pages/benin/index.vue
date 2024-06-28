@@ -1,5 +1,4 @@
 <template>
-  <!-- <NavBenin /> -->
   
   <div >
     <ContentList path="/benin" :query="query">
@@ -38,7 +37,7 @@ import { useDateFormat } from '@vueuse/core'
 
 const query: QueryBuilderParams = {
   path: '/benin',
-  sort: [{date: 1}]
+  sort: [{date: -1}]
 }
 
 function formatDate(date:string) {

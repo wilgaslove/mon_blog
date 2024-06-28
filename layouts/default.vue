@@ -1,16 +1,15 @@
 <template>
   <div>
-
-   
+    <BarreDefillante />
+    <PubliciteGauch />
+    <PubliciteDroite />
     <slot />
   </div>
-  <BarreDefillante />
-  <PubliciteGauch />
-  <PubliciteDroite />
+  
+  <Footer />
 </template>
 
 <script lang="ts" setup>
-
 </script>
 
 <style>

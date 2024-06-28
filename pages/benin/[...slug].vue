@@ -27,7 +27,7 @@
         </template>
       </ContentList>
   </div>
-  <div v-else class="bg-white px-4 mb-[10%]">
+  <div v-else class="bg-white px-4 mb-2">
     <ContentDoc v-slot="{doc}" tag="article" :path="path" >
        <div class="text-center  mt-[16%]">
          <h1 class="text-4xl font-semibold ">{{ doc.title }}</h1>
@@ -36,12 +36,10 @@
         
         <!-- Contenu du blog -->
         <ContentRenderer :value="doc" class="content"/>
-
-        <footer class="flex justify-between fixed bottom-0 left-0 right-0  bg-black text-lg text-white py-5 px-4 shadow-md">
-          <p class="text-gray-500 text-sm mt-2">
+        <p class="text-gray-500 text-sm mt-2">
               {{ doc.date  }}
           </p>
-        </footer>
+      
     </ContentDoc>
   </div>
 
