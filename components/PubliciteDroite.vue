@@ -6,7 +6,7 @@
       <img src="assets/img/highfive.png" alt="" class="object-cover bg[#bbb]" >
       <h1 class="text-2xl font-bold text-blue-600/100 p-4">Highfive University</h1>
       <P class="text-black font-bold" >
-        Découvrez l'école de codage <a href="#" class="text-blue-600/100 ">Highfive University</a> ... 
+        Découvrez l'école de codage <a href="https://highfiveuniversity.bj/" class="text-blue-600/100 ">Highfive University</a> ... 
       </P>
     </div>
    </div>
