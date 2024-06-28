@@ -1,7 +1,7 @@
 <template>
 
   <NavBlog />
-  <div class="mt-[15%]">
+  <div class="mt-[15%] ">
 
      <div class="bg-white px-4">
        <ContentDoc v-slot="{doc}" tag="article" :path="path" >
@@ -17,8 +17,7 @@
           <!-- Contenu du blog -->
           <ContentRenderer :value="doc" class="content mb-[10%] "/>
        
-        <footer class="flex justify-between fixed bottom-0 left-0 right-0  bg-black text-lg text-white py-5 px-4 shadow-md">
-        </footer>
+       
            </ContentDoc>
      </div>
   </div>

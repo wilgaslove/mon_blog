@@ -3,7 +3,7 @@
   <div>
     <ContentList path="/blog"  :query="query" >
        <template #default="{list}">
-        <div class="mt-[15%] ">
+        <div class="mt-[17%] mb-[20%]">
           <div v-for="(blog, index) in list" :key="index" class="shadow-md round-2xl mb-1 border-2 border-[#aaba] ">
             <div class="h-[320px] ">
               <img :src=" blog.thumbnail" alt="" class="w-full h-full object-cover">

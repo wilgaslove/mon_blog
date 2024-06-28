@@ -1,7 +1,7 @@
 <template>
 
   <NavBlog />
-  <div class="mt-[15%]">
+  <div class="bg-white px-4 mt-[15%]">
 
      <ContentDoc v-slot="{doc}" tag="article" :path="path" class="bg-white"> 
 
@@ -19,8 +19,6 @@
         
         
 
-      <footer class="flex justify-between fixed bottom-0 left-0 right-0  bg-black text-lg text-white py-5 px-4 shadow-md">
-      </footer>
     </ContentDoc> 
   </div>
   

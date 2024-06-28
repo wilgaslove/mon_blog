@@ -3,7 +3,7 @@
   <div>
     <ContentList path="/culture"  :query="query" >
        <template #default="{list}">
-        <div class="mt-[15%]">
+        <div class="mt-[17%] mb-[20%]">
           <div v-for="(culture, index) in list" :key="index" class="bg-white shadow-md round-2xl mb-1 border-2 border-[#aaba] ">
             <div class="h-[320px] ">
               <img :src=" culture.thumbnail" alt="" class="w-full h-full object-cover">
