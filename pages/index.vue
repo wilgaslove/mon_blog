@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="flex flex-wrap mt-[18%]">
+    <div class="flex flex-wrap mt-[18%] mb-[10%]">
       <div class="grid">
         <a href="#">
         <img src="assets\img\000_33QN69V-1.webp" alt="l'image du président renversé"  >
@@ -50,23 +50,23 @@
           <p class=""><a href="#">Affaire ICC service au Bénin</a></p>
         </div>
       </a>
-      <a href="">
+      <a href="https://afrique.tv5monde.com/information/niger-orano-fait-un-pas-vers-lexploitation-dun-important-gisement-duranium">
         <div class="grid">
-          <img src="assets\img\niger_leader.webp" alt="">
-          <p class=""><a href="#">La politique en France</a></p>
+          <img src="assets\img\niger.jpg" alt="">
+          <p class=""><a href="https://afrique.tv5monde.com/information/niger-orano-fait-un-pas-vers-lexploitation-dun-important-gisement-duranium">La politique en France</a></p>
         </div>
       </a>
 
-      <a href="">
+      <a href="https://afrique.tv5monde.com/information/depart-des-troupes-americaines-du-niger-washington-sous-estime-la-junte">
         <div class="grid">
-          <img src="assets\img\niger_leader.webp" alt="">
-          <p class=""><a href="#">La politique en France</a></p>
+          <img src="assets\img\field_media_image-1401748-AP20029218125250.jpg" alt="">
+          <p class=""><a href="https://afrique.tv5monde.com/information/depart-des-troupes-americaines-du-niger-washington-sous-estime-la-junte">La politique en France</a></p>
         </div>
       </a>
-      <a href="">
+      <a href="https://presidence.bj/actualite/comptes-rendus/342/audience-palais-marina---patrice-talon-recoit-delegation-conference-grandes-chancelleries-afrique-francophone-france">
         <div class="grid">
-          <img src="assets\img\niger_leader.webp" alt="">
-          <p class=""><a href="#">La politique en France</a></p>
+          <img src="assets\img\837410799363001719421757.jpeg" alt="">
+          <p class=""><a href="https://presidence.bj/actualite/comptes-rendus/342/audience-palais-marina---patrice-talon-recoit-delegation-conference-grandes-chancelleries-afrique-francophone-france">La politique en France</a></p>
         </div>
       </a>
       <a href="">
