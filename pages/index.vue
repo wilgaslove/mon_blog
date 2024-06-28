@@ -69,42 +69,42 @@
           <p class=""><a href="https://presidence.bj/actualite/comptes-rendus/342/audience-palais-marina---patrice-talon-recoit-delegation-conference-grandes-chancelleries-afrique-francophone-france">La politique en France</a></p>
         </div>
       </a>
-      <a href="">
+      <a href="https://www.france24.com/fr/am%C3%A9riques/20240628-dans-un-d%C3%A9bat-o%C3%B9-la-forme-comptait-plus-que-le-fond-joe-biden-s-%C3%A9crase-face-%C3%A0-donald-trump">
         <div class="grid">
-          <img src="assets\img\niger_leader.webp" alt="">
-          <p class=""><a href="#">La politique en France</a></p>
+          <img src="assets\img\drump&biden.PNG" alt="">
+          <p class=""><a href="https://www.france24.com/fr/am%C3%A9riques/20240628-dans-un-d%C3%A9bat-o%C3%B9-la-forme-comptait-plus-que-le-fond-joe-biden-s-%C3%A9crase-face-%C3%A0-donald-trump">La politique en France</a></p>
         </div>
       </a>
-      <a href="">
+      <a href="https://www.france24.com/fr/france/20240627-direct-france-l%C3%A9gislatives-plus-que-trois-jours-avant-le-scrutin">
         <div class="grid">
-          <img src="assets\img\niger_leader.webp" alt="">
-          <p class=""><a href="#">La politique en France</a></p>
+          <img src="assets\img\election.PNG" alt="">
+          <p class=""><a href="https://www.france24.com/fr/france/20240627-direct-france-l%C3%A9gislatives-plus-que-trois-jours-avant-le-scrutin">Ultime débat, Attal accuse Bardella de soutenir des candidats "racistes, antisémites et homophobes"</a></p>
         </div>
       </a>
-      <a href="">
+      <a href="https://information.tv5monde.com/direct/direct-ukraine-la-guerre-naurait-pas-eu-lieu-si-les-etats-unis-avaient-un-president-respecte">
         <div class="grid">
-          <img src="assets\img\niger_leader.webp" alt="">
-          <p class=""><a href="#">La politique en France</a></p>
+          <img src="assets\img\AP24174568371232_0.webp" alt="">
+          <p class=""><a href="https://information.tv5monde.com/direct/direct-ukraine-la-guerre-naurait-pas-eu-lieu-si-les-etats-unis-avaient-un-president-respecte">DIRECT - Ukraine : la guerre n'aurait pas eu lieu si les Etats-Unis avaient un "président respecté" selon Trump</a></p>
         </div>
       </a>
-      <a href="">
+      <a href="https://information.tv5monde.com/societe/justice-quel-sort-pour-lartiste-malienne-rokia-traore-detenue-rome-2727084">
         <div class="grid">
-          <img src="assets\img\niger_leader.webp" alt="">
-          <p class=""><a href="#">La politique en France</a></p>
-        </div>
-      </a>
-
-      <a href="">
-        <div class="grid">
-          <img src="assets\img\niger_leader.webp" alt="">
-          <p class=""><a href="#">La politique en France</a></p>
+          <img src="assets\img\AFP-TV_20200313_ACE_FRA_EnfantsJustice_1PV6CT_fr.webp" alt="l'artiste malienne Rokia Traoré">
+          <p class=""><a href="https://information.tv5monde.com/societe/justice-quel-sort-pour-lartiste-malienne-rokia-traore-detenue-rome-2727084">Justice : quel sort pour l'artiste malienne Rokia Traoré détenue à Rome ?</a></p>
         </div>
       </a>
 
-      <a href="">
+      <a href="https://information.tv5monde.com/afrique/florent-couao-zotti-les-autorites-nigeriennes-ont-besoin-de-se-creer-une-bete-noire-pour">
         <div class="grid">
-          <img src="assets\img\niger_leader.webp" alt="">
-          <p class=""><a href="#">La politique en France</a></p>
+          <img src="assets\img\Salon_du_livre_de_Paris_2011_-_Florent_Couao-Zotti_-_004.webp" alt="">
+          <p class=""><a href="https://information.tv5monde.com/afrique/florent-couao-zotti-les-autorites-nigeriennes-ont-besoin-de-se-creer-une-bete-noire-pour">Florent Couao-Zotti : « Les autorités nigériennes ont besoin de se créer une bête noire pour donner souffle à leur verbiage antifrançais »</a></p>
+        </div>
+      </a>
+
+      <a href="https://information.tv5monde.com/international/drones-americains-en-mer-noire-la-russie-menace-lotan-dune-confrontation-directe">
+        <div class="grid">
+          <img src="assets\img\field_media_image-2843683-45475c5cc9e3681b9ba5a92d0a84896e9fafbdf9.webp" alt="">
+          <p class=""><a href="https://information.tv5monde.com/international/drones-americains-en-mer-noire-la-russie-menace-lotan-dune-confrontation-directe">Drones américains en mer Noire: la Russie menace l'Otan d'une "confrontation directe"</a></p>
         </div>
       </a>
     </div>
