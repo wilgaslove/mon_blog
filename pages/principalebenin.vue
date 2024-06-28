@@ -2,12 +2,13 @@
 
     <navBenin />
 
-  <div  class="bg-white px-4 py-2">
-    <div class="mt-[18%] bg-white test-center">
-      <video class="w-full h-[30rem] object-cover" controls autoplay>
-        <source src="public/img/lebenin.mp4"  type="video/mp4">
-      </video>
-    </div>
+  <div  class="bg-white px-4 py-4 mb-[10%]">
+
+      <div class="mt-[18%] bg-white test-center">
+        <video class="w-full h-[30rem] object-cover" controls autoplay>
+          <source src="public/img/lebenin.mp4"  type="video/mp4">
+        </video>
+      </div>
     
       <article>
         <h1 class="text-4xl font-bold animate-pulse text-blue-600/100 p-4">Grands Titres de l'Actualité au Bénin</h1>
