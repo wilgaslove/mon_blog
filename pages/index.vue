@@ -2,30 +2,30 @@
   <div>
     <div class="flex flex-wrap mt-[18%] mb-[10%]">
       <div class="grid">
-        <a href="#">
-        <img src="assets\img\000_33QN69V-1.webp" alt="l'image du président renversé"  >
+        <a href="https://www.france24.com/fr/afrique/20240614-niger-l-immunit%C3%A9-de-l-ex-pr%C3%A9sident-mohamed-bazoum-lev%C3%A9-par-la-cour-d-%C3%A9tat">
+        <img src="assets\img\000_33QN69V-1.webp" alt="l'image du président renversé au Niger"  >
         </a>
         <p class=""><a href="https://www.france24.com/fr/afrique/20240614-niger-l-immunit%C3%A9-de-l-ex-pr%C3%A9sident-mohamed-bazoum-lev%C3%A9-par-la-cour-d-%C3%A9tat">Le président Bazoum a été renversé en août 2023.</a></p>
       </div>
 
-      <a href="#">
+      <a href="https://theconversation.com/la-politique-etrangere-de-la-france-apres-les-legislatives-le-prix-du-chaos-233390">
         <div class="grid">
           <img src="assets\img\top-jobs-1200-13062024-1024x683.jpg" alt="">
-          <p class=""><a href="#">La politique en France</a></p>
+          <p class=""><a href="https://theconversation.com/la-politique-etrangere-de-la-france-apres-les-legislatives-le-prix-du-chaos-233390">La politique étrangère de la France après les législatives : le prix du chaos</a></p>
         </div>
       </a>
 
-      <a href="">
+      <a href="https://www.youtube.com/watch?v=-XAIAfq1Wd8">
         <div class="grid">
           <img src="assets\img\jad20230222-gfbenin-ouverture-1.webp" alt="l'image du président de la republique du bénin">
-          <p class=""><a href="#">Son excellence Patrice TALON dans l'élan de la révélation du Bénin au monde</a></p>
+          <p class=""><a href="https://www.youtube.com/watch?v=-XAIAfq1Wd8">Son excellence Patrice TALON dans l'élan de la révélation du Bénin au monde</a></p>
         </div>
       </a>
 
-      <a href="">
+      <a href="https://www.rfi.fr/fr/podcasts/l-accent-des-autres/20240615-migrations-le-canada-est-le-cinqui%C3%A8me-pays-qui-accueille-le-plus-de-migrants-dans-le-monde">
         <div class="grid">
-          <img src="assets\img\niger_leader.webp" alt="">
-          <p class=""><a href="#">La politique en France</a></p>
+          <img src="assets\img\CAN.jpg" alt="">
+          <p class=""><a href="https://www.rfi.fr/fr/podcasts/l-accent-des-autres/20240615-migrations-le-canada-est-le-cinqui%C3%A8me-pays-qui-accueille-le-plus-de-migrants-dans-le-monde">Migrations: le Canada est le cinquième pays qui accueille le plus de migrants dans le monde</a></p>
         </div>
       </a>
 
@@ -69,16 +69,16 @@
           <p class=""><a href="https://presidence.bj/actualite/comptes-rendus/342/audience-palais-marina---patrice-talon-recoit-delegation-conference-grandes-chancelleries-afrique-francophone-france">La politique en France</a></p>
         </div>
       </a>
-      <a href="https://www.france24.com/fr/am%C3%A9riques/20240628-dans-un-d%C3%A9bat-o%C3%B9-la-forme-comptait-plus-que-le-fond-joe-biden-s-%C3%A9crase-face-%C3%A0-donald-trump">
+      <a href="https://information.tv5monde.com/direct/direct-proche-orient-echanges-de-tirs-la-frontiere-israelo-libanaise-2727772">
         <div class="grid">
-          <img src="assets\img\drump&biden.PNG" alt="">
-          <p class=""><a href="https://www.france24.com/fr/am%C3%A9riques/20240628-dans-un-d%C3%A9bat-o%C3%B9-la-forme-comptait-plus-que-le-fond-joe-biden-s-%C3%A9crase-face-%C3%A0-donald-trump">La politique en France</a></p>
+          <img src="assets\img\AP24174621723313.webp" alt="des maisons démolie">
+          <p class=""><a href="https://information.tv5monde.com/direct/direct-proche-orient-echanges-de-tirs-la-frontiere-israelo-libanaise-2727772">Proche-Orient : échanges de tirs à la frontière israélo-libanaise</a></p>
         </div>
       </a>
-      <a href="https://www.france24.com/fr/france/20240627-direct-france-l%C3%A9gislatives-plus-que-trois-jours-avant-le-scrutin">
+      <a href="https://information.tv5monde.com/international/prisons-77880-detenus-au-1er-juin-en-france-nouveau-record-2727760">
         <div class="grid">
-          <img src="assets\img\election.PNG" alt="">
-          <p class=""><a href="https://www.france24.com/fr/france/20240627-direct-france-l%C3%A9gislatives-plus-que-trois-jours-avant-le-scrutin">Ultime débat, Attal accuse Bardella de soutenir des candidats "racistes, antisémites et homophobes"</a></p>
+          <img src="assets\img\detenus_france.webp" alt="">
+          <p class=""><a href="https://information.tv5monde.com/international/prisons-77880-detenus-au-1er-juin-en-france-nouveau-record-2727760">Prisons: 77.880 détenus au 1er juin en France, nouveau record"</a></p>
         </div>
       </a>
       <a href="https://information.tv5monde.com/direct/direct-ukraine-la-guerre-naurait-pas-eu-lieu-si-les-etats-unis-avaient-un-president-respecte">
