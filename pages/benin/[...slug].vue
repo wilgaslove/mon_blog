@@ -1,7 +1,7 @@
 
 <template>
   <NavBenin />
-  <div v-if="isCategory">
+  <div v-if="isCategory" class="mt-[5%] mb-[10%]">
      <!-- Afficher les articles de la catégorie -->
      <ContentList :path="categoryPath" :query="query">
         <template #default="{ list }">
@@ -27,7 +27,7 @@
         </template>
       </ContentList>
   </div>
-  <div v-else class="bg-white px-4 mb-2">
+  <div v-else class="bg-white px-4 mb-[10%]">
     <ContentDoc v-slot="{doc}" tag="article" :path="path" >
        <div class="text-center  mt-[16%]">
          <h1 class="text-4xl font-semibold ">{{ doc.title }}</h1>
