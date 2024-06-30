@@ -9,6 +9,7 @@ export default defineNuxtConfig({
     "nuxt-marquee",
     "@nuxt/icon",
     "@formkit/auto-animate",
+    // "@nuxtjs/vuetify",
   ],
 
   components: [
