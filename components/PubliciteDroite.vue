@@ -8,17 +8,16 @@
       <P class="text-black font-bold" >
         Découvrez l'école de codage <a href="https://highfiveuniversity.bj/" class="text-blue-600/100 ">Highfive University</a> ... 
       </P>
-    
-
-    
-
-
    </div>
+
+   <div class=" fixed bottom-[8%] right-2  bg-[#bbb]  text-lg text-white py-5 px-4  h-[30%] w-[20%]">
+     <MyCarousel />
   </div>
+</div>
 </template>
 
 <script lang="ts" setup>
-
+import MyCarousel from '~/components/MyCarousel.vue';
 </script>
 
 <style>

@@ -24,4 +24,7 @@ export default defineNuxtConfig({
     { path:'~/components', pathPrefix: false },
   ],
   
+  plugins: [
+    { src: '~/plugins/vue-carousel.js', mode: 'client' }
+  ]
 })
