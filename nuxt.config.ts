@@ -7,7 +7,8 @@ export default defineNuxtConfig({
     "@nuxtjs/tailwindcss",
     "@vueuse/nuxt",
     "nuxt-marquee",
-    "@nuxt/icon"
+    "@nuxt/icon",
+    "@formkit/auto-animate",
   ],
 
   components: [
