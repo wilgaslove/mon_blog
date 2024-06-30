@@ -2,7 +2,13 @@
 export default {
   content: [],
   theme: {
-    extend: {},
+    extend: {
+      animation: {
+        'bounce-slow': 'bounce 7s infinite',
+        'pulse-slow': 'pulse 10s infinite',
+        wiggle: 'wiggle 1s ease-in-out infinite',
+      }
+    },
   },
   plugins: [
     require("@tailwindcss/typography")
