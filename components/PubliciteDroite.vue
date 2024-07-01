@@ -10,9 +10,7 @@
       </P>
    </div>
 
-   <div class=" fixed bottom-[8%] right-2  bg-[#bbb]  text-lg text-white py-5 px-4  h-[30%] w-[20%]">
-     <MyCarousel />
-  </div>
+   
 </div>
 </template>
 

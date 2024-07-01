@@ -15,6 +15,15 @@
       <p>Nous vous invitons à célébrer Dieu lors de nos deux cultes de louange et d'adoration dimanche prochain, de 7h à 9h45 et de 9h45 à 12h45.</p>
     </marquee>
   </div>
+
+  <div class="absolute">
+    <marquee behavior="scroll" direction="left" class="text-black  marquee fixed font-bold  fixed bottom-[8%]  left-[80%]  bg-[#bbb]  text-lg text-white py-5 px-4  h-[30%] w-[20%]" style="width: 100vw;">
+      <img src="~/assets/img/highfive.png" alt="image 1" class="  imge h-[90%] w-[80%]">
+      <img src="~/assets/img/837410799363001719421757.jpeg" alt="image 2" class=" object-cover imge">
+      <img src="~/assets/img/jad20230222-gfbenin-ouverture-1.webp" alt="image 3" class=" object-cover imge">
+      
+    </marquee>
+  </div>
 </template>
 
 <style>
@@ -22,5 +31,10 @@
 marquee p {
   display: inline-block;
   margin-right: 4rem;
+}
+
+.imge {
+  display: inline-block;
+  
 }
 </style>

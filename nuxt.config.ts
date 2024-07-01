@@ -8,6 +8,10 @@ export default defineNuxtConfig({
   tailwindcss:{
     configPath: "tailwind.config.ts"
   },
+css:[
+  "/assets/css/custom.css"
+],
+
   
   devtools: { enabled: true },
   modules: [
