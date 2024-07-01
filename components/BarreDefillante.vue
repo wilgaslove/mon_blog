@@ -17,10 +17,10 @@
   </div>
 
   <div class="absolute">
-    <marquee behavior="scroll" direction="left" class="text-black  marquee fixed font-bold  fixed bottom-[8%]  left-[80%]  bg-[#bbb]  text-lg text-white py-5 px-4  h-[30%] w-[20%]" style="width: 100vw;">
-      <img src="~/assets/img/highfive.png" alt="image 1" class="  imge h-[90%] w-[80%]">
-      <img src="~/assets/img/837410799363001719421757.jpeg" alt="image 2" class=" object-cover imge">
-      <img src="~/assets/img/jad20230222-gfbenin-ouverture-1.webp" alt="image 3" class=" object-cover imge">
+    <marquee behavior="scroll" direction="left" class="text-black  marquee fixed font-bold  fixed bottom-[8%]  left-[80%]    text-lg text-white   h-[30%] w-[20%]" >
+      <img src="~/assets/img/highfive.png" alt="image 1" class=" object-cover imge w-full h-full">
+      <img src="~/assets/img/837410799363001719421757.jpeg" alt="image 2" class=" object-cover imge w-full h-full">
+      <img src="~/assets/img/jad20230222-gfbenin-ouverture-1.webp" alt="image 3" class=" object-cover imge w-full h-full">
       
     </marquee>
   </div>
@@ -35,6 +35,7 @@ marquee p {
 
 .imge {
   display: inline-block;
+  margin-right: 2rem;
   
 }
 </style>
