@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="corpsprincipal">
     <div class="flex flex-wrap mt-[18%] mb-[10%]">
       <div class="grid">
         <a href="https://www.france24.com/fr/afrique/20240614-niger-l-immunit%C3%A9-de-l-ex-pr%C3%A9sident-mohamed-bazoum-lev%C3%A9-par-la-cour-d-%C3%A9tat">
