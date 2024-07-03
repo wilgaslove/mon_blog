@@ -34,6 +34,11 @@ const isBeninPage = route.path.includes('/benin')
   white-space: nowrap;
 }
 
+.scroll-container li {
+  margin-inline: 2px;
+  padding-inline: 5px
+}
+
 .header {
   display: inline-flex;
   /* Other styles */
