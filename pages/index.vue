@@ -1,7 +1,7 @@
 <template>
-  <div class="sm:my-[32%] 
+  <div class="sm:my-[30%] 
   ">
-    <div class="flex flex-wrap mt-[13%] mb-[10%]">
+    <div class="flex flex-wrap mt-[1%] mb-[10%] ">
       <div class="grid 
       sm: sm:w-[55%] sm:mx-auto sm: sm:justify-center sm:mt-4 sm:bg-white
       ">
