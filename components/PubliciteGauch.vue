@@ -8,7 +8,7 @@
       <img src="assets/img/pc_gamer.webp" alt="">
       <p class="sm:px-1 sm:bg-[#bbb]"
       >Promo spéciale bureautique gamer</p>
-      <p class="sm:px-1 font-bold">95-47-92-36</p>
+      <p class="sm:px-1 font-bold sm:pb-4 sm:bg-[#bbb]">95-47-92-36</p>
     </div>
    </div>
 
