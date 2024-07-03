@@ -1,13 +1,15 @@
 <template>
 
   <NavBlog />
-  <div class="mt-[15%] ">
+  <div class="mt-[15%] 
+  sm:my-[30%] sm:mx-[20%] 
+  ">
 
      <div class="bg-white px-4">
        <ContentDoc v-slot="{doc}" tag="article" :path="path" >
         <!--En-tête du blog-->
         <div class="text-center p-5">
-          <h1 class="text-4xl font-semibold">{{ doc.title }}</h1>
+          <h1 class="text-xl font-semibold">{{ doc.title }}</h1>
           <img :src="doc.thumbnail" alt="" class="w-full h-full object-cover pt-[2%]">
         </div>
        
