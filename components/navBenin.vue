@@ -1,7 +1,7 @@
 <template>
   <div>
     <header class="relative">
-      <ul class="flex justify-between fixed top-0 left-0 right-0  bg-[#bbb] text-lg text-white py-5 px-4 shadow-md">
+      <ul class="flex justify-between fixed top-0 left-0 right-0  bg-[#bbb] text-lg text-white py-5 px-4 shadow-md navb">
         <li><NuxtLink to="/">Accueil</NuxtLink></li>
         <li><NuxtLink to="/benin/emploi">Emploi</NuxtLink></li>
         <li><NuxtLink to="/benin/politique">Politique</NuxtLink></li>
@@ -32,4 +32,8 @@ li:hover {
   
 }
 
+.navb li {
+  margin-right: 2px;
+  padding-inline: 2px;
+}
 </style>

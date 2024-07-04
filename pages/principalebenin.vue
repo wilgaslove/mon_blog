@@ -14,7 +14,7 @@
     
       <article>
         <h1 class="text-4xl font-bold animate-pulse-slow text-red-600/100 p-4 
-        sm:text-[1.5rem]
+        sm:text-[1.5rem] 
         ">Grands Titres de l'Actualité au Bénin</h1>
         <h2>Économie</h2>
         <h3>Réformes et Investissements</h3>
