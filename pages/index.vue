@@ -159,7 +159,6 @@
 
 <style scoped>
 .grid {
-  /* background-color: ; */
   /* height: 35%;
   width: 35%;
   border: 1rem;
