@@ -6,13 +6,16 @@
         <div class="mar_top 
        
         ">
-          <div v-for="(benin, index) in list" :key="index"  class="bg-white shadow-md round-2xl mb-1 border-2 border-[#aaba]">
-            <div class="h-[300px]">
+          <div v-for="(benin, index) in list" :key="index"  class="bg-white shadow-md round-2xl mb-1 border-2 border-[#aaba]
+           sm:w-[55%] sm:mx-auto sm: sm:justify-center sm:mt-4 sm:bg-white
+          ">
+            <div class="h-[30px] sm:h-[20%] ">
               <img :src="benin.thumbnail" alt="" class="w-full h-full object-cover">
             </div>
-            <h2 class="font-bold text-2xl ml-2">
-              <NuxtLink v-if="benin._path" :to="'/benin/'  +  benin._path.replace('/benin/', '')">{{ benin.title }}</NuxtLink>
-              <span v-else>{{ benin.title }}</span>
+            <h2 class="font-bold text-2xl ml-2 
+            ">
+              <NuxtLink v-if="benin._path" :to="'/benin/'  +  benin._path.replace('/benin/', '')" class="">{{ benin.title }}</NuxtLink>
+              <span v-else>{{ benin.title }}</span> 
             </h2>
             <p v-if="benin.description" class="ml-2" >{{ benin.description }}</p>
             <p class="ml-2" >{{ formatDate(benin.date) }}</p>

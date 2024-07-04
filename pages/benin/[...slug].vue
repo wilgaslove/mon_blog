@@ -15,7 +15,7 @@
               <div class="h-[320px] sm:h-[20%]">
                 <img :src="benin.thumbnail" alt="" class="w-full h-full object-cover">
               </div>
-              <h2 class="font-bold text-2xl ml-2">
+              <h2 class="font-bold text-2xl ml-5">
                 <NuxtLink v-if="benin._path" :to="'/benin/' + benin._path.replace('/benin/', '')">{{ benin.title }}</NuxtLink>
                 <span v-else>{{ benin.title }}</span>
               </h2>
@@ -88,9 +88,7 @@ function formatDate(date: string) {
 .content h3:not(:last-child),
 .content h4:not(:last-child),
 .content pre:not(:last-child),
-.smgeneral {
-  height: 5%;
-}
+
 .content table:not(:last-child) {
   @apply mb-4;
   }
