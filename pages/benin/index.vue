@@ -3,7 +3,9 @@
   <div >
     <ContentList path="/benin" :query="query">
       <template #default="{list}">
-        <div class="mar_top">
+        <div class="mar_top 
+       
+        ">
           <div v-for="(benin, index) in list" :key="index"  class="bg-white shadow-md round-2xl mb-1 border-2 border-[#aaba]">
             <div class="h-[300px]">
               <img :src="benin.thumbnail" alt="" class="w-full h-full object-cover">

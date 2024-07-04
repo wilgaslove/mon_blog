@@ -1,20 +1,25 @@
 
 <template>
   <NavBenin />
-  <div v-if="isCategory" class="mt-[5%] mb-[10%]">
+  <div v-if="isCategory" class="mt-[5%] mb-[10%]
+  
+  ">
      <!-- Afficher les articles de la catégorie -->
      <ContentList :path="categoryPath" :query="query">
         <template #default="{ list }">
-          <div class="mt-[16%]">
-            <div v-for="(benin, index) in list" :key="index" class="bg-white  round-2xl mb-1 border-2 border-[#aaba]">
-              <div class="h-[320px]">
+          <div class="mt-[16%] smgeneral
+          sm:w-[55%] sm:mx-auto sm: sm:justify-center  sm:bg-white sm:my-[30%]
+          ">
+            <div v-for="(benin, index) in list" :key="index" class="bg-white  round-2xl mb-1 border-2 border-[#aaba] 
+            ">
+              <div class="h-[320px] sm:h-[20%]">
                 <img :src="benin.thumbnail" alt="" class="w-full h-full object-cover">
               </div>
               <h2 class="font-bold text-2xl ml-2">
                 <NuxtLink v-if="benin._path" :to="'/benin/' + benin._path.replace('/benin/', '')">{{ benin.title }}</NuxtLink>
                 <span v-else>{{ benin.title }}</span>
               </h2>
-              <p v-if="benin.description" class="ml-2">{{ benin.description }}</p>
+              <p v-if="benin.description" class="ml-2 ">{{ benin.description }}</p>
               <p class="ml-2">{{ formatDate(benin.date) }}</p>
             </div>
           </div>
@@ -83,6 +88,9 @@ function formatDate(date: string) {
 .content h3:not(:last-child),
 .content h4:not(:last-child),
 .content pre:not(:last-child),
+.smgeneral {
+  height: 5%;
+}
 .content table:not(:last-child) {
   @apply mb-4;
   }
@@ -111,5 +119,5 @@ function formatDate(date: string) {
 .lien {
   color: blue
 }
+
 </style>
-ty
