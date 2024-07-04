@@ -16,9 +16,9 @@
         <a href="https://web.telegram.org/a/#6296504337" >
           <Icon name="logos:telegram" />
         </a>
-        <a href="" >
+        <!-- <a href="" >
           <Icon name="bi:twitter-x" />
-        </a>
+        </a> -->
       </wilgas>
       <span class="mr-4">&copy; {{ new Date().getFullYear() }} Wilgas ADJOVI. Tous droits réservés.</span>
 
