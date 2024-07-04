@@ -37,7 +37,7 @@
   ">
     <ContentDoc v-slot="{doc}" tag="article" :path="path" >
        <div class="text-center  mt-[16%]">
-         <h1 class="text-4xl font-semibold ">{{ doc.title }}</h1>
+         <h1 class="text-4xl font-semibold sm:text-[1.5rem]">{{ doc.title }}</h1>
          <img :src="doc.thumbnail" alt="" class="w-full h-full object-cover">
        </div>
         
@@ -81,7 +81,7 @@ function formatDate(date: string) {
 
 <style>
 .content p:not(:last-child){
-  @apply text-[1.5rem];
+  @apply text-[1.5rem] sm:text-[1rem];
 }
 .content li:not(:last-child),
 .content blockquote:not(:last-child),
@@ -92,7 +92,7 @@ function formatDate(date: string) {
 .content pre:not(:last-child),
 
 .content table:not(:last-child) {
-  @apply mb-4;
+  @apply mb-4 ;
   }
 
   
