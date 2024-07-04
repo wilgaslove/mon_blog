@@ -9,6 +9,7 @@
         <template #default="{ list }">
           <div class="mt-[16%] 
           sm:w-[58%] sm:mx-auto sm: sm:justify-center  sm:bg-white sm:my-[30%]
+          md:w-[58%] md:mx-auto md: md:justify-center  md:bg-white md:my-[30%]
           ">
             <div v-for="(benin, index) in list" :key="index" class="bg-white  round-2xl mb-1 border-2 border-[#aaba] 
             ">

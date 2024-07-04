@@ -3,6 +3,7 @@
   <NavBlog />
   <div class="mt-[15%] 
   sm:my-[30%] sm:mx-[20%] 
+  md:my-[17%] md:mx-[20%]
   ">
 
      <div class="bg-white px-4">
@@ -10,7 +11,7 @@
         <!--En-tête du blog-->
         <div class="text-center p-5">
           <h1 class="text-xl font-semibold">{{ doc.title }}</h1>
-          <img :src="doc.thumbnail" alt="" class="w-full h-full object-cover pt-[2%]">
+          <img :src="doc.thumbnail" alt="" class="w-full h-full object-cover pt-[2%] md:w-[150%]">
         </div>
        
         <p class="text-gray-500 text-sm mt-2">
