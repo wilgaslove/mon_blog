@@ -77,5 +77,4 @@ const path = useRoute().path;
   color: blue
 }
 
-
 </style>
