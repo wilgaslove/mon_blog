@@ -7,7 +7,7 @@
      <!-- Afficher les articles de la catégorie -->
      <ContentList :path="categoryPath" :query="query">
         <template #default="{ list }">
-          <div class="mt-[16%] smgeneral
+          <div class="mt-[16%] 
           sm:w-[55%] sm:mx-auto sm: sm:justify-center  sm:bg-white sm:my-[30%]
           ">
             <div v-for="(benin, index) in list" :key="index" class="bg-white  round-2xl mb-1 border-2 border-[#aaba] 
@@ -15,11 +15,11 @@
               <div class="h-[320px] sm:h-[20%]">
                 <img :src="benin.thumbnail" alt="" class="w-full h-full object-cover">
               </div>
-              <h2 class="font-bold text-2xl ml-5">
+              <h2 class="font-bold text-2xl ml-5 sm:text-[1rem]">
                 <NuxtLink v-if="benin._path" :to="'/benin/' + benin._path.replace('/benin/', '')">{{ benin.title }}</NuxtLink>
-                <span v-else>{{ benin.title }}</span>
+                <span v-else class="sm:text-[1rem]">{{ benin.title }}</span>
               </h2>
-              <p v-if="benin.description" class="ml-2 ">{{ benin.description }}</p>
+              <p v-if="benin.description" class="ml-2 sm:text-[1rem]">{{ benin.description }}</p>
               <p class="ml-2">{{ formatDate(benin.date) }}</p>
             </div>
           </div>
@@ -32,7 +32,9 @@
         </template>
       </ContentList>
   </div>
-  <div v-else class="bg-white px-4 mb-[10%]">
+  <div v-else class="bg-white px-4 mb-[10%] 
+ sm:w-[55%] sm:mx-auto sm: sm:justify-center sm:my-[30%] sm:bg-white
+  ">
     <ContentDoc v-slot="{doc}" tag="article" :path="path" >
        <div class="text-center  mt-[16%]">
          <h1 class="text-4xl font-semibold ">{{ doc.title }}</h1>
@@ -94,28 +96,30 @@ function formatDate(date: string) {
   }
 
   
-.content h1 {
-    @apply text-[3rem] font-bold;
+  .content h1 {
+    @apply text-[3rem] font-bold sm:text-[1.5rem];
+   
 }
 
 .content h2 {
-    @apply text-[2.5rem] font-bold;
+    @apply text-[2.5rem] font-bold sm:text-[1.25rem];
 }
 
 .content h3 {
-    @apply text-[2rem] font-bold;
+    @apply text-[2rem] font-bold sm:text-[1rem];
 }
 
 .content h4 {
-    @apply text-[2rem] font-bold;
+    @apply text-[2rem] font-bold sm:text-[0.75rem];
 }
 
 .content h5 {
-    @apply text-base font-bold;
+    @apply text-base font-bold sm:text-[0.70rem];
 }
 
 .lien {
   color: blue
 }
+
 
 </style>
