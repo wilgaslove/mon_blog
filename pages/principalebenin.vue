@@ -2,16 +2,20 @@
 
     <navBenin />
 
-  <div  class="bg-white px-4 py-4 mb-[10%]">
+  <div  class="bg-white px-4 py-4 mb-[10%] smgénéral
+  sm:w-[55%] sm:mx-auto sm: sm:justify-center sm:my-[25%] sm:bg-white
+  ">
 
       <div class="mt-[18%] bg-white test-center">
-        <video class="w-full h-[30rem] object-cover" controls autoplay>
+        <video class="w-full h-[15rem] object-cover" controls >
           <source src="public/img/lebenin.mp4"  type="video/mp4">
         </video>
       </div>
     
       <article>
-        <h1 class="text-4xl font-bold animate-pulse text-blue-600/100 p-4">Grands Titres de l'Actualité au Bénin</h1>
+        <h1 class="text-4xl font-bold animate-pulse-slow text-red-600/100 p-4 
+        sm:text-[1.5rem]
+        ">Grands Titres de l'Actualité au Bénin</h1>
         <h2>Économie</h2>
         <h3>Réformes et Investissements</h3>
         <p>Le Bénin poursuit ses efforts de réforme économique avec des initiatives visant à améliorer l'environnement des affaires et à attirer les investisseurs étrangers. Parmi les mesures récentes, la modernisation des infrastructures portuaires et routières figure en tête de liste. Le gouvernement béninois mise également sur la promotion de l'entrepreneuriat local pour stimuler la croissance économique.</p>
@@ -57,4 +61,13 @@ h3{
   font-size: 1.5em;
   font-weight: bold;
 }
+
+.smgénéral h2 {
+  @apply sm:text-[1.20rem]
+}
+
+.smgénéral h3 {
+  @apply sm:text-[1rem]
+}
+
 </style>
