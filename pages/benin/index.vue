@@ -7,7 +7,6 @@
        
         ">
           <div v-for="(benin, index) in list" :key="index"  class="bg-white shadow-md round-2xl mb-1 border-2 border-[#aaba]
-           sm:w-[55%] sm:mx-auto sm: sm:justify-center sm:mt-4 sm:bg-white
           ">
             <div class="h-[30px] sm:h-[20%] ">
               <img :src="benin.thumbnail" alt="" class="w-full h-full object-cover">

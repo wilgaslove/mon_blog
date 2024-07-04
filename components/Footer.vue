@@ -10,7 +10,7 @@
         <a href="https://github.com/wilgaslove" >
           <Icon name="mdi:github"  />
         </a>
-        <a href="" >
+        <a href="https://wa.me/22995479236" >
           <Icon name="logos:whatsapp-icon" />
         </a>
         <a href="https://web.telegram.org/a/#6296504337" >
