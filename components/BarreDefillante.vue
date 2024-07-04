@@ -1,6 +1,6 @@
 <template>
   <!-- Utilisation du module marquee de nuxt: npx nuxi@latest module add marquee -->
-  <div>
+  <div class="barrdefillante">
     <marquee behavior="scroll" direction="left" class="text-black bg-white marquee fixed top-[7%] left-0 right-0 py-4 text-lg  font-bold" style="width: 100vw;">
       <p>Wilgas ADJOVI, alias Dr_Love, entrepreneur et développeur, vous invite à rejoindre son équipe pour des aventures fabuleuses. Contact : (+229) 95-95-95-95.</p>
 
@@ -16,7 +16,7 @@
     </marquee>
   </div>
 
-  <div class="absolute">
+  <div class="absolute defillantephoto">
     <marquee behavior="scroll" direction="left" class="text-black  marquee fixed font-bold  fixed bottom-[8%]  left-[80%]    text-lg text-white   h-[30%] w-[20%]" >
       <img src="~/assets/img/highfive.png" alt="image 1" class=" object-cover imge w-full h-full">
       <img src="~/assets/img/837410799363001719421757.jpeg" alt="image 2" class=" object-cover imge w-full h-full">
