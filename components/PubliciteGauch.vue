@@ -4,6 +4,7 @@
    
     <div class="animate-bounce-slow fixed top-[21%] left-5  bg-[#bbb] text-lg text-black py-5 px-4 shadow-md  h-[30%] w-[15%] 
     sm:w-[20%] sm:h-[17%] sm:px-0 sm:left-1 sm:text-xs sm:pt-0 sm:text-
+    md:w-[22%] md:h-[18%] md:px-0 md:left-1 md:text-xs md:pt-0 md:text-
     ">
       <img src="assets/img/pc_gamer.webp" alt="">
       <p class="sm:px-1 sm:bg-[#bbb]"
