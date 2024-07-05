@@ -3,12 +3,14 @@
     <div class="copyright flex justify-center   fixed bottom-0 text-center text-lg text-black py-4 border-2 rounded- bg-[#cbd5e1]
     sm:right-0 sm:left-0 sm:text-center sm:mx-auto  sm:block sm:flex sm:flex-col
     md:right-0 md:left-0 md:text-center md:mx-auto  md:block md:flex md:flex-col
+    lg:right-10 lg:left-10 lg:text-center lg:mx-auto  lg:block lg:flex lg:flex-col
     
     ">
 
       <wilgas class="flex justify-evenly w-[18%] sm
       sm:mx-auto 
       md:mx-auto
+      lg:mx-auto
       ">
         <a href="https://github.com/wilgaslove" >
           <Icon name="mdi:github"  />

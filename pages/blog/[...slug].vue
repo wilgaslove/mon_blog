@@ -3,7 +3,7 @@
   <NavBlog />
   <div class="mt-[15%] 
   sm:my-[30%] sm:mx-[20%] 
-  md:my-[17%] md:mx-[20%]
+  md:my-[22%] md:mx-[20%]
   ">
 
      <div class="bg-white px-4">
@@ -43,19 +43,24 @@ const path = useRoute().path;
 }
 .content li:not(:last-child),
 .content blockquote:not(:last-child),
-.content h1:not(:last-child),
-.content h2:not(:last-child),
-.content h3:not(:last-child),
-.content h4:not(:last-child),
+.content h1:not(:last-child) {
+  @apply md:text-[2rem]
+}
+.content h2:not(:last-child){
+  @apply md:text-[1.75rem]
+}
+.content h3:not(:last-child) {
+  @apply md:text-[1.60rem]
+}
+.content h4:not(:last-child){
+  @apply md:text-[1.4rem]
+}
 .content pre:not(:last-child),
 .content table:not(:last-child) {
   @apply mb-4;
   }
 
-  .article {
-    margin-top: 5rem;
-  }
-  
+
 .content h1 {
     @apply text-[3rem] font-bold sm:text-[1.5rem] md:text-[1.7rem];
    
