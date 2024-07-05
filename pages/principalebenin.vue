@@ -3,11 +3,15 @@
     <navBenin />
 
   <div  class="bg-white px-4 py-4 mb-[10%] smgénéral
-  sm:w-[55%] sm:mx-auto sm: sm:justify-center sm:my-[25%] sm:bg-white
+       sm:w-[55%] sm:mx-auto sm: sm:justify-center sm:my-[25%] sm:bg-white
+       md:w-[55%] md:mx-auto md: md:justify-center md:my-[15%] md:bg-white 
+       lg:w-[55%] lg:mx-auto lg: lg:justify-center lg:my-[12%] lg:bg-white  
+       xl:w-[55%] xl:mx-auto xl: xl:justify-center xl:my-[10%] xl:bg-white  
+       2xl:w-[55%] 2xl:mx-auto 2xl: 2xl:justify-center 2xl:my-[10%] 2xl:bg-white 
   ">
 
       <div class="mt-[18%] bg-white test-center">
-        <video class="w-full h-[15rem] object-cover" controls autoplay>
+        <video class="w-full h-[15rem] object-cover" controls >
           <source src="public/img/lebenin.mp4"  type="video/mp4">
         </video>
       </div>
@@ -15,6 +19,10 @@
       <article>
         <h1 class="text-4xl font-bold animate-pulse-slow text-red-600/100 p-4 
         sm:text-[1.5rem] 
+        md:text-[1.5rem] 
+        lg:text-[1.5rem] 
+        xl:text-[1.5rem] 
+        2xl:text-[1.5rem] 
         ">Grands Titres de l'Actualité au Bénin</h1>
         <h2>Économie</h2>
         <h3>Réformes et Investissements</h3>
