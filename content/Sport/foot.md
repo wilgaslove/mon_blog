@@ -14,7 +14,7 @@ draft: false
 
 Comptant parmi les grands favoris de la compétition, le Portugal a démarré son Euro 2024 par une victoire contre la République tchèque à Leipzig. Âgé de 39 ans, l’infatigable Cristiano Ronaldo, alias CR7, compte bien faire le maximum pour remporter un deuxième trophée continental européen avec ses coéquipiers de la Seleção.
 
-Le Portugal est entré en lice dans l'Euro 2024, mardi 18 juin, en affrontant la République tchèque dans le cadre du groupe F, avec à la clef un succès 2 buts à 1. Parmi les grands joueurs qui composent la Seleção pour cette édition se trouve <a href="https://www.france24.com/fr/tag/cristiano-ronaldo/" class="lien">Cristiano Ronaldo</a>, 39 ans. Et puisque ce dernier porte le chiffre 7 sur son maillot – aussi bien en sélection qu’en club – France 24 vous propose de revenir, en 7 chiffres, sur le palmarès de cet athlète qui a marqué le football de son empreinte… et qui semble vouloir continuer à le faire.
+Le Portugal est entré en lice dans l'Euro 2024, mardi 18 juin, en affrontant la République tchèque dans le cadre du groupe F, avec à la clef un succès 2 buts à 1. Parmi les grands joueurs qui composent la Seleção pour cette édition se trouve <a href="https://www.france24.com/fr/tag/cristiano-ronaldo/" class="lien" target="_blank">Cristiano Ronaldo</a>, 39 ans. Et puisque ce dernier porte le chiffre 7 sur son maillot – aussi bien en sélection qu’en club – France 24 vous propose de revenir, en 7 chiffres, sur le palmarès de cet athlète qui a marqué le football de son empreinte… et qui semble vouloir continuer à le faire.
 
 ## 6
 2004, 2008, 2012, 2016, 2021… et maintenant 2024. Cristiano Ronaldo dispute en Allemagne son sixième Euro avec la Seleção. Il est devenu le seul détenteur du record de participations, qu’il partageait jusque-là avec l'ancien gardien espagnol Iker Casillas.
@@ -40,7 +40,7 @@ Cristiano Ronaldo est une machine à marquer des buts. De ses débuts en 2002 au
 Il a inscrit un total de 893 buts dans sa carrière, ce qui en fait, selon la Fifa, le meilleur buteur de l’histoire du football… rien que ça. Notons par ailleurs que 450 de ces buts – quasiment la moitié – ont été inscrits sous les couleurs du Real Madrid. Il est tout simplement le recordman du club espagnol.
 
 ## 187
-Cristiano Ronaldo est "M. Ligue des champions". Il en a disputé 187 matches dans sa carrière, un record. Et, avec 141 buts inscrits dans cette compétition, <a href="https://www.uefa.com/uefachampionsleague/history/rankings/players/goals_scored/" class="lien">il en est aussi le meilleur buteur</a> de tous les temps, juste devant Lionel Messi (129 buts).
+Cristiano Ronaldo est "M. Ligue des champions". Il en a disputé 187 matches dans sa carrière, un record. Et, avec 141 buts inscrits dans cette compétition, <a href="https://www.uefa.com/uefachampionsleague/history/rankings/players/goals_scored/" class="lien" target="_blank">il en est aussi le meilleur buteur</a> de tous les temps, juste devant Lionel Messi (129 buts).
 
 ## 632 000 000
 De nombreuses célébrités sont présentes sur le réseau social Instagram. Et Cristiano Ronaldo ne déroge pas à la règle. CR7 est d’ailleurs l’une des personnalités les plus suivies du monde sur le réseau social avec quelque 632 millions d’abonnés. Là encore, il devance d’ailleurs son grand rival Leo Messi, qui en compte (seulement) 503 millions.

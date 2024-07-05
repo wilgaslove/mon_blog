@@ -15,7 +15,7 @@ draft: false
 
 Mark Rutte, Premier ministre des Pays-Bas, partait grand favori pour remplacer Jens Stoltenberg.
 
-DIPLOMATIE - Dans un contexte international tendu marqué par le conflit israélo-palestinien et <a href="https://www.huffingtonpost.fr/international/article/guerre-en-ukraine-comment-cette-coalition-veut-kiev-avec-des-f-16_218002.html" class="lien">la guerre en Ukraine</a>, l’Otan vient de se doter d’un nouveau leader. Les 32 pays de l’alliance transatlantique ont nommé ce mercredi 26 juin le Premier ministre néerlandais Mark Rutte, 57 ans, comme prochain secrétaire général.
+DIPLOMATIE - Dans un contexte international tendu marqué par le conflit israélo-palestinien et <a href="https://www.huffingtonpost.fr/international/article/guerre-en-ukraine-comment-cette-coalition-veut-kiev-avec-des-f-16_218002.html" class="lien" target="_blank">la guerre en Ukraine</a>, l’Otan vient de se doter d’un nouveau leader. Les 32 pays de l’alliance transatlantique ont nommé ce mercredi 26 juin le Premier ministre néerlandais Mark Rutte, 57 ans, comme prochain secrétaire général.
 
 Il prendra ses fonctions le 1er octobre, en remplacement du Norvégien Jens Stoltenberg, en poste depuis dix ans. « Je sais que je laisserai l’Otan entre de bonnes mains », a immédiatement réagi ce dernier sur X. « Mark est un vrai défenseur des relations transatlantiques, un dirigeant fort et un bâtisseur de consensus », a-t-il ajouté.
 

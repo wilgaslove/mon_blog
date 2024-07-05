@@ -33,4 +33,4 @@ Seul indice sur le parcours : l'ascension de la colline de Montjuic, dans Barcel
 
 Quant à l'éventuel impératif de placer, comme en 2023, les Pyrénées dès la première semaine du Tour sur le parcours, Christian Prudhomme a juste rappelé que "le dogme, c'est qu'il n'y a pas de dogme. Tout est possible."
 
-Cette année, le Tour de France s'élancera le 29 juin pour la première fois d'Italie avec une arrivée inédite trois semaines plus tard à Nice et non pas à Paris, en raison des <a href="https://www.france24.com/fr/jeux-olympiques-jo-paris-2024/" class="lien">Jeux olympiques.</a>
+Cette année, le Tour de France s'élancera le 29 juin pour la première fois d'Italie avec une arrivée inédite trois semaines plus tard à Nice et non pas à Paris, en raison des <a href="https://www.france24.com/fr/jeux-olympiques-jo-paris-2024/" class="lien" target="_blank">Jeux olympiques.</a>

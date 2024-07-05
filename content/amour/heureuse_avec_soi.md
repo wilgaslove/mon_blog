@@ -19,7 +19,7 @@ Dès que vous rencontrez un homme charmant, dans votre tête, le scénario est d
 
 Parfois c’est très prématuré de s’imaginer dans quelle robe on montera à l’autel : juste avoir passé une super soirée ensemble, c’est déjà grand !
 
- Nul besoin de précipiter les choses. Profitez de ces doux instants offerts par cette <a href="https://www.cosmopolitan.fr/,la-vie-en-couple-apres-3-mois-2-ans-5-ans-elles-racontent,1978495.asp" class="lien">première étape de la relation amoureuse.</a>
+ Nul besoin de précipiter les choses. Profitez de ces doux instants offerts par cette <a href="https://www.cosmopolitan.fr/,la-vie-en-couple-apres-3-mois-2-ans-5-ans-elles-racontent,1978495.asp" class="lien" target="_blank">première étape de la relation amoureuse.</a>
 
 
 ### Passer du temps avec ses amis
@@ -49,7 +49,7 @@ ne serait-ce que par simple respect de soi.
 
 
 ### Dire ce que l'on a sur le cœur
-La base d'une relation saine, c'est la <a href="https://www.cosmopolitan.fr/comment-bien-communiquer-en-couple,2039065.asp" class="lien">communication de couple</a>.
+La base d'une relation saine, c'est la <a href="https://www.cosmopolitan.fr/comment-bien-communiquer-en-couple,2039065.asp" class="lien" target="_blank">communication de couple</a>.
 
 Calmement, si c’est possible. Mais même si on s’ébouriffe un peu, ça laissera moins de traces que ne rien dire, encaisser et, forcément, accumuler les rancœurs.
 
@@ -59,7 +59,7 @@ Sachant que sa mère, la caissière, les réseaux sociaux, les copains et les en
 Oui, oui, parfois c’est très, très dur. Mais on peut y arriver ! Et si le besoin se fait ressentir, vous pouvez toujours avoir un avis hautement objectif (ou pas) en téléphonant à votre meilleure amie.
 
 ### Profiter du moment présent
-C'est le moment d'apprendre à lâcher prise. Alors on décide d'<a href="https://www.cosmopolitan.fr/,je-pense-trop,2081,1001081.asp" class="lien">arrêter de trop réfléchir</a> et de retourner son cerveau dans tous les sens, et on fonce !
+C'est le moment d'apprendre à lâcher prise. Alors on décide d'<a href="https://www.cosmopolitan.fr/,je-pense-trop,2081,1001081.asp" class="lien" target="_blank">arrêter de trop réfléchir</a> et de retourner son cerveau dans tous les sens, et on fonce !
 
 Il sera toujours temps de passer à autre chose si tu t’es trompée.
 

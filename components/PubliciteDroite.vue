@@ -10,12 +10,12 @@
     2xl:w-[15%] 2xl:h-[30%] 2xl:top-[17%] 2xl:px-0 2xl:pt-0 2xl:text-xs 2xl:mx-[12%]
     ">
 
-      <a href="https://highfiveuniversity.bj/"><img src="assets/img/highfive.png" alt="" class="object-cover bg[#bbb]" >
+      <a href="https://highfiveuniversity.bj/" target="_blank"><img src="assets/img/highfive.png" alt="" class="object-cover bg[#bbb]" >
       </a>
       <P class="text-black font-bold 
       2xl:bg-white lg:py-0 xl:py-2 2xl:px-1
       " >
-        Découvrez l'école de codage <a href="https://highfiveuniversity.bj/" class="text-blue-600/100 ">Highfive University</a> ... 
+        Découvrez l'école de codage <a href="https://highfiveuniversity.bj/" class="text-blue-600/100 " target="_blank">Highfive University</a> ... 
       </P>
    </div>
 

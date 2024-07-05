@@ -16,16 +16,16 @@
       xl:mx-auto
       2xl:mx-auto
       ">
-        <a href="https://github.com/wilgaslove" >
+        <a  href="https://github.com/wilgaslove" target="_blank">
           <Icon name="mdi:github"  />
         </a>
-        <a href="https://wa.me/22995479236" >
+        <a  href="https://wa.me/22995479236" target="_blank">
           <Icon name="logos:whatsapp-icon" />
         </a>
-        <a href="https://web.telegram.org/a/#6296504337" >
+        <a  href="https://web.telegram.org/a/#6296504337" target="_blank">
           <Icon name="logos:telegram" />
         </a>
-        <!-- <a href="" >
+        <!-- <a  href="" target="_blank">
           <Icon name="bi:twitter-x" />
         </a> -->
       </wilgas>
