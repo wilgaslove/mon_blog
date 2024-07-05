@@ -3,7 +3,10 @@
   <NavBlog />
   <div class="mt-[15%] 
   sm:my-[30%] sm:mx-[20%] 
-  md:my-[22%] md:mx-[20%]
+  md:my-[18%] md:mx-[20%]
+  lg:my-[15%] lg:mx-[20%]
+  xl:my-[15%] xl:mx-[20%]
+  2xl:my-[14%] 2xl:mx-[20%]
   ">
 
      <div class="bg-white px-4">
