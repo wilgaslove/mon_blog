@@ -4,6 +4,8 @@
     sm:right-0 sm:left-0 sm:text-center sm:mx-auto  sm:block sm:flex sm:flex-col
     md:right-0 md:left-0 md:text-center md:mx-auto  md:block md:flex md:flex-col
     lg:right-10 lg:left-10 lg:text-center lg:mx-auto  lg:block lg:flex lg:flex-col
+    xl:right-[25%] xl:left-[25%]  xl:text-center xl:mx-auto  xl:block xl:flex xl:flex-col
+    2xl:right-[25%] 2xl:left-[25%]  2xl:text-center 2xl:mx-auto  2xl:block 2xl:flex 2xl:flex-col
     
     ">
 
@@ -11,6 +13,7 @@
       sm:mx-auto 
       md:mx-auto
       lg:mx-auto
+      2xl:mx-auto
       ">
         <a href="https://github.com/wilgaslove" >
           <Icon name="mdi:github"  />
