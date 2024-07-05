@@ -13,7 +13,7 @@ export default {
      'sm': {'min': '100px','max': '459px'},
       'md': {'min': '460px', 'max': '768px'},
       'lg': {'min': '769px', 'max': '1024px'},
-      'xl': {'min': '1025px', 'max': '1536'},
+      'xl': {'min': '1025px', 'max': '1536px'},
       '2xl': {'min': '1537px'},
     }
   },
