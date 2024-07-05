@@ -5,13 +5,22 @@
        <template #default="{list}">
         <div class="mt-[17%] mb-[20%]
         sm:mt-[35%] sm:mb-[30%]
-         md:my-[20%]
+        md:my-[20%]
+        lg:my-[20%]
+        xl:my-[15%]
+        2xl:my-[15%]
+
+
         ">
           <div v-for="(literature, index) in list" :key="index" class="shadow-md round-2xl mb-1 border-2 border-[#aaba] 
           sm:w-[60%] sm:h-[20%]  sm:mx-auto
           md:w-[55%] md:h-[20%]  md:mx-auto
+          lg:w-[55%] lg:h-[20%]  lg:mx-auto
+          xl:w-[55%] xl:h-[20%]  xl:mx-auto
+          2xl:w-[75%] 2xl:h-[20%]  2xl:mx-auto
+
           ">
-            <div class="h-[320px] sm:h-[150px] md:h-[150px]">
+            <div class="h-[320px] sm:h-[150px] md:h-[150px] lg:h-[150px] xl:h-[150px] 2xl:h-[150px]">
               <img :src=" literature.thumbnail" alt="" class="w-full h-full object-cover">
             </div>
             <h2 class="font-bold text-2xl">
