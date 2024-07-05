@@ -14,7 +14,7 @@
         <!--En-tête du blog-->
         <div class=" p-5">
           <h1 class="text-xl font-semibold sm:text-[1.5rem] md:text-[2rem]">{{ doc.title }}</h1>
-          <img :src="doc.thumbnail" alt="" class="w-full h-full object-cover pt-[2%] md:w-[150%]">
+          <img :src="doc.thumbnail" alt="" class="w-full h-full object-cover pt-[2%] md:w-[150%] ">
         </div>
        
         <p class="text-gray-500 text-sm mt-2">
@@ -38,8 +38,8 @@ const path = useRoute().path;
 </script>
 
 <style>
-.content {
-  /* @apply md: */
+.content img {
+  /* @apply lg:w-[200%]; */
 }
 .content p:not(:last-child){
   @apply text-[1.5rem] sm:text-[1rem] md:text-[1.3rem];
