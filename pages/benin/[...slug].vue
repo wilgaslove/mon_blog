@@ -9,11 +9,14 @@
         <template #default="{ list }">
           <div class="mt-[16%] 
           sm:w-[58%] sm:mx-auto sm: sm:justify-center  sm:bg-white sm:my-[30%]
-          md:w-[58%] md:mx-auto md: md:justify-center  md:bg-white md:my-[30%]
+          md:w-[60%] md:mx-auto md: md:justify-center  md:bg-white md:my-[25%]
+          lg:w-[58%] lg:mx-auto  lg:justify-center  lg:bg-white lg:my-[15%]
+          xl:w-[58%] xl:mx-auto xl: xl:justify-center  xl:bg-white xl:my-[15%]
+          2xl:w-[70%] 2xl:mx-auto 2xl: 2xl:justify-center  2xl:bg-white 2xl:my-[15%]
           ">
             <div v-for="(benin, index) in list" :key="index" class="bg-white  round-2xl mb-1 border-2 border-[#aaba] 
             ">
-              <div class="h-[320px] sm:h-[20%]">
+              <div class="h-[320px] sm:h-[20%] 2xl:h-[15%]">
                 <img :src="benin.thumbnail" alt="" class="w-full h-full object-cover">
               </div>
               <h2 class="font-bold text-2xl ml-5 sm:text-[1rem]">
@@ -35,6 +38,10 @@
   </div>
   <div v-else class="bg-white px-4 mb-[10%] 
  sm:w-[55%] sm:mx-auto sm: sm:justify-center sm:my-[30%] sm:bg-white
+ md:w-[55%] md:mx-auto md: md:justify-center md:my-[20%] md:bg-white
+ lg:w-[60%] lg:mx-auto lg: lg:justify-center lg:my-[15%] lg:bg-white
+ xl:w-[65%] xl:mx-auto xl: xl:justify-center xl:my-[15%] xl:bg-white
+ 2xl:w-[70%] 2xl:mx-auto 2xl: 2xl:justify-center 2xl:my-[15%] 2xl:bg-white
   ">
     <ContentDoc v-slot="{doc}" tag="article" :path="path" >
        <div class="text-center  mt-[16%]">
