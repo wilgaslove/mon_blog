@@ -5,7 +5,7 @@
     <div class="animate-bounce-slow fixed top-[21%] left-5  bg-[#bbb] text-lg text-black py-5 px-4 shadow-md  h-[30%] w-[15%] 
     sm:w-[20%] sm:h-[17%] sm:px-0 sm:left-1 sm:text-xs sm:pt-0 sm:text-
     md:w-[20%] md:h-[18%] md:px-0 md:left-1 md:text-xs md:pt-0 md:text-
-    lg:w-[20%] lg:h-[20%] lg:px-0 lg:left-1 lg:text-xs lg:pt-0 lg:text-
+    lg:w-[20%] lg:h-[20%] lg:px-0 lg:left-1 lg:text-xs lg:pt-0 lg:mx-auto
     ">
       <img src="assets/img/pc_gamer.webp" alt="">
       <p class="sm:px-1 sm:bg-[#bbb]"
@@ -21,7 +21,7 @@
       <div class="p-1 bg-[#aaaa] 
       sm:text-xs sm:px-0 sm:pt-0
       md:text-xs md:px-0 md:pt-0 
-      lg:text-xs lg:px-0 lg:pt-0 
+      lg:text-xs lg:px-0 lg:pt-0 lg:mx-auto
       ">
         <img src="assets\img\wil.jpg" alt="" class="object-cover " >
         
