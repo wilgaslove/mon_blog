@@ -9,8 +9,8 @@
      <div class="bg-white px-4">
        <ContentDoc v-slot="{doc}" tag="article" :path="path" >
         <!--En-tête du blog-->
-        <div class="text-center p-5">
-          <h1 class="text-xl font-semibold">{{ doc.title }}</h1>
+        <div class=" p-5">
+          <h1 class="text-xl font-semibold sm:text-[1.5rem] md:text-[2rem]">{{ doc.title }}</h1>
           <img :src="doc.thumbnail" alt="" class="w-full h-full object-cover pt-[2%] md:w-[150%]">
         </div>
        
@@ -35,8 +35,11 @@ const path = useRoute().path;
 </script>
 
 <style>
+.content {
+  /* @apply md: */
+}
 .content p:not(:last-child){
-  @apply text-[1.5rem] sm:text-[1rem];
+  @apply text-[1.5rem] sm:text-[1rem] md:text-[1.3rem];
 }
 .content li:not(:last-child),
 .content blockquote:not(:last-child),
@@ -54,24 +57,24 @@ const path = useRoute().path;
   }
   
 .content h1 {
-    @apply text-[3rem] font-bold sm:text-[1.5rem];
+    @apply text-[3rem] font-bold sm:text-[1.5rem] md:text-[1.7rem];
    
 }
 
 .content h2 {
-    @apply text-[2.5rem] font-bold sm:text-[1.25rem];
+    @apply text-[2.5rem] font-bold sm:text-[1.25rem] md:text-[1.5rem];
 }
 
 .content h3 {
-    @apply text-[2rem] font-bold sm:text-[1rem];
+    @apply text-[2rem] font-bold sm:text-[1rem] md:text-[1.2rem] ;
 }
 
 .content h4 {
-    @apply text-[2rem] font-bold sm:text-[0.75rem];
+    @apply text-[2rem] font-bold sm:text-[0.75rem] md:text-[0.8rem];
 }
 
 .content h5 {
-    @apply text-base font-bold sm:text-[0.70rem];
+    @apply text-base font-bold sm:text-[0.70rem] md:text-[0.75rem];
 }
 
 .lien {
