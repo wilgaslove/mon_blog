@@ -8,25 +8,25 @@
      <ContentList :path="categoryPath" :query="query">
         <template #default="{ list }">
           <div class="mt-[16%] 
-          sm:w-[58%] sm:mx-auto sm: sm:justify-center  sm:bg-white sm:my-[30%]
-          md:w-[60%] md:mx-auto md: md:justify-center  md:bg-white md:my-[25%]
-          lg:w-[58%] lg:mx-auto  lg:justify-center  lg:bg-white lg:my-[15%]
-          xl:w-[58%] xl:h-[15%] xl:mx-auto xl: xl:justify-center  xl:bg-white xl:my-[15%]
-          2xl:w-[85%] 2xl:h-[15%] 2xl:mx-auto 2xl: 2xl:justify-center  2xl:bg-white 2xl:my-[15%]
+          sm:w-[58%] sm:mx-auto sm:bg- sm:my-[30%]
+          md:w-[60%] md:mx-auto md:bg- md:my-[25%]
+          lg:w-[58%] lg:mx-auto lg:bg- lg:my-[15%]
+          xl:w-[58%] xl:h-auto xl:mx-auto xl:bg- xl:my-[15%]
+          2xl:w-[85%] 2xl:h-auto 2xl:mx-auto 2xl:bg- 2xl:my-[15%]
           ">
-            <div v-for="(benin, index) in list" :key="index" class="bg-white  round-2xl mb-1 border-2 border-[#aaba] 
-            ">
-              <div class="h-[320px] sm:h-[20%] 2xl:h-[15%] ">
-                <img :src="benin.thumbnail" alt="" class="w-full h-full object-cover">
-              </div>
-              <h2 class="font-bold text-2xl ml-5 sm:text-[1rem]">
-                <NuxtLink v-if="benin._path" :to="'/benin/' + benin._path.replace('/benin/', '')">{{ benin.title }}</NuxtLink>
-                <span v-else class="sm:text-[1rem]">{{ benin.title }}</span>
-              </h2>
-              <p v-if="benin.description" class="ml-2 sm:text-[1rem]">{{ benin.description }}</p>
-              <p class="ml-2">{{ formatDate(benin.date) }}</p>
-            </div>
-          </div>
+    <div v-for="(benin, index) in list" :key="index" class="bg-white rounded-2xl mb-1 border-2 border-[#aaba] my-4">
+        <div class="h-[320px] sm:h-[200px] md:h-[250px] lg:h-[200px] xl:h-[250px] 2xl:h-[300px]">
+            <img :src="benin.thumbnail" alt="" class="w-full h-full object-cover">
+        </div>
+        <h2 class="font-bold text-2xl ml-5 sm:text-[1rem]">
+            <NuxtLink v-if="benin._path" :to="'/benin/' + benin._path.replace('/benin/', '')">{{ benin.title }}</NuxtLink>
+            <span v-else class="sm:text-[1rem]">{{ benin.title }}</span>
+        </h2>
+        <p v-if="benin.description" class="ml-2 sm:text-[1rem]">{{ benin.description }}</p>
+        <p class="ml-2">{{ formatDate(benin.date) }}</p>
+    </div>
+    </div>
+
           
           
         </template>
@@ -37,16 +37,16 @@
       </ContentList>
   </div>
   <div v-else class="bg-white px-4 mb-[10%] 
- sm:w-[55%] sm:mx-auto sm: sm:justify-center sm:my-[30%] sm:bg-white
- md:w-[55%] md:mx-auto md: md:justify-center md:my-[20%] md:bg-white
- lg:w-[60%] lg:mx-auto lg: lg:justify-center lg:my-[15%] lg:bg-white
- xl:w-[65%] xl:mx-auto xl: xl:justify-center xl:my-[15%] xl:bg-white
- 2xl:w-[70%] 2xl:mx-auto 2xl: 2xl:justify-center 2xl:my-[15%] 2xl:bg-white
+      sm:w-[55%] sm:mx-auto sm: sm:justify-center sm:my-[30%] sm:bg-white
+      md:w-[55%] md:mx-auto md: md:justify-center md:my-[20%] md:bg-white
+      lg:w-[60%] lg:mx-auto lg: lg:justify-center lg:my-[15%] lg:bg-white
+      xl:w-[65%] xl:mx-auto xl: xl:justify-center xl:my-[15%] xl:bg-white
+      2xl:w-[70%] 2xl:mx-auto 2xl: 2xl:justify-center 2xl:my-[15%] 2xl:bg-white
   ">
     <ContentDoc v-slot="{doc}" tag="article" :path="path" >
-       <div class="text-center  mt-[16%] ">
+       <div class="text-center  mt-[16%]  ">
          <h1 class="text-4xl font-semibold sm:text-[1.5rem]">{{ doc.title }}</h1>
-         <img :src="doc.thumbnail" alt="" class="w-full h-full object-cover">
+         <img :src="doc.thumbnail" alt="" class="w-full  object-cover">
        </div>
         
         <!-- Contenu du blog -->
@@ -91,6 +91,7 @@ function formatDate(date: string) {
 .content p:not(:last-child){
   @apply text-[1.5rem] sm:text-[1rem];
 }
+
 .content li:not(:last-child),
 .content blockquote:not(:last-child),
 .content h1:not(:last-child),
@@ -105,24 +106,24 @@ function formatDate(date: string) {
 
   
   .content h1 {
-    @apply text-[3rem] font-bold sm:text-[1.5rem];
+    @apply text-[3rem] font-bold sm:text-[1.5rem] md:text-[1.75rem];
    
 }
 
 .content h2 {
-    @apply text-[2.5rem] font-bold sm:text-[1.25rem];
+    @apply text-[2.5rem] font-bold sm:text-[1.25rem] md:text-[1.1rem];
 }
 
 .content h3 {
-    @apply text-[2rem] font-bold sm:text-[1rem];
+    @apply text-[2rem] font-bold sm:text-[1rem] md:text-[1rem];
 }
 
 .content h4 {
-    @apply text-[2rem] font-bold sm:text-[0.75rem];
+    @apply text-[2rem] font-bold sm:text-[0.75rem] md:text-[0.75rem];
 }
 
 .content h5 {
-    @apply text-base font-bold sm:text-[0.70rem];
+    @apply text-base font-bold sm:text-[0.70rem] md:text-[0.7rem];
 }
 
 .lien {

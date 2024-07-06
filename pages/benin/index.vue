@@ -15,7 +15,7 @@
             xl:h-[25%]
             2xl:h-[25%]
             ">
-              <img :src="benin.thumbnail" alt="" class="w-full h-full object-cover">
+              <img :src="benin.thumbnail" alt="" class="w-full  object-cover">
             </div>
             <h2 class="font-bold text-2xl ml-2 
             ">
