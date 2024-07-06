@@ -12,16 +12,16 @@
     <h1>Soldats Du Christ</h1>
 
     <div class=""><img src="/assets/img/image7.23b7ac45.webp" alt="image du groupe" class=""></div>
-    <p>Une équipe de jeune intègre, dynamique passionnée de l'inforamatique, technologie, science, l'art, la culture, la rédation et la politique</p>
-    <p>Nous sommes une équipe  de plus de vingt (20) jeunes travaillant dans divers domaines et qui combine nos talents pour élargie nos sphères de connaissance avec le but précis d'être  modele pour les jeunes à travers le monde entiers</p>
+    <p>Une équipe de jeunes intègres, dynamiques et passionnés d'informatique, de technologie, de science, d'art, de culture, de rédaction et de politique.</p>
+    <p>Nous sommes une équipe de plus de vingt (20) jeunes travaillant dans divers domaines et combinant nos talents pour élargir nos sphères de connaissance, avec le but précis d'être des modèles pour les jeunes à travers le monde entier.</p>
+    <p>Nous avons à notre actif plusieurs sites, applications, blogs, rédactions, ...</p>
+    <p>Nous rêvons de révéler le Bénin au monde grâce à nos créations.</p>
 
-    <p>Nous avons à notre actif plusieurs sites, applications, blog, rédations,...</p>
-
-    <p>Nous rêvons de révéler le Bénin à travers le monde par nos création.</p>
     
     <!-- <div class="w-[50%] flex">
       <img src="/assets/img/wil.jpg" alt="image du chef d'équipe" class="willy">
       <p>Wilgas ADJOVI </p>
+
     </div> -->
     
   </div>
