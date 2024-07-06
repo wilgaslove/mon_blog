@@ -43,7 +43,7 @@
           </div>
         </a>
       </div>
-      <div>
+      <div class="mx-[6%]">
                 
         <a target="_blank" href="https://www.youtube.com/watch?v=-XAIAfq1Wd8">
           <div class="
