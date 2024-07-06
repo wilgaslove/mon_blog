@@ -30,10 +30,15 @@
       xl:text-xs xl:px-0 xl:pt-0 
       2xl:text-xs 2xl:px-0 2xl:pt-0 
       ">
-        <img src="assets\img\logo.png" alt="" class="object-cover " >
+        <a href="/presentation">
+          <img src="assets\img\logo.png" alt="" class="object-cover " >
+        </a>
         
-        <h1 class="font-bold text-black bg-white
-         ">Qui sommes-nous ?</h1>
+        <h1 class="font-bold text-black bg-white">
+          <a href="/presentation" >
+            Qui sommes-nous ?
+          </a>
+        </h1>
       </div>
       
     </div>

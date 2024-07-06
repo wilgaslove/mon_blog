@@ -12,8 +12,8 @@ export default {
     screens: {
      'sm': {'min': '100px','max': '459px'},
       'md': {'min': '460px', 'max': '768px'},
-      'lg': {'min': '769px', 'max': '1024px'},
-      'xl': {'min': '1025px', 'max': '1299px'},
+      'lg': {'min': '769px', 'max': '1042px'},
+      'xl': {'min': '1043px', 'max': '1299px'},
       '2xl': {'min': '1300px'},
     }
   },
