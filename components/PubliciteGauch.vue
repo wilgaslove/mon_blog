@@ -30,10 +30,10 @@
       xl:text-xs xl:px-0 xl:pt-0 
       2xl:text-xs 2xl:px-0 2xl:pt-0 
       ">
-        <img src="assets\img\wil.jpg" alt="" class="object-cover " >
+        <img src="assets\img\logo.png" alt="" class="object-cover " >
         
         <h1 class="font-bold text-black bg-white
-         ">Wilgas ADJOVI</h1>
+         ">Qui sommes-nous ?</h1>
       </div>
       
     </div>
