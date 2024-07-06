@@ -120,19 +120,21 @@
         </a>
       </div>
 
-      <div>
+      <div class="mx-[1%] w-[100%]">
                 
         <a target="_blank" href="https://www.youtube.com/watch?v=dylowtjlf8w">
-          <div class="
+          <div class=" 
           sm:w-[55%] sm:mx-auto sm:justify-center sm:mt-4 sm:bg-white
           md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:bg-white
           lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:bg-white
           xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:bg-white
           2xl:w-[90%] 2xl:mx-auto 2xl:justify-center 2xl:mt-4 2xl:bg-white
           ">
-            <video class=" object-cover" controls>
-              <source src="assets\img\utomp3.com - - Affaires_ICC_service_au_Bénin_360p.mp4"  type="video/mp4"class="">
-            </video>
+            <div class=" ">
+              <video class=" object-cover" controls >
+                <source src="assets\img\utomp3.com - - Affaires_ICC_service_au_Bénin_360p.mp4"  type="video/mp4"class="">
+              </video>
+            </div>
             <p>
                 
               <a target="_blank" href="#">Affaire ICC service au Bénin</a>
