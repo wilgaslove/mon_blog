@@ -29,7 +29,7 @@
           <Icon name="bi:twitter-x" />
         </a> -->
       </wilgas>
-      <span class="mr-4">&copy; {{ new Date().getFullYear() }} Wilgas ADJOVI. Tous droits réservés.</span>
+      <span class="mr-4">&copy; {{ new Date().getFullYear() }} Groupe Soldats_du_Christ| Tous droits réservés.</span>
 
 
     </div>
