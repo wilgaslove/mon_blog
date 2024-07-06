@@ -12,7 +12,7 @@
 
 
         ">
-          <div v-for="(politique, index) in list" :key="index" class="shadow-md round-2xl mb-1 border-2 border-[#aaba] 
+          <div v-for="(politique, index) in list" :key="index" class="shadow-md rounded-2xl round-2xl mb-1 border-2 border-[#aaba] 
           sm:w-[60%] sm:h-[20%]  sm:mx-auto
           md:w-[55%] md:h-[20%]  md:mx-auto
           lg:w-[55%] lg:h-[20%]  lg:mx-auto
