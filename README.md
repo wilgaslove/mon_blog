@@ -73,3 +73,18 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+# Ce que j'ai appris;
+-Utilisation des breackpoint screens en tailwindcss 
+
+-useDateFormat
+
+-ContentDoc
+
+-ContentList 
+
+-ContentRenderer
+
+-Introduction de html dans les fichiers .md
+
+- vue-marquee-text-component ( Cela permet de créers des barres défillante de publicité )
