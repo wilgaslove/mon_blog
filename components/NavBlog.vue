@@ -1,8 +1,8 @@
 <template>
-  <div class="container">
-    <header class="relative" v-if="!isBeninPage">
+  <div class="container mx-0 w-[500%]">
+    <header class="" v-if="!isBeninPage" >
       <div class="scroll-container">
-        <ul class="header flex justify-between fixed top-0 left-0 right-0 bg-[#bbb] text-lg text-white py-5 px-4 shadow-md">
+        <ul class="header flex justify-between top-0 left-0 right-0 bg-[#bbb] text-lg text-white py-5 px-4 shadow-md">
           <li><NuxtLink to="/">Accueil</NuxtLink></li>
           <li><NuxtLink to="/principalebenin">Bénin</NuxtLink></li>
           <li><NuxtLink to="/blog">Technologie & Sciences</NuxtLink></li>
@@ -41,6 +41,7 @@ const isBeninPage = route.path.includes('/benin')
 
 .header {
   display: inline-flex;
+  width: 100%;
   /* Other styles */
 }
 

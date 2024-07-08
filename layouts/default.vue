@@ -1,6 +1,8 @@
 <template>
   <div>
-    <BarreDefillante />
+    <div >
+      <BarreDefillante />
+    </div>
     <PubliciteGauch />
     <PubliciteDroite />
     <slot />

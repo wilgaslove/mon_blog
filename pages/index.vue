@@ -1,4 +1,6 @@
 <template>
+  <NavBlog />
+
   <div class="sm:my-[30%] md:my-[20%] 
   ">
   <div class="flex flex-wrap mt-[1%] mb-[10%] 
@@ -319,7 +321,6 @@
   </div>
 
   
-  <NavBlog />
 
 </template>
 
