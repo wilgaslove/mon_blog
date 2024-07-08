@@ -10,9 +10,9 @@
     2xl:w-[18%] 2xl:h-[20%] 2xl:px-0 2xl:left-1 2xl:text-xs 2xl:pt-0 2xl:mx-[4%] 2xl:top-[30%]
     ">
       <img src="assets/img/pc_gamer.webp" alt="">
-      <p class="px-1 bg-white"
+      <p class=" bg-white"
       >Promo spéciale bureautique gamer</p>
-      <p class="pb-1 px-1 font-bold sm:pb-4 bg-white">95-47-92-36</p>
+      <p class="pb-1 font-bold sm:pb-4 bg-white">95-47-92-36</p>
     </div>
    </div>
 
