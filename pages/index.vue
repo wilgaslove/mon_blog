@@ -1,7 +1,7 @@
 <template>
   <NavBlog />
 
-  <div class="sm:my-[30%] md:my-[20%] 
+  <div class="sm:my-[40%] md:my-[20%] 
   ">
   <div class="flex flex-wrap mt-[1%] mb-[10%] 
   lg:grid lg:grid-cols-2 lg:gap-0  lg:my-[15%] lg:mx-[22%]
