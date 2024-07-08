@@ -4,10 +4,10 @@
    
     <div class="animate-bounce-slow fixed top-[21%] left-5   text-lg text-black py-5 px-4 shadow-2xl  h-[30%] w-[15%] 
     sm:w-[20%] sm:h-[17%] sm:px-0 sm:left-1 sm:text-xs sm:pt-0 sm:top-[30%]
-    md:w-[20%] md:h-[18%] md:px-0 md:left-1 md:text-xs md:pt-0 md:text-
-    lg:w-[20%] lg:h-[20%] lg:px-0 lg:left-1 lg:text-xs lg:pt-0 lg:mx-[1%]
-    xl:w-[18%] xl:h-[20%] xl:px-0 xl:left-1 xl:text-xs xl:pt-0 xl:mx-[6%]
-    2xl:w-[18%] 2xl:h-[20%] 2xl:px-0 2xl:left-1 2xl:text-xs 2xl:pt-0 2xl:mx-[4%]
+    md:w-[20%] md:h-[18%] md:px-0 md:left-1 md:text-xs md:pt-0 md:top-[30%]
+    lg:w-[20%] lg:h-[20%] lg:px-0 lg:left-1 lg:text-xs lg:pt-0 lg:mx-[1%] lg:top-[30%]
+    xl:w-[18%] xl:h-[20%] xl:px-0 xl:left-1 xl:text-xs xl:pt-0 xl:mx-[6%] xl:top-[30%]
+    2xl:w-[18%] 2xl:h-[20%] 2xl:px-0 2xl:left-1 2xl:text-xs 2xl:pt-0 2xl:mx-[4%] 2xl:top-[30%]
     ">
       <img src="assets/img/pc_gamer.webp" alt="">
       <p class="px-1 bg-white"
