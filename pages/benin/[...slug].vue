@@ -8,7 +8,7 @@
      <ContentList :path="categoryPath" :query="query">
         <template #default="{ list }">
           <div class="mt-[16%] 
-          sm:w-[58%] sm:mx-auto sm:bg- sm:my-[30%]
+          sm:w-[58%] sm:mx-auto sm:bg- sm:mt-[40%]
           md:w-[60%] md:mx-auto md:bg- md:my-[25%]
           lg:w-[58%] lg:mx-auto lg:bg- lg:my-[15%]
           xl:w-[58%] xl:h-auto xl:mx-auto xl:bg- xl:my-[15%]
@@ -16,7 +16,7 @@
           ">
     <div v-for="(benin, index) in list" :key="index" class="bg-white rounded-2xl mb-1 border-2 border-[#aaba] my-4">
         <div class="h-[320px] sm:h-[200px] md:h-[250px] lg:h-[200px] xl:h-[250px] 2xl:h-[300px]">
-            <img :src="benin.thumbnail" alt="" class="w-full h-full object-cover">
+            <img :src="benin.thumbnail" alt="" class="w-full h-full object-cover rounded-2xl">
         </div>
         <h2 class="font-bold text-2xl ml-5 sm:text-[1rem]">
             <NuxtLink v-if="benin._path" :to="'/benin/' + benin._path.replace('/benin/', '')">{{ benin.title }}</NuxtLink>
