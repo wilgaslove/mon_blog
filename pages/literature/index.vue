@@ -21,7 +21,7 @@
 
           ">
             <div class="h-[320px] sm:h-[150px] md:h-[200px] lg:h-[220px] xl:h-[250px] 2xl:h-[300px]">
-              <img :src=" literature.thumbnail" alt="" class="w-full h-full object-cover">
+              <img :src=" literature.thumbnail" alt="" class="w-full h-full object-cover rounded-2xl">
             </div>
             <h2 class="font-bold text-2xl">
               <NuxtLink :to="'/literature/' + literature.slug">{{ literature.title }}</NuxtLink>
