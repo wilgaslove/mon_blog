@@ -9,6 +9,25 @@
   2xl:grid 2xl:grid-cols-2 2xl:gap-0  2xl:my-[15%] 2xl:mx-[22%]
      
     ">
+    <div>
+          <div class="
+          sm:w-[55%] sm:mx-auto sm:justify-center sm:mt-4 sm:bg-white
+          md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:bg-white
+          lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:bg-white
+          xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:bg-white
+          2xl:w-[90%] 2xl:mx-auto 2xl:justify-center 2xl:mt-4 2xl:bg-white
+          ">
+                
+            <a target="_blank" href="https://www.huffingtonpost.fr/international/video/joe-biden-atteint-de-parkinson-le-flou-de-la-maison-blanche-provoque-la-colere-des-journalistes_236650.html">
+            <img src="assets/img/56b6331_1720486849757-063-2161228098.jpg" alt="image de la porte parole de la maison blanche"  class="">
+            </a>
+            <p >
+                
+              <a target="_blank" href="https://www.huffingtonpost.fr/international/video/joe-biden-atteint-de-parkinson-le-flou-de-la-maison-blanche-provoque-la-colere-des-journalistes_236650.html">Joe Biden atteint de Parkinson ? Le flou de la Maison Blanche provoque la colère des journalistes.</a></p>
+          </div>
+      </div>
+
+
       <div>
           <div class="
           sm:w-[55%] sm:mx-auto sm:justify-center sm:mt-4 sm:bg-white
