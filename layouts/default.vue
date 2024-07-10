@@ -1,5 +1,8 @@
 <template>
   <div>
+    <div class="bg-white dark:bg-black">
+      <DarkMode />
+    </div>
     <div >
       <BarreDefillante />
     </div>
