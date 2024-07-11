@@ -1,17 +1,17 @@
 <template>
   <div>
-    <header class="relative">
-      <ul class="flex justify-between fixed top-0 left-0 right-0  bg-[#bbb] text-lg text-white py-5 px-4 shadow-md navb">
-        <li><NuxtLink to="/">Accueil</NuxtLink></li>
-        <li><NuxtLink to="/benin/emploi">Emploi</NuxtLink></li>
-        <li><NuxtLink to="/benin/politique">Politique</NuxtLink></li>
-        <li><NuxtLink to="/benin/finance">Finances</NuxtLink></li>
-        <li><NuxtLink to="/benin/immobilier">Immobilier</NuxtLink></li>
-        <li><NuxtLink to="/benin/economie">Economie</NuxtLink></li>
-        <li><NuxtLink to="/benin/transport">Transport</NuxtLink></li>
-        <li><NuxtLink to="/principalebenin">Bénin</NuxtLink></li>
-      </ul>
-   </header>
+    <header class="fixed top-0 left-0 right-0 bg-[#bbb] shadow-md overflow-x-auto">
+    <ul class="flex whitespace-nowrap text-lg text-white py-5 px-4">
+      <li class="mx-2"><NuxtLink to="/">Accueil</NuxtLink></li>
+      <li class="mx-2"><NuxtLink to="/benin/emploi">Emploi</NuxtLink></li>
+      <li class="mx-2"><NuxtLink to="/benin/politique">Politique</NuxtLink></li>
+      <li class="mx-2"><NuxtLink to="/benin/finance">Finances</NuxtLink></li>
+      <li class="mx-2"><NuxtLink to="/benin/immobilier">Immobilier</NuxtLink></li>
+      <li class="mx-2"><NuxtLink to="/benin/economie">Economie</NuxtLink></li>
+      <li class="mx-2"><NuxtLink to="/benin/transport">Transport</NuxtLink></li>
+      <li class="mx-2"><NuxtLink to="/principalebenin">Bénin</NuxtLink></li>
+    </ul>
+  </header>
   </div>
 </template>
 
