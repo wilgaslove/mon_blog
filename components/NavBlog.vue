@@ -1,8 +1,8 @@
 <template>
   <div class="container">
-    <header class="relative">
-      <div class="scroll-container">
-        <ul class="header flex justify-between fixed top-0 left-0 right-0 bg-[#bbb] text-lg text-white py-5 px-4 shadow-md">
+    <header class="">
+      <div class="fixed top-0 left-0 right-0 bg-[#bbb] shadow-md overflow-x-auto">
+        <ul class="flex whitespace-nowrap text-lg text-white py-5 px-4">
           <li><NuxtLink to="/" >Accueil</NuxtLink></li>
           <li><NuxtLink to="/principalebenin">Bénin</NuxtLink></li>
           <li><NuxtLink to="/blog">Technologie & Sciences</NuxtLink></li>
@@ -26,20 +26,6 @@
 </script>
 
 <style scoped>
-.scroll-container {
-  overflow-x: auto;
-  white-space: nowrap;
-}
-
-.scroll-container li {
-  margin-inline: 2px;
-  padding-inline: 5px
-}
-
-.header {
-  display: inline-flex;
-  /* Other styles */
-}
 
 li {
   display: inline-block;
