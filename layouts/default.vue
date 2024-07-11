@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="">
     <div class="bg-white dark:bg-black">
       <DarkMode />
     </div>

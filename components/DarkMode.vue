@@ -1,6 +1,6 @@
 <template>
-  <div>
-    <button @click="toggleDarkMode" class="p-2 bg-gray-300 dark:bg-gray-700 text-black dark:text-white">
+  <div class="relative"> 
+    <button @click="toggleDarkMode" class="fixed top-[18%] right-0 shadow-md p-2 bg-gray-300 dark:bg-gray-700 text-black dark:text-white">
       {{ isDarkMode ? 'Light Mode' : 'Dark Mode' }}
     </button>
   </div>
