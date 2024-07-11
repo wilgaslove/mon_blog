@@ -1,7 +1,7 @@
 <template>
   <div>
     <header class="fixed top-0 left-0 right-0 bg-[#bbb] shadow-md overflow-x-auto">
-    <ul class="flex whitespace-nowrap text-lg text-white py-5 px-4">
+    <ul class="flex justify-center whitespace-nowrap text-lg text-white py-5 px-4">
       <li class="mx-2"><NuxtLink to="/">Accueil</NuxtLink></li>
       <li class="mx-2"><NuxtLink to="/benin/emploi">Emploi</NuxtLink></li>
       <li class="mx-2"><NuxtLink to="/benin/politique">Politique</NuxtLink></li>

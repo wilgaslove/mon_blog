@@ -1,8 +1,8 @@
 <template>
   <div class="container">
-    <header class="">
+    <header class="max-w-[20rem] border-black border-4 bg-red-600">
       <div class="fixed top-0 left-0 right-0 bg-[#bbb] shadow-md overflow-x-auto">
-        <ul class="flex whitespace-nowrap text-lg text-white py-5 px-4">
+        <ul class="flex justify-center whitespace-nowrap text-lg text-white py-5 px-4 ">
           <li><NuxtLink to="/" >Accueil</NuxtLink></li>
           <li><NuxtLink to="/principalebenin">Bénin</NuxtLink></li>
           <li><NuxtLink to="/blog">Technologie & Sciences</NuxtLink></li>
