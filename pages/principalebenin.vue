@@ -3,7 +3,7 @@
     <navBenin />
 
   <div  class="bg-white px-4 py-4 mb-[10%] smgénéral
-       sm:w-[55%] sm:mx-auto sm: sm:justify-center sm:my-[25%] sm:bg-white
+       sm:w-[80%] sm:mx- sm: sm:justify-center sm:my-[25%] sm:bg-white
        md:w-[55%] md:mx-auto md: md:justify-center md:my-[15%] md:bg-white 
        lg:w-[55%] lg:mx-auto lg: lg:justify-center lg:my-[12%] lg:bg-white  
        xl:w-[55%] xl:mx-auto xl: xl:justify-center xl:my-[10%] xl:bg-white  
