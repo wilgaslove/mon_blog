@@ -2,7 +2,7 @@
   <NavBlog />
 
   <div class="bg-white taille
-  sm:my-[30%]   sm:w-[50%]  sm:mx-auto
+  sm:mt-[35%]   sm:w-[80%]  sm:mx-
   md:my-[23%]   md:w-[60%]  md:mx-auto
   lg:my-[14%]   lg:w-[60%]  lg:mx-auto
   xl:my-[14%]   xl:w-[65%]  xl:mx-auto

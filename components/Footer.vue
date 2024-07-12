@@ -10,12 +10,16 @@
     ">
 
       <wilgas class="flex justify-evenly w-[18%] sm
-      sm:mx-auto 
+      sm:mx-[25%] 
       md:mx-auto
       lg:mx-auto
       xl:mx-auto
       2xl:mx-auto
       ">
+
+      <a  href="/presentation"  class="hover:animate-spin-slow animate-wiggle-slow">
+          <Icon name="material-symbols:question-mark"  />
+        </a>
         <a  href="https://github.com/wilgaslove" target="_blank">
           <Icon name="mdi:github"  />
         </a>

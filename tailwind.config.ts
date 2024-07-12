@@ -12,7 +12,8 @@ export default {
       animation: {
         'bounce-slow': 'bounce 7s infinite',
         'pulse-slow': 'pulse 10s infinite',
-        'wiggle': 'wiggle 1s infinite',
+        'wiggle-slow': 'wiggle 1s infinite',
+        'spin-slow': 'spin 10s infinite'
       },
     },
     screens: {
