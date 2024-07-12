@@ -2,14 +2,14 @@
 
   <NavBlog />
   <div class="mt-[15%]  rounded-2xl
-  sm:my-[30%] sm:mx-[20%] 
+  sm:my-[30%] sm:mr-[15%] 
   md:my-[18%] md:mx-[20%]
   lg:my-[15%] lg:mx-[20%]
   xl:my-[15%] xl:mx-[20%]
   2xl:my-[14%] 2xl:mx-[20%]
   ">
 
-     <div class="bg-white px-4 ">
+     <div class="bg-white pr-4 ">
        <ContentDoc v-slot="{doc}" tag="article" :path="path" >
         <!--En-tête du blog-->
         <div class=" p-5">
