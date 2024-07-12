@@ -17,7 +17,7 @@
    </div>
 
    <div class=" animate-pulse-slow fixed top-[55%] left-2 text-lg  py-5   h-[20%] w-[21%] 
-   sm:top-[70%]
+   sm:top-[60%] sm:left-[25%] sm:h-[20%] sm:w-[49%]
    md:w-[19%]  lg:mx-[4%]
    lg:w-[15%]  xl:ml-[6%] 
    xl:w-[15%]  xl:ml-[6%] 
