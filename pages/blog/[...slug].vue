@@ -31,8 +31,9 @@
 </template>
 
 <script lang="ts" setup>
+const route = useRoute();
 
-const path = useRoute().path;
+const path = useRoute().fullPath ;
 
 
 </script>

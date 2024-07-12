@@ -44,6 +44,7 @@
 <script lang="ts" setup>
 
 import type { QueryBuilderParams } from '@nuxt/content/dist/runtime/types'
+
 const query: QueryBuilderParams = { 
   path: '/blog', 
   sort: [{ date: -1 }] 
