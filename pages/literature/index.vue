@@ -4,7 +4,7 @@
     <ContentList path="/literature"  :query="query" >
        <template #default="{list}">
         <div class="mt-[17%] mb-[20%]
-        sm:mt-[35%] sm:mb-[30%]
+        sm:mt-[35%] sm:mb-[15%]
         md:my-[20%]
         lg:my-[20%]
         xl:my-[15%]
@@ -13,7 +13,7 @@
 
         ">
           <div v-for="(literature, index) in list" :key="index" class="shadow-md rounded-2xl round-2xl mb-1 border-2 border-[#aaba] 
-          sm:w-[60%] sm:h-[20%]  sm:mx-auto
+          sm:w-[75%] sm:h-[20%]  sm:mx-
           md:w-[55%] md:h-[20%]  md:mx-auto
           lg:w-[55%] lg:h-[20%]  lg:mx-auto
           xl:w-[55%] xl:h-[20%]  xl:mx-auto
