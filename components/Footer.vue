@@ -17,7 +17,7 @@
       2xl:mx-auto
       ">
 
-      <a  href="/presentation"  class="hover:animate-spin-slow animate-wiggle-slow">
+      <a  href="/presentation"  class="animate-spin-slow ">
           <Icon name="material-symbols:question-mark"  />
         </a>
         <a  href="https://github.com/wilgaslove" target="_blank">
