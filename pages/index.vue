@@ -1,5 +1,7 @@
 <template>
   <NavBlog />
+   <!-- <NavbarreCompenent /> -->
+  
 
   <div class="sm:mt-[40%]  md:mt-[20%] 
   ">
@@ -344,6 +346,8 @@
 </template>
 
 <script lang="ts" setup>
+
+
 
 
 

@@ -8,6 +8,7 @@
     </div>
     <PubliciteGauch />
     <PubliciteDroite />
+    <index />
     <slot />
   </div>
   
