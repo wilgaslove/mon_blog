@@ -18,7 +18,7 @@
       <p>Vente flash d'ordinateurs neufs chez le groupe Soldat-du-Christ du 1er au 15 juillet 2024. Contact : (+229) 95-47-92-36.</p>
 
 
-      <p>La Chpl Int des Signes et des Merveilles vous invite à célébrer Dieu ce dimanche lors des deux cultes de louange et d'adoration de 7h à 9h45 et de 9h45 à 12h45. Soyez bénit au nom de Jesus-Christ. Amen!!! Contact:</p>
+      <p>Venez célébrer Christ avec nous lors de nos deux cultes dimanche prochain à la Chapelle Internationale des Signes et des Merveilles (CISIM) Cotonou. Soyez bénis. Amen ! Contact : 95 45 55 45.</p>
       
     </marquee>
   </div>
