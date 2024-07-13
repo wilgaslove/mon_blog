@@ -20,7 +20,6 @@ Pour plus d’informations, consultez nos conditions générales de vente.
 Pour toute demande d’autorisation, contactez syndication@lemonde.fr. 
 En tant qu’abonné, vous pouvez offrir jusqu’à cinq articles par mois à l’un de vos proches grâce à la fonctionnalité « Offrir un article ». 
 
-https://www.lemonde.fr/afrique/article/2024/06/26/apres-des-manifestations-meurtrieres-le-president-kenyan-annonce-le-retrait-du-projet-de-budget_6243864_3213.html
 
 Le président kényan essaie de mettre fin à la vague de contestation que connaît son pays. William Ruto a annoncé, mercredi 26 juin, le retrait du projet de budget 2024-25 prévoyant des hausses de taxes, à l’origine de la puissante mobilisation qui a sombré mardi dans une violence meurtrière.
 
@@ -36,7 +35,7 @@ Pour plus d’informations, consultez nos conditions générales de vente.
 Pour toute demande d’autorisation, contactez syndication@lemonde.fr. 
 En tant qu’abonné, vous pouvez offrir jusqu’à cinq articles par mois à l’un de vos proches grâce à la fonctionnalité « Offrir un article ». 
 
-https://www.lemonde.fr/afrique/article/2024/06/26/apres-des-manifestations-meurtrieres-le-president-kenyan-annonce-le-retrait-du-projet-de-budget_6243864_3213.html
+
 
 Hanifa Adan, figure du mouvement de contestation antigouvernementale au Kenya, a qualifié mercredi « d’opération de com » l’annonce par le président William Ruto. « Le projet de loi est retiré mais allez-vous ramener vivants tous ceux qui sont morts ? », a demandé sur X cette journaliste et militante.
 

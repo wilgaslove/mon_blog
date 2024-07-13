@@ -11,14 +11,14 @@
 
       <p>Dr Love en promotion sur PC neufs et occasion à l'atat neuf. Contact : (+229) 95-47-92-36.</p>
 
-      <p>Highfive University est l'une des meilleures écoles de codage au Bénin, formant les élites d'aujourd'hui et de demain ! Rejoignez-nous pour un avenir garanti. Contact : (+229) 33-33-33-33.</p>
+      <p>Highfive University est l'une des meilleures écoles de codage au Bénin, formant les élites d'aujourd'hui et de demain ! Rejoignez-nous pour un avenir garanti. Contact : highfiveuniversity.bj/Contact</p>
 
-      <p>Date de début des inscriptions : 1er juillet 2024. Date de démarrage du concours : 15 août 2024.</p>
+      <p>Prochaine session, les inscriptions: 1er juillet 2024. Date de démarrage du concours : 15 août 2024.</p>
       
       <p>Vente flash d'ordinateurs neufs chez le groupe Soldat-du-Christ du 1er au 15 juillet 2024. Contact : (+229) 95-47-92-36.</p>
 
 
-      <p>Nous vous invitons à célébrer Dieu lors de nos deux cultes de louange et d'adoration dimanche prochain, de 7h à 9h45 et de 9h45 à 12h45.</p>
+      <p>La Chpl Int des Signes et des Merveilles vous invite à célébrer Dieu ce dimanche lors des deux cultes de louange et d'adoration de 7h à 9h45 et de 9h45 à 12h45. Soyez bénit au nom de Jesus-Christ. Amen!!! Contact:</p>
       
     </marquee>
   </div>
