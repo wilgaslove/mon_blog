@@ -2,11 +2,12 @@
   <div class="container">
     <header >
       <div class="fixed top-0 
-      sm:left-[0%]  sm:right-[0%]
+      sm:left-[0%]  sm:right-[0%] 
       md:left-[0%]  md:right-[0%]
+      
       left-[15%] right-[15%] bg-[#bbb] shadow-md overflow-x-auto">
         <ul class="flex whitespace-nowrap text-lg text-white py-5 px-4  mx-[9%]
-        sm:ml-0 md:ml-0 lg:ml-0 xl:ml-0 sm:pr-6 md:pr-6 lg:pr-6 xl:pr-6">
+        sm:ml-0  md:ml-0 lg:ml-0 xl:ml-0 sm:pr-6 md:pr-6 lg:pr-6 ">
           <li><NuxtLink to="/" >Accueil</NuxtLink></li>
           <li><NuxtLink to="/principalebenin">Bénin</NuxtLink></li>
           <li><NuxtLink to="/blog">Technologie & Sciences</NuxtLink></li>
