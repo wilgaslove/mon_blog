@@ -1,18 +1,16 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   runtimeConfig: {
-    public:{
-
+    public: {
+      // Configuration publique
     }
   },
-  tailwindcss:{
+  tailwindcss: {
     configPath: "tailwind.config.ts"
   },
-css:[
-  "/assets/css/custom.css"
-],
-
-  
+  css: [
+    "/assets/css/custom.css"
+  ],
   devtools: { enabled: true },
   modules: [
     "@nuxt/content",
@@ -23,11 +21,9 @@ css:[
     "@formkit/auto-animate",
     // "@nuxtjs/vuetify",
   ],
-
   components: [
-    { path:'~/components', pathPrefix: false },
+    { path: '~/components', pathPrefix: false },
   ],
-  
   plugins: [
     { src: '~/plugins/vue-carousel.js', mode: 'client' }
   ]
