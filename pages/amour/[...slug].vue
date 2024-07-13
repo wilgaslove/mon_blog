@@ -2,7 +2,7 @@
 
   <NavBlog />
   <div class="mt-[15%]  rounded-2xl
-  sm:my-[30%] sm:mr-[15%] 
+  sm:mt-[30%] sm:mr-[15%] 
   md:my-[18%] md:mx-[20%]
   lg:my-[15%] lg:mx-[20%]
   xl:my-[15%] xl:mx-[20%]
