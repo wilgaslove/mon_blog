@@ -1,6 +1,6 @@
 <template>
-  <NavBlog />
-   <!-- <NavbarreCompenent /> -->
+  <!-- <NavBlog /> -->
+   <NavbarreCompenent />
   
 
   <div class="sm:mt-[40%]  md:mt-[20%] 
