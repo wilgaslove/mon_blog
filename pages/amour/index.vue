@@ -1,5 +1,6 @@
 <template>
-  <NavBlog />
+  <!-- <NavBlog /> -->
+   <NavbarreCompenent />
   <div>
     <ContentList path="/amour"  :query="query" >
        <template #default="{list}">
