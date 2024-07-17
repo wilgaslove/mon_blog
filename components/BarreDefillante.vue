@@ -24,7 +24,7 @@
   </div>
 
   <div class="absolute defillantephoto">
-    <marquee behavior="scroll" direction="left" class="text-black  marquee fixed font-bold  fixed bottom-[8%]  left-[80%]    text-lg text-white   h-[30%] w-[20%] sm:bottom-[-7%]" >
+    <marquee behavior="scroll" direction="left" class="text-black  marquee fixed font-bold  fixed bottom-[8%]  left-[80%]  text-lg text-white   h-[30%] w-[20%] sm:bottom-[-7%]" >
       <img src="assets\img\logo.827ea6ee.png" alt="image 1" class=" object-cover imge w-full h-full">
       <img src="assets\img\image9.a7c463dd.webp" alt="image 2" class=" object-cover imge w-full h-full">
       <img src="assets\img\téléchargement.png" alt="image 3" class=" object-cover imge w-full h-full">
