@@ -1,6 +1,7 @@
 <template>
+   <NavbarreCompenent />
 
-  <NavBlog />
+  <!-- <NavBlog /> -->
   <div class="mt-[15%]  rounded-2xl
   sm:mt-[30%] sm:mr-[15%] 
   md:my-[18%] md:mx-[20%]
