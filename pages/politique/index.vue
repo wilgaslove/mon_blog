@@ -1,5 +1,7 @@
 <template>
-  <NavBlog />
+  <!-- <NavBlog /> -->
+  <NavbarreCompenent />
+
   <div>
     <ContentList path="/politique"  :query="query" >
        <template #default="{list}">
