@@ -1,5 +1,7 @@
 <template>
-  <NavBlog />
+  <!-- <NavBlog /> -->
+  <NavbarreCompenent />
+
   <div>
     <ContentList path="/culture"  :query="query" >
        <template #default="{list}">
