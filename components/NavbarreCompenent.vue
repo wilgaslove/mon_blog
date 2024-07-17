@@ -8,8 +8,8 @@
 
     <body>
       <nav class="navbar dark-mode" role="navigation">
-        <div class="container">
-          <ul class="navbar__links">
+        <div class="container relative">
+          <ul class="navbar__links fixed top-6 left-[22%]">
             <li class="navbar__link first"><a><NuxtLink to="/">Accueil</NuxtLink></a></li>
             <li class="navbar__link second"><a><NuxtLink to="/principalebenin">Bénin</NuxtLink></a></li>
             <li class="navbar__link third"><a><NuxtLink to="/blog">Technologie & Sciences</NuxtLink></a></li>
@@ -266,13 +266,17 @@ body {
     background: var(--navbar-color);
     transition: width .4s;
   }
-
+  
   .navbar__link:hover > a::after {
     width: 100%;
   }
+  a {
+    /* padding-top: 5rem; */
+
+  }
 }
 
-.main-content, #section2 {
+/* .main-content, #section2 {
   height: 100vh;
-}
+} */
 </style>
