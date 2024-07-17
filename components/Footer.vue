@@ -1,6 +1,6 @@
 <template>
   <div class="">
-    <div class="copyright flex justify-center  bottom-0 text-center text-lg text-black py-4 border-2 rounded- bg-[#cbd5e1]
+    <div class="copyright flex justify-center  bottom-0 text-center text-lg text-white py-4 border-2 rounded- bg-black
     sm:right-0 sm:left-0 sm:text-center sm:mx-auto  sm:block sm:flex sm:flex-col
     md:right-0 md:left-0 md:text-center md:mx-auto  md:block md:flex md:flex-col
     lg:right-10 lg:left-10 lg:text-center lg:mx-auto  lg:block lg:flex lg:flex-col
