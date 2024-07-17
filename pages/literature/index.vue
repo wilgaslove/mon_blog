@@ -1,5 +1,7 @@
 <template>
-  <NavBlog />
+  <!-- <NavBlog /> -->
+  <NavbarreCompenent />
+
   <div>
     <ContentList path="/literature"  :query="query" >
        <template #default="{list}">
