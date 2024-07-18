@@ -5,12 +5,93 @@
 
   <div class="sm:mt-[40%]  md:mt-[20%] 
   ">
+  
+
+
   <div class="flex flex-wrap mt-[1%] mb-[10%] 
   lg:grid lg:grid-cols-2 lg:gap-0  lg:mt-[15%] lg:mx-[22%]
   xl:grid xl:grid-cols-2 xl:gap-0  xl:mt-[15%] xl:mx-[22%]
   2xl:grid 2xl:grid-cols-2 2xl:gap-0  2xl:mt-[15%] 2xl:mx-[22%]
      
     ">
+
+
+     <div>
+          <div class="
+          sm:w-[70%] sm:mx- sm:justify-center sm:mt-4 sm:bg-white
+          md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:bg-white
+          lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:bg-white
+          xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:bg-white
+          2xl:w-[90%] 2xl:mx-auto 2xl:justify-center 2xl:mt-4 2xl:bg-white
+          ">
+                
+            <a target="_blank" href="https://legendeactu.com/v1/article/406/lancement-officiel-du-livre-osez-la-purete-2">
+            <img src="assets\img\osez_la_purete.jpeg" alt="image Osez la pureté"  class="">
+            </a>
+            <p >
+                
+              <a target="_blank" href="https://legendeactu.com/v1/article/406/lancement-officiel-du-livre-osez-la-purete-2">LANCEMENT OFFICIEL DU LIVRE OSEZ LA PURETÉ.</a></p>
+          </div>
+      </div>
+
+      <div>
+                
+                <a target="_blank" href="https://www.france24.com/fr/am%C3%A9riques/20240714-un-h%C3%A9ros-hollywoodien-la-tentative-d-assassinat-de-donald-trump-va-peser-lourd-sur-la-campagne">
+                  <div class="
+                  sm:w-[70%] sm:mx- sm:justify-center sm:mt-4 sm:bg-white
+                  md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:bg-white
+                  lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:bg-white
+                  xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:bg-white
+                  2xl:w-[90%] 2xl:mx-auto 2xl:justify-center 2xl:mt-4 2xl:bg-white
+                  ">
+                    <img src="assets\img\trump.jpg" alt=""class="">
+                    <p>
+                        
+                      <a target="_blank" href="https://www.france24.com/fr/am%C3%A9riques/20240714-un-h%C3%A9ros-hollywoodien-la-tentative-d-assassinat-de-donald-trump-va-peser-lourd-sur-la-campagne">Tentative d’assassinat de Donald Trump : les violences politiques, un fléau américain</a>
+                    </p>
+                  </div>
+                </a>
+              </div>
+        
+              <div>
+                        
+                <a target="_blank" href="https://www.la-croix.com/france/assemblee-nationale-suspense-pour-la-presidence-polemique-sur-le-barrage-contre-le-rn-20240718">
+                  <div class="
+                  sm:w-[70%] sm:mx- sm:justify-center sm:mt-4 sm:bg-white
+                  md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:bg-white
+                  lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:bg-white
+                  xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:bg-white
+                  2xl:w-[90%] 2xl:mx-auto 2xl:justify-center 2xl:mt-4 2xl:bg-white
+                  ">
+                    <img src="assets\img\opposition_france.webp" alt=""class="">
+                    <p>
+                        
+                      <a target="_blank" href="https://www.la-croix.com/france/assemblee-nationale-suspense-pour-la-presidence-polemique-sur-le-barrage-contre-le-rn-20240718">Présidence de l’Assemblée : Braun-Pivet réélue, l’opposition déplore une victoire « contre nature »</a>
+                    </p>
+                  </div>
+                </a>
+              </div>
+        
+              <div>
+                        
+                <a target="_blank" href="https://fr.apanews.net/news/le-benin-repond-aux-accusations-du-burkina/">
+                  <div class="
+                  sm:w-[70%] sm:mx- sm:justify-center sm:mt-4 sm:bg-white
+                  md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:bg-white
+                  lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:bg-white
+                  xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:bg-white
+                  2xl:w-[90%] 2xl:mx-auto 2xl:justify-center 2xl:mt-4 2xl:bg-white
+                  ">
+                    <img src="assets\img\wilfried.jpg" alt=""class="image du porte parale du gourvernement béninois">
+                    <p>
+                        
+                      <a target="_blank" href="https://fr.apanews.net/news/le-benin-repond-aux-accusations-du-burkina/">Le Bénin répond aux accusations du Burkina</a>
+                    </p>
+                  </div>
+                </a>
+              </div>
+
+
     <div>
           <div class="
           sm:w-[70%] sm:mx- sm:justify-center sm:mt-4 sm:bg-white
@@ -166,62 +247,7 @@
         </a>
       </div>
 
-      <div>
-                
-        <a target="_blank" href="https://www.france24.com/fr/am%C3%A9riques/20240714-un-h%C3%A9ros-hollywoodien-la-tentative-d-assassinat-de-donald-trump-va-peser-lourd-sur-la-campagne">
-          <div class="
-          sm:w-[70%] sm:mx- sm:justify-center sm:mt-4 sm:bg-white
-          md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:bg-white
-          lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:bg-white
-          xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:bg-white
-          2xl:w-[90%] 2xl:mx-auto 2xl:justify-center 2xl:mt-4 2xl:bg-white
-          ">
-            <img src="assets\img\trump.jpg" alt=""class="">
-            <p>
-                
-              <a target="_blank" href="https://www.france24.com/fr/am%C3%A9riques/20240714-un-h%C3%A9ros-hollywoodien-la-tentative-d-assassinat-de-donald-trump-va-peser-lourd-sur-la-campagne">Tentative d’assassinat de Donald Trump : les violences politiques, un fléau américain</a>
-            </p>
-          </div>
-        </a>
-      </div>
 
-      <div>
-                
-        <a target="_blank" href="https://afrique.tv5monde.com/information/depart-des-troupes-americaines-du-niger-washington-sous-estime-la-junte">
-          <div class="
-          sm:w-[70%] sm:mx- sm:justify-center sm:mt-4 sm:bg-white
-          md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:bg-white
-          lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:bg-white
-          xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:bg-white
-          2xl:w-[90%] 2xl:mx-auto 2xl:justify-center 2xl:mt-4 2xl:bg-white
-          ">
-            <img src="assets\img\field_media_image-1401748-AP20029218125250.jpg" alt=""class="">
-            <p>
-                
-              <a target="_blank" href="https://afrique.tv5monde.com/information/depart-des-troupes-americaines-du-niger-washington-sous-estime-la-junte">La politique en France</a>
-            </p>
-          </div>
-        </a>
-      </div>
-
-      <div>
-                
-        <a target="_blank" href="https://fr.apanews.net/news/le-benin-repond-aux-accusations-du-burkina/">
-          <div class="
-          sm:w-[70%] sm:mx- sm:justify-center sm:mt-4 sm:bg-white
-          md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:bg-white
-          lg:w-[90%] lg:mx-auto lg:justify-center lg:mt-4 lg:bg-white
-          xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:bg-white
-          2xl:w-[90%] 2xl:mx-auto 2xl:justify-center 2xl:mt-4 2xl:bg-white
-          ">
-            <img src="assets\img\wilfried.jpg" alt=""class="image du porte parale du gourvernement béninois">
-            <p>
-                
-              <a target="_blank" href="https://fr.apanews.net/news/le-benin-repond-aux-accusations-du-burkina/">Le Bénin répond aux accusations du Burkina</a>
-            </p>
-          </div>
-        </a>
-      </div>
 
       <div>
                 
