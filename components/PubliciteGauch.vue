@@ -21,7 +21,7 @@
    md:w-[19%]  lg:mx-[4%]
    lg:w-[15%]  xl:ml-[6%] 
    xl:w-[15%]  xl:ml-[6%] 
-   2xl:w-[15%] 2xl:ml-[6%] 2xl:ml-[12.1%]
+   2xl:w-[15%] 2xl:ml-[6%] 2xl:ml-[20%]
    ">
       
       <div class="p-1  
