@@ -1,6 +1,5 @@
 <template>
-  <NavBlog />
-
+<NavbarreCompenent />
   <div class="bg-white taille
   sm:mt-[35%]   sm:w-[80%]  sm:mx-
   md:my-[23%]   md:w-[60%]  md:mx-auto
