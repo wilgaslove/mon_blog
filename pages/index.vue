@@ -168,7 +168,7 @@
 
       <div>
                 
-        <a target="_blank" href="https://afrique.tv5monde.com/information/niger-orano-fait-un-pas-vers-lexploitation-dun-important-gisement-duranium">
+        <a target="_blank" href="https://www.france24.com/fr/am%C3%A9riques/20240714-un-h%C3%A9ros-hollywoodien-la-tentative-d-assassinat-de-donald-trump-va-peser-lourd-sur-la-campagne">
           <div class="
           sm:w-[70%] sm:mx- sm:justify-center sm:mt-4 sm:bg-white
           md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:bg-white
@@ -176,10 +176,10 @@
           xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:bg-white
           2xl:w-[90%] 2xl:mx-auto 2xl:justify-center 2xl:mt-4 2xl:bg-white
           ">
-            <img src="assets\img\niger.jpg" alt=""class="">
+            <img src="assets\img\trump.jpg" alt=""class="">
             <p>
                 
-              <a target="_blank" href="https://afrique.tv5monde.com/information/niger-orano-fait-un-pas-vers-lexploitation-dun-important-gisement-duranium">La politique en France</a>
+              <a target="_blank" href="https://www.france24.com/fr/am%C3%A9riques/20240714-un-h%C3%A9ros-hollywoodien-la-tentative-d-assassinat-de-donald-trump-va-peser-lourd-sur-la-campagne">La politique en France</a>
             </p>
           </div>
         </a>
@@ -198,7 +198,7 @@
             <img src="assets\img\field_media_image-1401748-AP20029218125250.jpg" alt=""class="">
             <p>
                 
-              <a target="_blank" href="https://afrique.tv5monde.com/information/depart-des-troupes-americaines-du-niger-washington-sous-estime-la-junte">La politique en France</a>
+              <a target="_blank" href="https://afrique.tv5monde.com/information/depart-des-troupes-americaines-du-niger-washington-sous-estime-la-junte">Tentative d’assassinat de Donald Trump : les violences politiques, un fléau américain</a>
             </p>
           </div>
         </a>
