@@ -11,13 +11,13 @@
         <div class="container relative">
           <ul class="navbar__links fixed top-6 xl:left-[22%] 2xl:left-[22%]">
             <li class="navbar__link first"><a><NuxtLink to="/">Accueil</NuxtLink></a></li>
-            <li class="navbar__link second"><a><NuxtLink to="/principalebenin">Emploi</NuxtLink></a></li>
-            <li class="navbar__link third"><a><NuxtLink to="/blog">Politique</NuxtLink></a></li>
-            <li class="navbar__link four"><a><NuxtLink to="/politique">Finances</NuxtLink></a></li>
-            <li class="navbar__link fifth"><a><NuxtLink to="/culture">Immobilier</NuxtLink></a></li>
-            <li class="navbar__link fifth"><a><NuxtLink to="/literature">Economie</NuxtLink></a></li>
-            <li class="navbar__link fifth"><a><NuxtLink to="/histoire">Transport</NuxtLink></a></li>
-            <li class="navbar__link fifth"><a><NuxtLink to="/amour">Bénin</NuxtLink></a></li>
+            <li class="navbar__link second"><a><NuxtLink to="/benin/emploi">Emploi</NuxtLink></a></li>
+            <li class="navbar__link third"><a><NuxtLink to="/benin/politique">Politique</NuxtLink></a></li>
+            <li class="navbar__link four"><a><NuxtLink to="/benin/finance">Finances</NuxtLink></a></li>
+            <li class="navbar__link fifth"><a><NuxtLink to="/benin/immobilier">Immobilier</NuxtLink></a></li>
+            <li class="navbar__link fifth"><a><NuxtLink to="/benin/economie">Economie</NuxtLink></a></li>
+            <li class="navbar__link fifth"><a><NuxtLink to="/benin/transport">Transport</NuxtLink></a></li>
+            <li class="navbar__link fifth"><a><NuxtLink to="/benin">Bénin</NuxtLink></a></li>
           </ul>
           <button class="burger">
             <span class="bar"></span>

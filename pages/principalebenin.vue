@@ -1,7 +1,7 @@
 <template>
-       <NavbarreCompenent />
+       <!-- <NavbarreCompenent /> -->
 
-    <!-- <navBenin /> -->
+    <navBenin />
 
   <div  class="bg-white px-4 py-4 mb-[10%] smgénéral
        sm:w-[80%] sm:mx- sm: sm:justify-center sm:my-[25%] sm:bg-white
