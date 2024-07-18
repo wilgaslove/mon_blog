@@ -41,8 +41,14 @@
         </svg>
 
         </a>
-        <a  href="https://web.telegram.org/a/#6296504337" target="_blank">
-          <Icon name="logos:telegram" />
+        <a  href="https://web.telegram.org/a/#6296504337" target="_blank" class="bg-white" >
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+            <path fill="#0088CC" d="M432 128H80c-26.5 0-48 21.5-48 48v192c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V176c0-26.5-21.5-48-48-48z"/>
+            <path fill="#229ED9" d="M432 128H80c-26.5 0-48 21.5-48 48v192c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V176c0-26.5-21.5-48-48-48zM160 320H80c-17.7 0-32-14.3-32-32V176c0-17.7 14.3-32 32-32h80c17.7 0 32 14.3 32 32v112c0 17.7-14.3 32-32 32z"/>
+            <path fill="#FFFFFF" d="M320 320H240c-17.7 0-32-14.3-32-32V176c0-17.7 14.3-32 32-32h80c17.7 0 32 14.3 32 32v112c0 17.7-14.3 32-32 32zM328 200.2l-88 88-31.8-31.8L236 224l55.8-55.8L328 200.2z"/>
+          </svg>
+
+          
         </a>
         <!-- <a  href="" target="_blank">
           <Icon name="bi:twitter-x" />
