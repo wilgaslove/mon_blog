@@ -206,7 +206,7 @@
 
       <div>
                 
-        <a target="_blank" href="https://presidence.bj/actualite/comptes-rendus/342/audience-palais-marina---patrice-talon-recoit-delegation-conference-grandes-chancelleries-afrique-francophone-france">
+        <a target="_blank" href="https://fr.apanews.net/news/le-benin-repond-aux-accusations-du-burkina/">
           <div class="
           sm:w-[70%] sm:mx- sm:justify-center sm:mt-4 sm:bg-white
           md:w-[55%] md:mx-auto md:justify-center md:mt-4 md:bg-white
@@ -214,10 +214,10 @@
           xl:w-[95%] xl:mx-auto xl:justify-center xl:mt-4 xl:bg-white
           2xl:w-[90%] 2xl:mx-auto 2xl:justify-center 2xl:mt-4 2xl:bg-white
           ">
-            <img src="assets\img\837410799363001719421757.jpeg" alt=""class="">
+            <img src="assets\img\wilfried.jpg" alt=""class="image du porte parale du gourvernement béninois">
             <p>
                 
-              <a target="_blank" href="https://presidence.bj/actualite/comptes-rendus/342/audience-palais-marina---patrice-talon-recoit-delegation-conference-grandes-chancelleries-afrique-francophone-france">La politique en France</a>
+              <a target="_blank" href="https://fr.apanews.net/news/le-benin-repond-aux-accusations-du-burkina/">Le Bénin répond aux accusations du Burkina</a>
             </p>
           </div>
         </a>
