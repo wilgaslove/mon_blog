@@ -179,7 +179,7 @@
             <img src="assets\img\trump.jpg" alt=""class="">
             <p>
                 
-              <a target="_blank" href="https://www.france24.com/fr/am%C3%A9riques/20240714-un-h%C3%A9ros-hollywoodien-la-tentative-d-assassinat-de-donald-trump-va-peser-lourd-sur-la-campagne">La politique en France</a>
+              <a target="_blank" href="https://www.france24.com/fr/am%C3%A9riques/20240714-un-h%C3%A9ros-hollywoodien-la-tentative-d-assassinat-de-donald-trump-va-peser-lourd-sur-la-campagne">Tentative d’assassinat de Donald Trump : les violences politiques, un fléau américain</a>
             </p>
           </div>
         </a>
@@ -198,7 +198,7 @@
             <img src="assets\img\field_media_image-1401748-AP20029218125250.jpg" alt=""class="">
             <p>
                 
-              <a target="_blank" href="https://afrique.tv5monde.com/information/depart-des-troupes-americaines-du-niger-washington-sous-estime-la-junte">Tentative d’assassinat de Donald Trump : les violences politiques, un fléau américain</a>
+              <a target="_blank" href="https://afrique.tv5monde.com/information/depart-des-troupes-americaines-du-niger-washington-sous-estime-la-junte">La politique en France</a>
             </p>
           </div>
         </a>
