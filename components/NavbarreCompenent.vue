@@ -8,17 +8,17 @@
 
     <body>
       <nav class="navbar dark-mode" role="navigation">
-        <div class="container relative">
-          <ul class="navbar__links fixed top-6 xl:left-[22%] 2xl:left-[22%]">
-            <li class="navbar__link first"><a><NuxtLink to="/">Accueil</NuxtLink></a></li>
-            <li class="navbar__link second"><a><NuxtLink to="/principalebenin">Bénin</NuxtLink></a></li>
-            <li class="navbar__link third"><a><NuxtLink to="/blog">Technologie & Sciences</NuxtLink></a></li>
-            <li class="navbar__link four"><a><NuxtLink to="/politique">Politique</NuxtLink></a></li>
-            <li class="navbar__link fifth"><a><NuxtLink to="/culture">Culture</NuxtLink></a></li>
-            <li class="navbar__link fifth"><a><NuxtLink to="/literature">Litérature</NuxtLink></a></li>
-            <li class="navbar__link fifth"><a><NuxtLink to="/histoire">Histore & Vie</NuxtLink></a></li>
-            <li class="navbar__link fifth"><a><NuxtLink to="/amour">Amour & Conseil</NuxtLink></a></li>
-            <li class="navbar__link fifth"><a><NuxtLink to="/sport">Sport</NuxtLink></a></li>
+        <div class="container container-centered">
+          <ul class="navbar__links">
+            <li class="navbar__link first"><NuxtLink class="a" to="/">Accueil</NuxtLink></li>
+            <li class="navbar__link second"><NuxtLink class="a" to="/principalebenin">Bénin</NuxtLink></li>
+            <li class="navbar__link third"><NuxtLink class="a" to="/blog">Technologie & Sciences</NuxtLink></li>
+            <li class="navbar__link four"><NuxtLink class="a" to="/politique">Politique</NuxtLink></li>
+            <li class="navbar__link fifth"><NuxtLink class="a" to="/culture">Culture</NuxtLink></li>
+            <li class="navbar__link sixth"><NuxtLink class="a" to="/literature">Littérature</NuxtLink></li>
+            <li class="navbar__link seventh"><NuxtLink class="a" to="/histoire">Histoire & Vie</NuxtLink></li>
+            <li class="navbar__link eighth"><NuxtLink class="a" to="/amour">Amour & Conseil</NuxtLink></li>
+            <li class="navbar__link ninth"><NuxtLink class="a" to="/sport">Sport</NuxtLink></li>
           </ul>
           <button class="burger">
             <span class="bar"></span>
@@ -78,6 +78,11 @@ ul {
   margin-bottom: 2rem;
 }
 
+/* ul li {
+  width: 8rem;
+  margin-right: 1px;
+} */
+
 body {
   margin: 0;
   font-size: var(--font-size);
@@ -95,9 +100,10 @@ body {
   height: 4rem;
   position: fixed;
   top: 0;
- 
-  left: 0%;
-  width: 100%;
+  left: 0;
+  right: 12%;
+  left: 12%;
+  /* width: 100%; */
   z-index: 1000;
 }
 
@@ -105,8 +111,15 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  width: 100%;
-  max-width: 1200px;
+  width: 60%;
+}
+
+.container-centered {
+  margin-top: 30px;
+  margin-inline: auto;
+  max-width: 1000px; /* Largeur maximale du conteneur */
+  padding: 0  20px; /* Espacement interne pour éviter que le contenu ne touche les bords */
+  scroll-behavior: auto;
 }
 
 .navbar__links {
@@ -117,7 +130,7 @@ body {
   padding: 0 10px;
 }
 
-.navbar__link > a {
+.navbar__link > .a {
   color: var(--navbar-color);
   text-decoration: none;
 }
@@ -155,7 +168,7 @@ body {
     transform: translateX(0);
   }
 
-  .navbar__link > a {
+  .navbar__link > .a {
     display: block;
     padding: 0.75rem;
     font-size: 1.6rem;
@@ -163,7 +176,7 @@ body {
     transition: all .4s ease-in-out;
   }
 
-  .navbar__link > a:hover {
+  .navbar__link > .a:hover {
     padding-left: 2rem;
     letter-spacing: 5px;
   }
@@ -258,7 +271,7 @@ body {
 }
 
 @media screen and (min-width: 768px) {
-  .navbar__link > a::after {
+  .navbar__link > .a::after {
     display: block;
     content: "";
     width: 0;
@@ -267,16 +280,8 @@ body {
     transition: width .4s;
   }
   
-  .navbar__link:hover > a::after {
+  .navbar__link:hover > .a::after {
     width: 100%;
   }
-  a {
-    /* padding-top: 5rem; */
-
-  }
 }
-
-/* .main-content, #section2 {
-  height: 100vh;
-} */
 </style>
