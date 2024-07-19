@@ -9,11 +9,11 @@
     2xl:top-[7%]" style="width: 100vw;">
       <p>Wilgas ADJOVI entrepreneur, blogueur et développeur;  vous invite à rejoindre son équipe pour des aventures fabuleuses. Contact : (+229) 95-47-92-36.</p>
 
-      <p>Dr Love en promotion sur PC neufs et occasion à l'atat neuf. Contact : (+229) 95-47-92-36.</p>
+      <p>Dr Love en promotion des PC neufs et occasion à l'état neuf. Contact : (+229) 95-47-92-36.</p>
 
       <p>Highfive University est l'une des meilleures écoles de codage au Bénin, formant les élites d'aujourd'hui et de demain ! Rejoignez-nous pour un avenir garanti. Contact : highfiveuniversity.bj/Contact</p>
 
-      <p>Prochaine session, les inscriptions: 1er juillet 2024. Date de démarrage du concours : 15 août 2024.</p>
+      <p>Prochaine session, les inscriptions: 15 juillet 2024. Date de démarrage du concours : 15 août 2024.</p>
       
       <p>Vente flash d'ordinateurs neufs chez le groupe Soldat-du-Christ du 1er au 15 juillet 2024. Contact : (+229) 95-47-92-36.</p>
 
