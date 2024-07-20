@@ -9,16 +9,16 @@
     <body>
       <nav class="navbar dark-mode" role="navigation">
         <div class="container container-centered">
-          <ul class="navbar__links fixed top-6 xl:left-[22%] 2xl:left-[22%]">
-            <li class="navbar__link first"><a><NuxtLink to="/">Accueil</NuxtLink></a></li>
-            <li class="navbar__link second"><a><NuxtLink to="principalebenin">Bénin</NuxtLink></a></li>
-            <li class="navbar__link third"><a><NuxtLink to="/blog">Technologie & Sciences</NuxtLink></a></li>
-            <li class="navbar__link four"><a><NuxtLink to="/politique">Politique</NuxtLink></a></li>
-            <li class="navbar__link fifth"><a><NuxtLink to="/culture">Culture</NuxtLink></a></li>
-            <li class="navbar__link six"><a><NuxtLink to="/literature">Littérature</NuxtLink></a></li>
-            <li class="navbar__link seven"><a><NuxtLink to="/histoire">Histoire & Vie</NuxtLink></a></li>
-            <li class="navbar__link eight"><a><NuxtLink to="/amour">Amour & Conseil</NuxtLink></a></li>
-            <li class="navbar__link nine"><a><NuxtLink to="/sport">Sport</NuxtLink></a></li>
+          <ul class="navbar__links">
+            <li class="navbar__link first"><NuxtLink class="navbarre" to="/">Accueil</NuxtLink></li>
+            <li class="navbar__link second"><NuxtLink class="navbarre" to="/principalebenin">Bénin</NuxtLink></li>
+            <li class="navbar__link third"><NuxtLink class="navbarre" to="/blog">Technologie & Sciences</NuxtLink></li>
+            <li class="navbar__link four"><NuxtLink class="navbarre" to="/politique">Politique</NuxtLink></li>
+            <li class="navbar__link fifth"><NuxtLink class="navbarre" to="/culture">Culture</NuxtLink></li>
+            <li class="navbar__link sixth"><NuxtLink class="navbarre" to="/literature">Littérature</NuxtLink></li>
+            <li class="navbar__link seventh"><NuxtLink class="navbarre" to="/histoire">Histoire & Vie</NuxtLink></li>
+            <li class="navbar__link eighth"><NuxtLink class="navbarre" to="/amour">Amour & Conseil</NuxtLink></li>
+            <li class="navbar__link ninth"><NuxtLink class="navbarre" to="/sport">Sport</NuxtLink></li>
           </ul>
           <button class="burger ">
             <span class="bar "></span>

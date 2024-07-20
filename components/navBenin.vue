@@ -17,7 +17,7 @@
             <li class="navbar__link fifth"><a><NuxtLink to="/benin/immobilier">Immobilier</NuxtLink></a></li>
             <li class="navbar__link fifth"><a><NuxtLink to="/benin/economie">Economie</NuxtLink></a></li>
             <li class="navbar__link fifth"><a><NuxtLink to="/benin/transport">Transport</NuxtLink></a></li>
-            <li class="navbar__link fifth"><a><NuxtLink to="/benin">Bénin</NuxtLink></a></li>
+            <li class="navbar__link fifth"><a><NuxtLink to="/principalebenin">Bénin</NuxtLink></a></li>
           </ul>
           <button class="burger">
             <span class="bar"></span>
@@ -270,13 +270,5 @@ body {
   .navbar__link:hover > a::after {
     width: 100%;
   }
-  a {
-    /* padding-top: 5rem; */
-
-  }
 }
-
-/* .main-content, #section2 {
-  height: 100vh;
-} */
 </style>
