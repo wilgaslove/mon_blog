@@ -9,17 +9,20 @@
     <body>
       <nav class="navbar dark-mode" role="navigation">
         <div class="container container-centered">
-          <ul class="navbar__links fixed top-6 xl:left-[22%] 2xl:left-[22%]">
-            <li class="navbar__link first"><a><NuxtLink to="/">Accueil</NuxtLink></a></li>
-            <li class="navbar__link second"><a><NuxtLink to="principalebenin">Bénin</NuxtLink></a></li>
-            <li class="navbar__link third"><a><NuxtLink to="/blog">Technologie & Sciences</NuxtLink></a></li>
-            <li class="navbar__link four"><a><NuxtLink to="/politique">Politique</NuxtLink></a></li>
-            <li class="navbar__link fifth"><a><NuxtLink to="/culture">Culture</NuxtLink></a></li>
-            <li class="navbar__link six"><a><NuxtLink to="/literature">Littérature</NuxtLink></a></li>
-            <li class="navbar__link seven"><a><NuxtLink to="/histoire">Histoire & Vie</NuxtLink></a></li>
-            <li class="navbar__link eight"><a><NuxtLink to="/amour">Amour & Conseil</NuxtLink></a></li>
-            <li class="navbar__link nine"><a><NuxtLink to="/sport">Sport</NuxtLink></a></li>
-          </ul>
+          <ul class="navbar__links fixed top-6
+          lg:left-[2%] lg:overflow-auto touch-auto lg:touch-auto 
+
+           xl:left-[10%] 2xl:left-[22%]">
+           <li class="navbar__link first"><a class="navbarre"><NuxtLink to="/">Accueil</NuxtLink></a></li>
+           <li class="navbar__link second"><a class="navbarre"><NuxtLink to="principalebenin">Bénin</NuxtLink></a></li>
+           <li class="navbar__link third"><a class="navbarre"><NuxtLink to="/blog">Technologie & Sciences</NuxtLink></a></li>
+           <li class="navbar__link four"><a class="navbarre"><NuxtLink to="/politique">Politique</NuxtLink></a></li>
+           <li class="navbar__link fifth"><a class="navbarre"><NuxtLink to="/culture">Culture</NuxtLink></a></li>
+           <li class="navbar__link six"><a class="navbarre"><NuxtLink to="/literature">Littérature</NuxtLink></a></li>
+           <li class="navbar__link seven"><a class="navbarre"><NuxtLink to="/histoire">Histoire & Vie</NuxtLink></a></li>
+           <li class="navbar__link eight"><a class="navbarre"><NuxtLink to="/amour">Amour & Conseil</NuxtLink></a></li>
+           <li class="navbar__link nine"><a class="navbarre"><NuxtLink to="/sport">Sport</NuxtLink></a></li>
+         </ul>
           <button class="burger ">
             <span class="bar "></span>
           </button>
@@ -420,6 +423,7 @@ body {
   .navbar__link:hover > .navbarre::after {
     width: 100%;
   }
+  
 }
 
 /* Styles pour les écrans très larges (xl) */
@@ -435,6 +439,25 @@ body {
   
   .navbar__link:hover > .navbarre::after {
     width: 100%;
+  }
+
+    .scrollbar {
+    scrollbar-width: thin;
+    scrollbar-color: #888 #f0f0f0;
+  }
+
+  .scrollbar::-webkit-scrollbar {
+    height: 8px;
+  }
+
+  .scrollbar::-webkit-scrollbar-track {
+    background: #f0f0f0;
+  }
+
+  .scrollbar::-webkit-scrollbar-thumb {
+    background-color: #888;
+    border-radius: 10px;
+    border: 2px solid #f0f0f0;
   }
 }
 
