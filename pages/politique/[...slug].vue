@@ -1,7 +1,6 @@
 <template>
 
-  <!-- <NavBlog /> -->
-  <NavbarreCompenent />
+  <NavbarreComponent />
 
   <div class="mt-[15%]  rounded-2xl
   sm:mt-[30%] sm:mr-[15%] 
@@ -33,6 +32,8 @@
 </template>
 
 <script lang="ts" setup>
+import NavbarreComponent from '~/components/NavbarreComponent.vue';
+
 const route = useRoute();
 
 const path = useRoute().fullPath ;
