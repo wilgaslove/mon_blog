@@ -1,6 +1,5 @@
 <template>
-  <!-- <NavBlog /> -->
-  <NavbarreCompenent />
+  <NavbarreComponent />
 
   <div>
     <ContentList path="/culture"  :query="query" >
