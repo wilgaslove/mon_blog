@@ -1,5 +1,4 @@
 <template>
-       <!-- <NavbarreCompenent /> -->
 
     <navBenin />
 
