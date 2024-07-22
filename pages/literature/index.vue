@@ -1,6 +1,5 @@
 <template>
-  <!-- <NavBlog /> -->
-  <NavbarreCompenent />
+  <NavbarreComponent />
 
   <div>
     <ContentList path="/literature"  :query="query" >
