@@ -1,7 +1,7 @@
 <template>
   <NavBenin /> 
   <div >
-    <ContentList path="/benin" >
+    <ContentList path="/benin" :query="query">
       <template #default="{list}">
         <div class="mar_top 
        
@@ -43,14 +43,13 @@
  
 
 <script lang="ts" setup>
-// import type { QueryBuilderParams } from '@nuxt/content/dist/runtime/types'
-
+import type { QueryBuilderParams } from '@nuxt/content/dist/runtime/types'
 import { useDateFormat } from '@vueuse/core'
 
-// const query: QueryBuilderParams = {
-//   path: '/benin',
-//   sort: [{date: -1}]
-// }
+const query: QueryBuilderParams = {
+  path: '/benin',
+  sort: [{date: -1}]
+}
 
 function formatDate(date:string) {
   return useDateFormat(date, "YYYY-MM-DD");

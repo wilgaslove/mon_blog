@@ -33,5 +33,13 @@
 </script>
 
 <style>
-
+.willy {
+  /* @apply w-full h-[50%] */
+}
+.taille h1 {
+  @apply text-[2rem] text-center font-bold
+}
+.taille p {
+  @apply text-[1rem] p-2 font-bold
+}
 </style>
