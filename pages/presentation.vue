@@ -33,10 +33,5 @@
 </script>
 
 <style>
-.taille h1 {
-  @apply text-[2rem] text-center font-bold
-}
-.taille p {
-  @apply text-[1rem] p-2 font-bold
-}
+
 </style>

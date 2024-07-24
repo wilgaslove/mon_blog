@@ -70,12 +70,5 @@ font-size: 1.5em;
 font-weight: bold;
 }
 
-.smgénéral h2 {
-@apply sm:text-[1.20rem]
-}
-
-.smgénéral h3 {
-@apply sm:text-[1rem]
-}
 
 </style>

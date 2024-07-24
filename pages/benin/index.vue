@@ -44,6 +44,7 @@
 
 <script lang="ts" setup>
 // import type { QueryBuilderParams } from '@nuxt/content/dist/runtime/types'
+
 import { useDateFormat } from '@vueuse/core'
 
 // const query: QueryBuilderParams = {
