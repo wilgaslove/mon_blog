@@ -1,6 +1,7 @@
 <template>
   <div>
-    
+    <BarreDefillante />
+
     <slot />
   </div>
 </template>
