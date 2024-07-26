@@ -5,6 +5,10 @@ export default defineNuxtConfig({
   // Assurez-vous que SSR (Server-Side Rendering) est activé si nécessaire
   ssr: true,
 
+  nitro: {
+    preset: 'render' 
+  },
+
   tailwindcss: {
     configPath: "tailwind.config.ts"
   },
@@ -23,10 +27,6 @@ export default defineNuxtConfig({
     "@nuxt/icon",
     "@formkit/auto-animate"
   ],
-
-  nitro: {
-    preset: 'render' // Assurez-vous que Nitro est configuré pour Render
-  },
 
   compatibilityDate: "2024-07-26"
 })

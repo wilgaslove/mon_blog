@@ -28,5 +28,4 @@ export default defineNuxtConfig({
     preset: 'render' // Assurez-vous que Nitro est configuré pour Render
   },
 
-  compatibilityDate: "2024-07-26"
 })
