@@ -6,7 +6,11 @@ export default defineNuxtConfig({
   ssr: true,
 
   nitro: {
-    preset: 'render' 
+    preset: 'render',
+    output: {
+      dir: '.output',
+      publicDir: 'public'
+    }
   },
 
   tailwindcss: {
