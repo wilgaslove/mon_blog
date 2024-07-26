@@ -3,15 +3,15 @@
 // https://v3.nuxtjs.org/docs/directory-structure/nuxt.config
 export default defineNuxtConfig({
   // Assurez-vous que SSR (Server-Side Rendering) est activé si nécessaire
-  ssr: true,
+  // ssr: true,
 
-  nitro: {
-    preset: 'render',
-    output: {
-      dir: '.output',
-      publicDir: 'public'
-    }
-  },
+  // nitro: {
+  //   preset: 'render',
+  //   output: {
+  //     dir: '.output',
+  //     publicDir: 'public'
+  //   }
+  // },
 
   tailwindcss: {
     configPath: "tailwind.config.ts"
