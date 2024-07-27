@@ -2,6 +2,7 @@
   <div>
     <BarreDefillante />
     <NavBenin />
+    <NavbarreComponent />
     <slot />
   </div>
   <Footer />
