@@ -3,7 +3,7 @@
     
     <body>
       <nav class="navbar dark-mode" role="navigation">
-        <div class="container container-centered">
+        <div class="container container-centered ">
           <ul class="navbar__links fixed top-6 lg:left-[2%] lg:overflow-auto xl:left-[10%] 2xl:left-[22%]">
             <li class="navbar__link first"><a class="navbarre"><NuxtLink to="/">Accueil</NuxtLink></a></li>
             <li class="navbar__link second"><a class="navbarre"><NuxtLink to="principalebenin">Bénin</NuxtLink></a></li>
@@ -59,7 +59,7 @@ onMounted(() => {
 
 .dark-mode {
   --navbar-color: #FFF;
-  --navbar-bg-color: #000;
+  /* --navbar-bg-color: #000; */
 }
 
 * {
