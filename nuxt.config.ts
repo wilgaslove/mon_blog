@@ -1,36 +1,6 @@
-// import { defineNuxtConfig } from 'nuxt'
-
-// https://v3.nuxtjs.org/docs/directory-structure/nuxt.config
+// https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-  // Assurez-vous que SSR (Server-Side Rendering) est activé si nécessaire
-  // ssr: true,
-
-  // nitro: {
-  //   preset: 'render',
-  //   output: {
-  //     dir: '.output',
-  //     publicDir: 'public'
-  //   }
-  // },
-
-  tailwindcss: {
-    configPath: "tailwind.config.ts"
-  },
-
-  css: [
-    "/assets/css/custom.css"
-  ],
-
+  compatibilityDate: '2024-04-03',
   devtools: { enabled: true },
-
-  modules: [
-    "@nuxt/content",
-    "@nuxtjs/tailwindcss",
-    "@vueuse/nuxt",
-    "nuxt-marquee",
-    "@nuxt/icon",
-    "@formkit/auto-animate"
-  ],
-
-  compatibilityDate: "2024-07-26"
+  modules: ["@nuxt/content", "@nuxtjs/tailwindcss"]
 })
