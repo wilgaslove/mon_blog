@@ -1,4 +1,4 @@
-<!-- <template>
+<template>
 
   <div class="">
     <div class="copyright flex justify-center  bottom-0 text-center text-lg text-white py-4 border-2 rounded- bg-black
@@ -82,4 +82,4 @@
 margin-inline: 8px;
 }
 
-</style> -->
+</style>
