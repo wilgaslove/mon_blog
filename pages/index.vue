@@ -1,5 +1,5 @@
 <template>
-  <!-- <NavbarreComponent /> -->
+  <NavbarreComponent />
    
  
    <div class="
