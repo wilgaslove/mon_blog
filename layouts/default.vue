@@ -1,11 +1,11 @@
 <template>
   <div>
-    <BarreDefillante />
+    <!-- <BarreDefillante />
     <NavBenin />
-    <NavbarreComponent />
+    <NavbarreComponent /> -->
     <slot />
   </div>
-  <Footer />
+  <!-- <Footer /> -->
 </template>
 
 <script lang="ts" setup>

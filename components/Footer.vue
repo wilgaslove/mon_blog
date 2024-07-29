@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
 
   <div class="">
     <div class="copyright flex justify-center  bottom-0 text-center text-lg text-white py-4 border-2 rounded- bg-black
@@ -20,8 +20,7 @@
 
       <a  href="/presentation"  class="animate-spin-slow ">
        <svg width="25" height="25" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000000">
-       <!-- <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
-       <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g> -->
+      
        <g id="SVGRepo_iconCarrier">
           
         
@@ -63,9 +62,7 @@
         </a>
 
 
-        <!-- <a  href="" target="_blank">
-          <Icon name="bi:twitter-x" />
-        </a> -->
+        
       </wilgas>
       <span class="mr-4">&copy; {{ new Date().getFullYear() }} Groupe Soldats_du_Christ| Tous droits réservés.</span>
 
@@ -85,4 +82,4 @@
 margin-inline: 8px;
 }
 
-</style>
+</style> -->
