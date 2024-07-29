@@ -90,6 +90,4 @@ const path = useRoute().fullPath ;
 .lien {
   color: blue
 }
-
-
 </style>
