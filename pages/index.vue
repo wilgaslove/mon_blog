@@ -1,6 +1,5 @@
 <template>
-  <NavbarreComponent />
-   
+<NavbarreComponent />   
  
    <div class="
    ">
@@ -371,6 +370,8 @@
  </template>
  
  <script lang="ts" setup>
+import NavbarreComponent from '~/components/NavbarreComponent.vue';
+
  
  
  
