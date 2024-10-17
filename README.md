@@ -76,4 +76,4 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 
 - Ramenez le projet au point
 - Diviser le projet
-- 
+- Les mis ajour
