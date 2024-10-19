@@ -10,9 +10,6 @@ Make sure to install the dependencies:
 # npm
 npm install
 
-# pnpm
-pnpm install
-
 
 
 # bun
