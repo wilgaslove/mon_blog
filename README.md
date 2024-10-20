@@ -24,8 +24,6 @@ Start the development server on `http://localhost:3000`:
 # npm
 npm run dev
 
-# pnpm
-pnpm run dev
 
 # yarn
 yarn dev
