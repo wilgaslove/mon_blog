@@ -38,8 +38,6 @@ Build the application for production:
 # npm
 npm run build
 
-# pnpm
-pnpm run build
 
 
 # bun
